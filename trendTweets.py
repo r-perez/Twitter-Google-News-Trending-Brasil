@@ -23,6 +23,9 @@ api = tweepy.API(auth, wait_on_rate_limit=True, wait_on_rate_limit_notify=True, 
 
 hashtagsArray = []
 tweetsArray = []
+urlArray = []
+usermentionsArray = []
+hashtagsusedArray = []
 
 #Script funcions below
 
@@ -50,13 +53,30 @@ def getTweets(hashtagsArray):
                 json.dump(item._json, f, indent=4)
     return tweetsArray
 
-def parseUrls(tweets):
+def parseUrls(tweets,urlArray):
     
-    for entities in tweets:
-        print(entities)
+    for element in tweets['entities']:
+        urlArray.append(element['urls'])
+    return urlArray
+
+def parseUsersMentions(tweets,usermentionsArray):
+
+    for element in tweets['entities']:
+        usermentionsArray.append(element['user_mentions']['screen_name'])
+    return usermentionsArray
+
+
+def parseHashtags(tweets,hashtagsusedArray):
+
+    for element in tweets['entities']:
+        hashtagsusedArray.append(element['hashtags']['text'])
+    return hashtagsusedArray
 
 trends = getTrends(api)
-hashtags = getHashtags(trends, hashtagsArray)
-tweets = getTweets(hashtags)
+hashtagsTrend = getHashtags(trends, hashtagsArray)
+tweets = getTweets(hashtagsTrend)
+urls = parseUrls(tweets, urlArray)
+userMentions = parseUsersMentions(tweets, usermentionsArray)
+hashtagsUsed = parseHashtags(tweets, hashtagsusedArray)
 
 parseUrls(tweets)
