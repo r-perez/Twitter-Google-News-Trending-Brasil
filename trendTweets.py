@@ -6,6 +6,8 @@ except ImportError:
 
 # Import the tweepy library
 import tweepy
+# import counter class from collections module 
+from collections import Counter 
 
 # Variables that contains the user credentials to access Twitter API 
 ACCESS_TOKEN = '928002030-RadYSeIbxgGaI2zhvizIqWu0s5cRsK3oe4A0DPZd'
@@ -54,16 +56,22 @@ def getTweets(hashtagsArray):
     return tweetsArray
 
 def parseUrls(tweets,urlArray):
-    
+    cnt = Counter()
+
     for element in tweets['entities']:
         urlArray.append(element['urls'])
-    return urlArray
+    for word in urlArray:
+        cnt[word] += 1
+    return urlArray, cnt
 
 def parseUsersMentions(tweets,usermentionsArray):
-
+#Trying to count elements from the arrays
+    cnt = Counter()
     for element in tweets['entities']:
         usermentionsArray.append(element['user_mentions']['screen_name'])
-    return usermentionsArray
+    for each in usermentionsArray:
+        cnt[each] += 1
+    return usermentionsArray, cnt #need to return only the cnt
 
 
 def parseHashtags(tweets,hashtagsusedArray):
