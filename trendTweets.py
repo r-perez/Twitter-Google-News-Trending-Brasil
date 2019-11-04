@@ -55,6 +55,20 @@ def getTweets(hashtagsArray):
                 json.dump(item._json, f, indent=4)
     return tweetsArray
 
+def transformJson():
+    with open('tweets.json', 'r') as f:
+        data = f.read()
+        newdata = data.replace('}{', '},{')
+        jsondata = json.loads(f'[{newdata}]')
+        with open('newtweets.json', 'w') as y:
+            json.dump(jsondata, y, indent=4)
+
+def getInfofromFile():
+    with open('newtweets.json') as f:
+        data = json.load(f)
+        for element in data[0]['entities']['hashtags']:
+            print(element)
+
 def parseUrls(tweets,urlArray):
     cnt = Counter()
 
@@ -71,7 +85,7 @@ def parseUsersMentions(tweets,usermentionsArray):
         usermentionsArray.append(element['user_mentions']['screen_name'])
     for each in usermentionsArray:
         cnt[each] += 1
-    return usermentionsArray, cnt #need to return only the cnt
+    return cnt #need to return only the cnt
 
 
 def parseHashtags(tweets,hashtagsusedArray):
@@ -80,11 +94,12 @@ def parseHashtags(tweets,hashtagsusedArray):
         hashtagsusedArray.append(element['hashtags']['text'])
     return hashtagsusedArray
 
-trends = getTrends(api)
-hashtagsTrend = getHashtags(trends, hashtagsArray)
-tweets = getTweets(hashtagsTrend)
-urls = parseUrls(tweets, urlArray)
-userMentions = parseUsersMentions(tweets, usermentionsArray)
-hashtagsUsed = parseHashtags(tweets, hashtagsusedArray)
+#trends = getTrends(api)
+#hashtagsTrend = getHashtags(trends, hashtagsArray)
+#tweets = getTweets(hashtagsTrend)
+#urls = parseUrls(tweets, urlArray)
+#userMentions = parseUsersMentions(tweets, usermentionsArray)
+#hashtagsUsed = parseHashtags(tweets, hashtagsusedArray)
 
-parseUrls(tweets)
+transformJson()
+getInfofromFile()
