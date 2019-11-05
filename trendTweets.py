@@ -38,9 +38,9 @@ def getTrends(api):
         json.dump(trendsBrasil,f,indent=4)
     return trendsBrasil
 
-def getHashtags(trendsBrasil,hashtagsArray):
+def getHashtags(getTrends,hashtagsArray):
     # Populate the hashtagsArray with the 'name' field of the trend info
-    for element in trendsBrasil[0]['trends']:
+    for element in getTrends[0]['trends']:
         hashtagsArray.append(element['name'])
     return hashtagsArray
 
@@ -56,6 +56,7 @@ def getTweets(hashtagsArray):
     return tweetsArray
 
 def transformJson():
+    # Convert json dictionary in array of dictionaries
     with open('tweets.json', 'r') as f:
         data = f.read()
         newdata = data.replace('}{', '},{')
@@ -63,43 +64,66 @@ def transformJson():
         with open('newtweets.json', 'w') as y:
             json.dump(jsondata, y, indent=4)
 
-def getInfofromFile():
+def parseHashtags():
+    # Count method - ref: https://www.w3schools.com/python/ref_list_count.asp
+    counter = Counter()
+    newhashtags = []    
     with open('newtweets.json') as f:
         data = json.load(f)
-        for element in data[0]['entities']['hashtags']:
-            print(element)
+    # For each element of data, being data the json loaded
+        for element in data:
+    # Runs through hashtags vectors and store the info in an array called hashtags        
+            hashtags = (element['entities']['hashtags'])
+    # For each element of hashtgs, for each pair item (key and value), if the key is 'text', ident count[value] 
+            for each in hashtags:
+                for key, value in each.items():
+                    if key == 'text':
+                        counter[value] += 1
+    return counter
 
-def parseUrls(tweets,urlArray):
-    cnt = Counter()
+def parseUrls():
+    # Count method - ref: https://www.w3schools.com/python/ref_list_count.asp
+    counter = Counter()
+    newhashtags = []    
+    with open('newtweets.json') as f:
+        data = json.load(f)
+    # For each element of data, being data the json loaded
+        for element in data:
+    # Runs through hashtags vectors and store the info in an array called hashtags        
+            urls = (element['entities']['urls'])
+    # For each element of hashtgs, for each pair item (key and value), if the key is 'text', ident count[value] 
+            for each in urls:
+                for key, value in each.items():
+                    if key == 'expanded_url':
+                        counter[value] += 1
+    return counter
 
-    for element in tweets['entities']:
-        urlArray.append(element['urls'])
-    for word in urlArray:
-        cnt[word] += 1
-    return urlArray, cnt
+def parseUsersMentions():
+    # Count method - ref: https://www.w3schools.com/python/ref_list_count.asp
+    counter = Counter()
+    newhashtags = []    
+    with open('newtweets.json') as f:
+        data = json.load(f)
+    # For each element of data, being data the json loaded
+        for element in data:
+    # Runs through hashtags vectors and store the info in an array called hashtags        
+            user_mentions = (element['entities']['user_mentions'])
+    # For each element of hashtgs, for each pair item (key and value), if the key is 'text', ident count[value] 
+            for each in user_mentions:
+                for key, value in each.items():
+                    if key == 'screen_name':
+                        counter[value] += 1
+    return counter
 
-def parseUsersMentions(tweets,usermentionsArray):
-#Trying to count elements from the arrays
-    cnt = Counter()
-    for element in tweets['entities']:
-        usermentionsArray.append(element['user_mentions']['screen_name'])
-    for each in usermentionsArray:
-        cnt[each] += 1
-    return cnt #need to return only the cnt
 
-
-def parseHashtags(tweets,hashtagsusedArray):
-
-    for element in tweets['entities']:
-        hashtagsusedArray.append(element['hashtags']['text'])
-    return hashtagsusedArray
-
-#trends = getTrends(api)
-#hashtagsTrend = getHashtags(trends, hashtagsArray)
-#tweets = getTweets(hashtagsTrend)
+trends = getTrends(api)
+hashtagsTrend = getHashtags(trends, hashtagsArray)
+tweets = getTweets(hashtagsTrend)
 #urls = parseUrls(tweets, urlArray)
 #userMentions = parseUsersMentions(tweets, usermentionsArray)
 #hashtagsUsed = parseHashtags(tweets, hashtagsusedArray)
 
-transformJson()
-getInfofromFile()
+#transformJson()
+#print (parseHashtags())
+#print(parseUrls())
+print (parseUsersMentions())
