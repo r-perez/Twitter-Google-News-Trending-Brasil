@@ -8,6 +8,9 @@ except ImportError:
 import tweepy
 # import counter class from collections module 
 from collections import Counter 
+# import time
+import time
+timestr = time.strftime("%Y%m%d-%H")
 
 # Variables that contains the user credentials to access Twitter API 
 ACCESS_TOKEN = '928002030-RadYSeIbxgGaI2zhvizIqWu0s5cRsK3oe4A0DPZd'
@@ -33,7 +36,7 @@ hashtagsusedArray = []
 
 def getTrends(api):
     # Open a file called trends.json and parsing to insert the trending info
-    with open('trends-6-11.json','w') as f:
+    with open('./hashtags/' + timestr + '.json','w') as f:
         trendsBrasil = api.trends_place(id =23424768)
         json.dump(trendsBrasil,f,indent=4)
     return trendsBrasil
@@ -46,7 +49,7 @@ def getHashtags(getTrends,hashtagsArray):
 
 def getTweets(hashtagsArray):
     # Open a file called tweets.json, parsing, and for each element of the hashtagsArray do the research
-    with open('tweets-6-11.json','w') as f:
+    with open('./tweets/' + timestr + '.json','w') as f:
         for element in hashtagsArray:
             tweets = tweepy.Cursor(api.search, q=element, count=10)
     # Doing two copies of the tweets info. One copy for json file and one for variable array inside the script

@@ -1,20 +1,14 @@
 import json
 import tweepy
+import time
+from collections import Counter 
 
-
-def transformJson():
-    # Convert json dictionary in array of dictionaries
-    with open('tweets.json', 'r') as f:
-        data = f.read()
-        newdata = data.replace('}{', '},{')
-        jsondata = json.loads(f'[{newdata}]')
-        with open('newtweets.json', 'w') as y:
-            json.dump(jsondata, y, indent=4)
+timestr = time.strftime("%Y%m%d-%H")
 
 def parseHashtags():
     # Count method - ref: https://www.w3schools.com/python/ref_list_count.asp
     counter = Counter()
-    with open('newtweets.json') as f:
+    with open('./tweets/transformed/' + timestr + '.json') as f:
         data = json.load(f)
     # For each element of data, being data the json loaded
         for element in data:
@@ -25,13 +19,16 @@ def parseHashtags():
                 for key, value in each.items():
                     if key == 'text':
                         counter[value] += 1
+    
+    with open('./parsedData/hashtags/'+ timestr + '.json', 'w', encoding='utf-8') as parsed:
+        parsed.write(str(counter))
+
     return counter
 
 def parseUrls():
     # Count method - ref: https://www.w3schools.com/python/ref_list_count.asp
     counter = Counter()
-    newhashtags = []    
-    with open('newtweets.json') as f:
+    with open('./tweets/transformed/' + timestr + '.json') as f:
         data = json.load(f)
     # For each element of data, being data the json loaded
         for element in data:
@@ -42,13 +39,16 @@ def parseUrls():
                 for key, value in each.items():
                     if key == 'expanded_url':
                         counter[value] += 1
+    
+    with open('./parsedData/urls/'+ timestr + '.json', 'w', encoding='utf-8') as parsed:
+        parsed.write(str(counter))
+    
     return counter
 
 def parseUsersMentions():
     # Count method - ref: https://www.w3schools.com/python/ref_list_count.asp
     counter = Counter()
-    newhashtags = []    
-    with open('newtweets.json') as f:
+    with open('./tweets/transformed/' + timestr + '.json') as f:
         data = json.load(f)
     # For each element of data, being data the json loaded
         for element in data:
@@ -59,4 +59,12 @@ def parseUsersMentions():
                 for key, value in each.items():
                     if key == 'screen_name':
                         counter[value] += 1
+    
+    with open('./parsedData/mentions/'+ timestr + '.json', 'w', encoding='utf-8') as parsed:
+        parsed.write(str(counter))
+    
     return counter
+
+parseHashtags()
+parseUrls()
+parseUsersMentions()
