@@ -1,0 +1,364 @@
+[
+    {
+        "trends": [
+            {
+                "name": "#FFPL",
+                "url": "http://twitter.com/search?q=%23FFPL",
+                "promoted_content": null,
+                "query": "%23FFPL",
+                "tweet_volume": null
+            },
+            {
+                "name": "Leon",
+                "url": "http://twitter.com/search?q=Leon",
+                "promoted_content": null,
+                "query": "Leon",
+                "tweet_volume": 99599
+            },
+            {
+                "name": "#LulaTaLivreBabaca",
+                "url": "http://twitter.com/search?q=%23LulaTaLivreBabaca",
+                "promoted_content": null,
+                "query": "%23LulaTaLivreBabaca",
+                "tweet_volume": 12189
+            },
+            {
+                "name": "#MonbebeUnitedForChange",
+                "url": "http://twitter.com/search?q=%23MonbebeUnitedForChange",
+                "promoted_content": null,
+                "query": "%23MonbebeUnitedForChange",
+                "tweet_volume": 169496
+            },
+            {
+                "name": "Huck",
+                "url": "http://twitter.com/search?q=Huck",
+                "promoted_content": null,
+                "query": "Huck",
+                "tweet_volume": 18858
+            },
+            {
+                "name": "#SpringDay1000Days",
+                "url": "http://twitter.com/search?q=%23SpringDay1000Days",
+                "promoted_content": null,
+                "query": "%23SpringDay1000Days",
+                "tweet_volume": 496769
+            },
+            {
+                "name": "Havana",
+                "url": "http://twitter.com/search?q=Havana",
+                "promoted_content": null,
+                "query": "Havana",
+                "tweet_volume": 41222
+            },
+            {
+                "name": "#ondaproenem",
+                "url": "http://twitter.com/search?q=%23ondaproenem",
+                "promoted_content": null,
+                "query": "%23ondaproenem",
+                "tweet_volume": null
+            },
+            {
+                "name": "Pro League",
+                "url": "http://twitter.com/search?q=%22Pro+League%22",
+                "promoted_content": null,
+                "query": "%22Pro+League%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Metal\u00fargicos",
+                "url": "http://twitter.com/search?q=Metal%C3%BArgicos",
+                "promoted_content": null,
+                "query": "Metal%C3%BArgicos",
+                "tweet_volume": 22166
+            },
+            {
+                "name": "boteco da paulinha",
+                "url": "http://twitter.com/search?q=%22boteco+da+paulinha%22",
+                "promoted_content": null,
+                "query": "%22boteco+da+paulinha%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Jatinho",
+                "url": "http://twitter.com/search?q=Jatinho",
+                "promoted_content": null,
+                "query": "Jatinho",
+                "tweet_volume": 17621
+            },
+            {
+                "name": "BNDS",
+                "url": "http://twitter.com/search?q=BNDS",
+                "promoted_content": null,
+                "query": "BNDS",
+                "tweet_volume": null
+            },
+            {
+                "name": "Lucas V\u00e1zquez",
+                "url": "http://twitter.com/search?q=%22Lucas+V%C3%A1zquez%22",
+                "promoted_content": null,
+                "query": "%22Lucas+V%C3%A1zquez%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Matheus Ferraz",
+                "url": "http://twitter.com/search?q=%22Matheus+Ferraz%22",
+                "promoted_content": null,
+                "query": "%22Matheus+Ferraz%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Dirceu",
+                "url": "http://twitter.com/search?q=Dirceu",
+                "promoted_content": null,
+                "query": "Dirceu",
+                "tweet_volume": 83480
+            },
+            {
+                "name": "Muro de Berlim",
+                "url": "http://twitter.com/search?q=%22Muro+de+Berlim%22",
+                "promoted_content": null,
+                "query": "%22Muro+de+Berlim%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Quebrando o Tabu",
+                "url": "http://twitter.com/search?q=%22Quebrando+o+Tabu%22",
+                "promoted_content": null,
+                "query": "%22Quebrando+o+Tabu%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Sorin",
+                "url": "http://twitter.com/search?q=Sorin",
+                "promoted_content": null,
+                "query": "Sorin",
+                "tweet_volume": null
+            },
+            {
+                "name": "Em 9",
+                "url": "http://twitter.com/search?q=%22Em+9%22",
+                "promoted_content": null,
+                "query": "%22Em+9%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Lampard",
+                "url": "http://twitter.com/search?q=Lampard",
+                "promoted_content": null,
+                "query": "Lampard",
+                "tweet_volume": 33911
+            },
+            {
+                "name": "O P\u00e9ricles",
+                "url": "http://twitter.com/search?q=%22O+P%C3%A9ricles%22",
+                "promoted_content": null,
+                "query": "%22O+P%C3%A9ricles%22",
+                "tweet_volume": 33222
+            },
+            {
+                "name": "Alugado",
+                "url": "http://twitter.com/search?q=Alugado",
+                "promoted_content": null,
+                "query": "Alugado",
+                "tweet_volume": null
+            },
+            {
+                "name": "West Ham",
+                "url": "http://twitter.com/search?q=%22West+Ham%22",
+                "promoted_content": null,
+                "query": "%22West+Ham%22",
+                "tweet_volume": 10238
+            },
+            {
+                "name": "JUIZ MUNICIPAL",
+                "url": "http://twitter.com/search?q=%22JUIZ+MUNICIPAL%22",
+                "promoted_content": null,
+                "query": "%22JUIZ+MUNICIPAL%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Flarinthians",
+                "url": "http://twitter.com/search?q=Flarinthians",
+                "promoted_content": null,
+                "query": "Flarinthians",
+                "tweet_volume": null
+            },
+            {
+                "name": "Pericl\u00e3o",
+                "url": "http://twitter.com/search?q=Pericl%C3%A3o",
+                "promoted_content": null,
+                "query": "Pericl%C3%A3o",
+                "tweet_volume": null
+            },
+            {
+                "name": "#\ucc2c\ub780\ud55c\uc5f4\uc5ec\uc12f\ub0a8\ub3c4\ud604_\uc0dd\uc77c\ucd95\ud558\ud574",
+                "url": "http://twitter.com/search?q=%23%EC%B0%AC%EB%9E%80%ED%95%9C%EC%97%B4%EC%97%AC%EC%84%AF%EB%82%A8%EB%8F%84%ED%98%84_%EC%83%9D%EC%9D%BC%EC%B6%95%ED%95%98%ED%95%B4",
+                "promoted_content": null,
+                "query": "%23%EC%B0%AC%EB%9E%80%ED%95%9C%EC%97%B4%EC%97%AC%EC%84%AF%EB%82%A8%EB%8F%84%ED%98%84_%EC%83%9D%EC%9D%BC%EC%B6%95%ED%95%98%ED%95%B4",
+                "tweet_volume": 477394
+            },
+            {
+                "name": "#NCTzenSelcaDay",
+                "url": "http://twitter.com/search?q=%23NCTzenSelcaDay",
+                "promoted_content": null,
+                "query": "%23NCTzenSelcaDay",
+                "tweet_volume": 60064
+            },
+            {
+                "name": "#WeLoveYouJoalin",
+                "url": "http://twitter.com/search?q=%23WeLoveYouJoalin",
+                "promoted_content": null,
+                "query": "%23WeLoveYouJoalin",
+                "tweet_volume": null
+            },
+            {
+                "name": "#UWMAep1",
+                "url": "http://twitter.com/search?q=%23UWMAep1",
+                "promoted_content": null,
+                "query": "%23UWMAep1",
+                "tweet_volume": 48828
+            },
+            {
+                "name": "#bolanaarea",
+                "url": "http://twitter.com/search?q=%23bolanaarea",
+                "promoted_content": null,
+                "query": "%23bolanaarea",
+                "tweet_volume": null
+            },
+            {
+                "name": "#SabadoDetremuraSDV",
+                "url": "http://twitter.com/search?q=%23SabadoDetremuraSDV",
+                "promoted_content": null,
+                "query": "%23SabadoDetremuraSDV",
+                "tweet_volume": null
+            },
+            {
+                "name": "#OsPlayers",
+                "url": "http://twitter.com/search?q=%23OsPlayers",
+                "promoted_content": null,
+                "query": "%23OsPlayers",
+                "tweet_volume": null
+            },
+            {
+                "name": "#edecasa",
+                "url": "http://twitter.com/search?q=%23edecasa",
+                "promoted_content": null,
+                "query": "%23edecasa",
+                "tweet_volume": null
+            },
+            {
+                "name": "#StarshipProtectMonstaX7",
+                "url": "http://twitter.com/search?q=%23StarshipProtectMonstaX7",
+                "promoted_content": null,
+                "query": "%23StarshipProtectMonstaX7",
+                "tweet_volume": 558718
+            },
+            {
+                "name": "#N\u00e3oContaPraNingu\u00e9m",
+                "url": "http://twitter.com/search?q=%23N%C3%A3oContaPraNingu%C3%A9m",
+                "promoted_content": null,
+                "query": "%23N%C3%A3oContaPraNingu%C3%A9m",
+                "tweet_volume": null
+            },
+            {
+                "name": "#lulacontinualadrao",
+                "url": "http://twitter.com/search?q=%23lulacontinualadrao",
+                "promoted_content": null,
+                "query": "%23lulacontinualadrao",
+                "tweet_volume": null
+            },
+            {
+                "name": "#Dia9EuVou",
+                "url": "http://twitter.com/search?q=%23Dia9EuVou",
+                "promoted_content": null,
+                "query": "%23Dia9EuVou",
+                "tweet_volume": 63598
+            },
+            {
+                "name": "#futsalnosportv",
+                "url": "http://twitter.com/search?q=%23futsalnosportv",
+                "promoted_content": null,
+                "query": "%23futsalnosportv",
+                "tweet_volume": null
+            },
+            {
+                "name": "#7YearsOfTakeMeHome",
+                "url": "http://twitter.com/search?q=%237YearsOfTakeMeHome",
+                "promoted_content": null,
+                "query": "%237YearsOfTakeMeHome",
+                "tweet_volume": null
+            },
+            {
+                "name": "#nbbnaband",
+                "url": "http://twitter.com/search?q=%23nbbnaband",
+                "promoted_content": null,
+                "query": "%23nbbnaband",
+                "tweet_volume": null
+            },
+            {
+                "name": "#centraldotorcedor",
+                "url": "http://twitter.com/search?q=%23centraldotorcedor",
+                "promoted_content": null,
+                "query": "%23centraldotorcedor",
+                "tweet_volume": null
+            },
+            {
+                "name": "#AlemaoFOXSports",
+                "url": "http://twitter.com/search?q=%23AlemaoFOXSports",
+                "promoted_content": null,
+                "query": "%23AlemaoFOXSports",
+                "tweet_volume": null
+            },
+            {
+                "name": "#ufcnocombate",
+                "url": "http://twitter.com/search?q=%23ufcnocombate",
+                "promoted_content": null,
+                "query": "%23ufcnocombate",
+                "tweet_volume": null
+            },
+            {
+                "name": "#UniverseSelcaDay",
+                "url": "http://twitter.com/search?q=%23UniverseSelcaDay",
+                "promoted_content": null,
+                "query": "%23UniverseSelcaDay",
+                "tweet_volume": null
+            },
+            {
+                "name": "#HappyDeanDay",
+                "url": "http://twitter.com/search?q=%23HappyDeanDay",
+                "promoted_content": null,
+                "query": "%23HappyDeanDay",
+                "tweet_volume": null
+            },
+            {
+                "name": "#ThankYouGameFreak",
+                "url": "http://twitter.com/search?q=%23ThankYouGameFreak",
+                "promoted_content": null,
+                "query": "%23ThankYouGameFreak",
+                "tweet_volume": 18105
+            },
+            {
+                "name": "#GONINJAS",
+                "url": "http://twitter.com/search?q=%23GONINJAS",
+                "promoted_content": null,
+                "query": "%23GONINJAS",
+                "tweet_volume": null
+            },
+            {
+                "name": "#NossaHistoriaSJ",
+                "url": "http://twitter.com/search?q=%23NossaHistoriaSJ",
+                "promoted_content": null,
+                "query": "%23NossaHistoriaSJ",
+                "tweet_volume": null
+            }
+        ],
+        "as_of": "2019-11-09T17:20:14Z",
+        "created_at": "2019-11-09T17:05:33Z",
+        "locations": [
+            {
+                "name": "Brazil",
+                "woeid": 23424768
+            }
+        ]
+    }
+]
