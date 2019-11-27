@@ -1,0 +1,357 @@
+[
+    {
+        "trends": [
+            {
+                "name": "Real Madrid",
+                "url": "http://twitter.com/search?q=%22Real+Madrid%22",
+                "promoted_content": null,
+                "query": "%22Real+Madrid%22",
+                "tweet_volume": 117421
+            },
+            {
+                "name": "Navas",
+                "url": "http://twitter.com/search?q=Navas",
+                "promoted_content": null,
+                "query": "Navas",
+                "tweet_volume": 33010
+            },
+            {
+                "name": "#CasaDaChampions",
+                "url": "http://twitter.com/search?q=%23CasaDaChampions",
+                "promoted_content": null,
+                "query": "%23CasaDaChampions",
+                "tweet_volume": null
+            },
+            {
+                "name": "Dybala",
+                "url": "http://twitter.com/search?q=Dybala",
+                "promoted_content": null,
+                "query": "Dybala",
+                "tweet_volume": 85055
+            },
+            {
+                "name": "Benzema",
+                "url": "http://twitter.com/search?q=Benzema",
+                "promoted_content": null,
+                "query": "Benzema",
+                "tweet_volume": 85004
+            },
+            {
+                "name": "Bale",
+                "url": "http://twitter.com/search?q=Bale",
+                "promoted_content": null,
+                "query": "Bale",
+                "tweet_volume": 27533
+            },
+            {
+                "name": "#SaveAnneWithAnnE",
+                "url": "http://twitter.com/search?q=%23SaveAnneWithAnnE",
+                "promoted_content": null,
+                "query": "%23SaveAnneWithAnnE",
+                "tweet_volume": 379542
+            },
+            {
+                "name": "Lewandowski",
+                "url": "http://twitter.com/search?q=Lewandowski",
+                "promoted_content": null,
+                "query": "Lewandowski",
+                "tweet_volume": 52035
+            },
+            {
+                "name": "#SEDANAPO",
+                "url": "http://twitter.com/search?q=%23SEDANAPO",
+                "promoted_content": null,
+                "query": "%23SEDANAPO",
+                "tweet_volume": null
+            },
+            {
+                "name": "Varane",
+                "url": "http://twitter.com/search?q=Varane",
+                "promoted_content": null,
+                "query": "Varane",
+                "tweet_volume": 15908
+            },
+            {
+                "name": "Hazard",
+                "url": "http://twitter.com/search?q=Hazard",
+                "promoted_content": null,
+                "query": "Hazard",
+                "tweet_volume": 56693
+            },
+            {
+                "name": "#LutaremosJuntos",
+                "url": "http://twitter.com/search?q=%23LutaremosJuntos",
+                "promoted_content": null,
+                "query": "%23LutaremosJuntos",
+                "tweet_volume": null
+            },
+            {
+                "name": "Valverde",
+                "url": "http://twitter.com/search?q=Valverde",
+                "promoted_content": null,
+                "query": "Valverde",
+                "tweet_volume": 40237
+            },
+            {
+                "name": "#RMAPSG",
+                "url": "http://twitter.com/search?q=%23RMAPSG",
+                "promoted_content": null,
+                "query": "%23RMAPSG",
+                "tweet_volume": 68748
+            },
+            {
+                "name": "Sarabia",
+                "url": "http://twitter.com/search?q=Sarabia",
+                "promoted_content": null,
+                "query": "Sarabia",
+                "tweet_volume": 11790
+            },
+            {
+                "name": "Tirei Bunda",
+                "url": "http://twitter.com/search?q=%22Tirei+Bunda%22",
+                "promoted_content": null,
+                "query": "%22Tirei+Bunda%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Zidane",
+                "url": "http://twitter.com/search?q=Zidane",
+                "promoted_content": null,
+                "query": "Zidane",
+                "tweet_volume": 31593
+            },
+            {
+                "name": "Amsterd\u00e3",
+                "url": "http://twitter.com/search?q=Amsterd%C3%A3",
+                "promoted_content": null,
+                "query": "Amsterd%C3%A3",
+                "tweet_volume": 10234
+            },
+            {
+                "name": "Di Maria",
+                "url": "http://twitter.com/search?q=%22Di+Maria%22",
+                "promoted_content": null,
+                "query": "%22Di+Maria%22",
+                "tweet_volume": 10866
+            },
+            {
+                "name": "Isco",
+                "url": "http://twitter.com/search?q=Isco",
+                "promoted_content": null,
+                "query": "Isco",
+                "tweet_volume": 25643
+            },
+            {
+                "name": "Icardi",
+                "url": "http://twitter.com/search?q=Icardi",
+                "promoted_content": null,
+                "query": "Icardi",
+                "tweet_volume": 16803
+            },
+            {
+                "name": "Kroos",
+                "url": "http://twitter.com/search?q=Kroos",
+                "promoted_content": null,
+                "query": "Kroos",
+                "tweet_volume": 12288
+            },
+            {
+                "name": "Juve",
+                "url": "http://twitter.com/search?q=Juve",
+                "promoted_content": null,
+                "query": "Juve",
+                "tweet_volume": 28013
+            },
+            {
+                "name": "Jolie",
+                "url": "http://twitter.com/search?q=Jolie",
+                "promoted_content": null,
+                "query": "Jolie",
+                "tweet_volume": 63189
+            },
+            {
+                "name": "menino ney",
+                "url": "http://twitter.com/search?q=%22menino+ney%22",
+                "promoted_content": null,
+                "query": "%22menino+ney%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Bernabeu",
+                "url": "http://twitter.com/search?q=Bernabeu",
+                "promoted_content": null,
+                "query": "Bernabeu",
+                "tweet_volume": 33999
+            },
+            {
+                "name": "Modric",
+                "url": "http://twitter.com/search?q=Modric",
+                "promoted_content": null,
+                "query": "Modric",
+                "tweet_volume": null
+            },
+            {
+                "name": "Rapadura",
+                "url": "http://twitter.com/search?q=Rapadura",
+                "promoted_content": null,
+                "query": "Rapadura",
+                "tweet_volume": null
+            },
+            {
+                "name": "Estrela Vermelha",
+                "url": "http://twitter.com/search?q=%22Estrela+Vermelha%22",
+                "promoted_content": null,
+                "query": "%22Estrela+Vermelha%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Morata",
+                "url": "http://twitter.com/search?q=Morata",
+                "promoted_content": null,
+                "query": "Morata",
+                "tweet_volume": null
+            },
+            {
+                "name": "Sergio Ramos",
+                "url": "http://twitter.com/search?q=%22Sergio+Ramos%22",
+                "promoted_content": null,
+                "query": "%22Sergio+Ramos%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Olympiacos",
+                "url": "http://twitter.com/search?q=Olympiacos",
+                "promoted_content": null,
+                "query": "Olympiacos",
+                "tweet_volume": 28891
+            },
+            {
+                "name": "Coloca o Neymar",
+                "url": "http://twitter.com/search?q=%22Coloca+o+Neymar%22",
+                "promoted_content": null,
+                "query": "%22Coloca+o+Neymar%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Adulto Ney",
+                "url": "http://twitter.com/search?q=%22Adulto+Ney%22",
+                "promoted_content": null,
+                "query": "%22Adulto+Ney%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "#ForaBolsonaro",
+                "url": "http://twitter.com/search?q=%23ForaBolsonaro",
+                "promoted_content": null,
+                "query": "%23ForaBolsonaro",
+                "tweet_volume": 26089
+            },
+            {
+                "name": "#OiOiOi37",
+                "url": "http://twitter.com/search?q=%23OiOiOi37",
+                "promoted_content": null,
+                "query": "%23OiOiOi37",
+                "tweet_volume": null
+            },
+            {
+                "name": "#TattooDaLiberta",
+                "url": "http://twitter.com/search?q=%23TattooDaLiberta",
+                "promoted_content": null,
+                "query": "%23TattooDaLiberta",
+                "tweet_volume": null
+            },
+            {
+                "name": "#blablamtvhits",
+                "url": "http://twitter.com/search?q=%23blablamtvhits",
+                "promoted_content": null,
+                "query": "%23blablamtvhits",
+                "tweet_volume": null
+            },
+            {
+                "name": "#GOT7_DAESANG",
+                "url": "http://twitter.com/search?q=%23GOT7_DAESANG",
+                "promoted_content": null,
+                "query": "%23GOT7_DAESANG",
+                "tweet_volume": 114656
+            },
+            {
+                "name": "#Malhacao",
+                "url": "http://twitter.com/search?q=%23Malhacao",
+                "promoted_content": null,
+                "query": "%23Malhacao",
+                "tweet_volume": null
+            },
+            {
+                "name": "#HappyChanyeolDay",
+                "url": "http://twitter.com/search?q=%23HappyChanyeolDay",
+                "promoted_content": null,
+                "query": "%23HappyChanyeolDay",
+                "tweet_volume": 695737
+            },
+            {
+                "name": "#SelfiesForSofya",
+                "url": "http://twitter.com/search?q=%23SelfiesForSofya",
+                "promoted_content": null,
+                "query": "%23SelfiesForSofya",
+                "tweet_volume": null
+            },
+            {
+                "name": "#WeLoveYouCamila",
+                "url": "http://twitter.com/search?q=%23WeLoveYouCamila",
+                "promoted_content": null,
+                "query": "%23WeLoveYouCamila",
+                "tweet_volume": null
+            },
+            {
+                "name": "#MeuCoracaoETeu017",
+                "url": "http://twitter.com/search?q=%23MeuCoracaoETeu017",
+                "promoted_content": null,
+                "query": "%23MeuCoracaoETeu017",
+                "tweet_volume": null
+            },
+            {
+                "name": "#thiagosilva",
+                "url": "http://twitter.com/search?q=%23thiagosilva",
+                "promoted_content": null,
+                "query": "%23thiagosilva",
+                "tweet_volume": null
+            },
+            {
+                "name": "#AbismoDePaixao066",
+                "url": "http://twitter.com/search?q=%23AbismoDePaixao066",
+                "promoted_content": null,
+                "query": "%23AbismoDePaixao066",
+                "tweet_volume": null
+            },
+            {
+                "name": "#BlueHeartsForWonho",
+                "url": "http://twitter.com/search?q=%23BlueHeartsForWonho",
+                "promoted_content": null,
+                "query": "%23BlueHeartsForWonho",
+                "tweet_volume": 134690
+            },
+            {
+                "name": "#luannocontrole",
+                "url": "http://twitter.com/search?q=%23luannocontrole",
+                "promoted_content": null,
+                "query": "%23luannocontrole",
+                "tweet_volume": null
+            },
+            {
+                "name": "#QueroXPreciso",
+                "url": "http://twitter.com/search?q=%23QueroXPreciso",
+                "promoted_content": null,
+                "query": "%23QueroXPreciso",
+                "tweet_volume": null
+            }
+        ],
+        "as_of": "2019-11-26T22:20:32Z",
+        "created_at": "2019-11-26T22:17:21Z",
+        "locations": [
+            {
+                "name": "Brazil",
+                "woeid": 23424768
+            }
+        ]
+    }
+]
