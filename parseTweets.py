@@ -65,6 +65,26 @@ def parseUsersMentions():
     
     return counter
 
+def parseImagesUrls():
+    counter = Counter()
+    with open('./tweets/transformed/' + timestr + '.json') as f:
+        data = json.load(f)
+        for element in data:
+            media = (element['extended_entities']['media'])
+            for each in media:
+                for key, value in each.items():
+                    if key == 'media_url':
+                        counter[value] += 1
+    
+    with open('./parsedData/images/'+ timestr + '.json', 'w', encoding='utf-8') as parsed:
+        parsed.write(str(counter))
+    
+    return counter    
+
+
+
+
 parseHashtags()
 parseUrls()
 parseUsersMentions()
+parseImagesUrls()
