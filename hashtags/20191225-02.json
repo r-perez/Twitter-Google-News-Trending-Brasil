@@ -1,0 +1,161 @@
+[
+    {
+        "trends": [
+            {
+                "name": "Feliz Natal",
+                "url": "http://twitter.com/search?q=%22Feliz+Natal%22",
+                "promoted_content": null,
+                "query": "%22Feliz+Natal%22",
+                "tweet_volume": 1028000
+            },
+            {
+                "name": "#PINTOAWARDSDENATAL",
+                "url": "http://twitter.com/search?q=%23PINTOAWARDSDENATAL",
+                "promoted_content": null,
+                "query": "%23PINTOAWARDSDENATAL",
+                "tweet_volume": 17303
+            },
+            {
+                "name": "Parab\u00e9ns Jesus",
+                "url": "http://twitter.com/search?q=%22Parab%C3%A9ns+Jesus%22",
+                "promoted_content": null,
+                "query": "%22Parab%C3%A9ns+Jesus%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "#QuartaDetremuraSDV",
+                "url": "http://twitter.com/search?q=%23QuartaDetremuraSDV",
+                "promoted_content": null,
+                "query": "%23QuartaDetremuraSDV",
+                "tweet_volume": null
+            },
+            {
+                "name": "Cancelei",
+                "url": "http://twitter.com/search?q=Cancelei",
+                "promoted_content": null,
+                "query": "Cancelei",
+                "tweet_volume": null
+            },
+            {
+                "name": "#brasilbelieve",
+                "url": "http://twitter.com/search?q=%23brasilbelieve",
+                "promoted_content": null,
+                "query": "%23brasilbelieve",
+                "tweet_volume": null
+            },
+            {
+                "name": "Divertidamente",
+                "url": "http://twitter.com/search?q=Divertidamente",
+                "promoted_content": null,
+                "query": "Divertidamente",
+                "tweet_volume": 10190
+            },
+            {
+                "name": "Deu 00h",
+                "url": "http://twitter.com/search?q=%22Deu+00h%22",
+                "promoted_content": null,
+                "query": "%22Deu+00h%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "#MerryXmas",
+                "url": "http://twitter.com/search?q=%23MerryXmas",
+                "promoted_content": null,
+                "query": "%23MerryXmas",
+                "tweet_volume": 58706
+            },
+            {
+                "name": "Maria Cristina",
+                "url": "http://twitter.com/search?q=%22Maria+Cristina%22",
+                "promoted_content": null,
+                "query": "%22Maria+Cristina%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Michelzinho",
+                "url": "http://twitter.com/search?q=Michelzinho",
+                "promoted_content": null,
+                "query": "Michelzinho",
+                "tweet_volume": null
+            },
+            {
+                "name": "Shakespeare Apaixonado",
+                "url": "http://twitter.com/search?q=%22Shakespeare+Apaixonado%22",
+                "promoted_content": null,
+                "query": "%22Shakespeare+Apaixonado%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "#DeVoltaParaOFuturo",
+                "url": "http://twitter.com/search?q=%23DeVoltaParaOFuturo",
+                "promoted_content": null,
+                "query": "%23DeVoltaParaOFuturo",
+                "tweet_volume": null
+            },
+            {
+                "name": "Missa",
+                "url": "http://twitter.com/search?q=Missa",
+                "promoted_content": null,
+                "query": "Missa",
+                "tweet_volume": 14231
+            },
+            {
+                "name": "Ricardo Ohara",
+                "url": "http://twitter.com/search?q=%22Ricardo+Ohara%22",
+                "promoted_content": null,
+                "query": "%22Ricardo+Ohara%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Jej\u00ea",
+                "url": "http://twitter.com/search?q=Jej%C3%AA",
+                "promoted_content": null,
+                "query": "Jej%C3%AA",
+                "tweet_volume": 24302
+            },
+            {
+                "name": "Chamado",
+                "url": "http://twitter.com/search?q=Chamado",
+                "promoted_content": null,
+                "query": "Chamado",
+                "tweet_volume": 11277
+            },
+            {
+                "name": "Mec Christmas",
+                "url": "http://twitter.com/search?q=%22Mec+Christmas%22",
+                "promoted_content": null,
+                "query": "%22Mec+Christmas%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Baile da R",
+                "url": "http://twitter.com/search?q=%22Baile+da+R%22",
+                "promoted_content": null,
+                "query": "%22Baile+da+R%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "#\uc720\ud0c0_\ub178\ub798_\uc798\ud574",
+                "url": "http://twitter.com/search?q=%23%EC%9C%A0%ED%83%80_%EB%85%B8%EB%9E%98_%EC%9E%98%ED%95%B4",
+                "promoted_content": null,
+                "query": "%23%EC%9C%A0%ED%83%80_%EB%85%B8%EB%9E%98_%EC%9E%98%ED%95%B4",
+                "tweet_volume": 19397
+            },
+            {
+                "name": "#Neon",
+                "url": "http://twitter.com/search?q=%23Neon",
+                "promoted_content": null,
+                "query": "%23Neon",
+                "tweet_volume": null
+            }
+        ],
+        "as_of": "2019-12-25T06:21:02Z",
+        "created_at": "2019-12-25T06:12:34Z",
+        "locations": [
+            {
+                "name": "Brazil",
+                "woeid": 23424768
+            }
+        ]
+    }
+]
