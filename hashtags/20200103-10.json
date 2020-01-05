@@ -1,0 +1,315 @@
+[
+    {
+        "trends": [
+            {
+                "name": "#TerceiraGuerraMundial",
+                "url": "http://twitter.com/search?q=%23TerceiraGuerraMundial",
+                "promoted_content": null,
+                "query": "%23TerceiraGuerraMundial",
+                "tweet_volume": 32387
+            },
+            {
+                "name": "#BolsonaroFicaCalado",
+                "url": "http://twitter.com/search?q=%23BolsonaroFicaCalado",
+                "promoted_content": null,
+                "query": "%23BolsonaroFicaCalado",
+                "tweet_volume": 289172
+            },
+            {
+                "name": "Trump",
+                "url": "http://twitter.com/search?q=Trump",
+                "promoted_content": null,
+                "query": "Trump",
+                "tweet_volume": 4111855
+            },
+            {
+                "name": "Saulo",
+                "url": "http://twitter.com/search?q=Saulo",
+                "promoted_content": null,
+                "query": "Saulo",
+                "tweet_volume": 10922
+            },
+            {
+                "name": "Iraque",
+                "url": "http://twitter.com/search?q=Iraque",
+                "promoted_content": null,
+                "query": "Iraque",
+                "tweet_volume": 30180
+            },
+            {
+                "name": "Estados Unidos",
+                "url": "http://twitter.com/search?q=%22Estados+Unidos%22",
+                "promoted_content": null,
+                "query": "%22Estados+Unidos%22",
+                "tweet_volume": 143785
+            },
+            {
+                "name": "#AnneWithAnE",
+                "url": "http://twitter.com/search?q=%23AnneWithAnE",
+                "promoted_content": null,
+                "query": "%23AnneWithAnE",
+                "tweet_volume": 62509
+            },
+            {
+                "name": "EUA e Ir\u00e3",
+                "url": "http://twitter.com/search?q=%22EUA+e+Ir%C3%A3%22",
+                "promoted_content": null,
+                "query": "%22EUA+e+Ir%C3%A3%22",
+                "tweet_volume": 19336
+            },
+            {
+                "name": "Oriente M\u00e9dio",
+                "url": "http://twitter.com/search?q=%22Oriente+M%C3%A9dio%22",
+                "promoted_content": null,
+                "query": "%22Oriente+M%C3%A9dio%22",
+                "tweet_volume": 40823
+            },
+            {
+                "name": "Se o Brasil",
+                "url": "http://twitter.com/search?q=%22Se+o+Brasil%22",
+                "promoted_content": null,
+                "query": "%22Se+o+Brasil%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Chico Xavier",
+                "url": "http://twitter.com/search?q=%22Chico+Xavier%22",
+                "promoted_content": null,
+                "query": "%22Chico+Xavier%22",
+                "tweet_volume": 16300
+            },
+            {
+                "name": "iran",
+                "url": "http://twitter.com/search?q=iran",
+                "promoted_content": null,
+                "query": "iran",
+                "tweet_volume": 3617859
+            },
+            {
+                "name": "UFSC",
+                "url": "http://twitter.com/search?q=UFSC",
+                "promoted_content": null,
+                "query": "UFSC",
+                "tweet_volume": null
+            },
+            {
+                "name": "Israel",
+                "url": "http://twitter.com/search?q=Israel",
+                "promoted_content": null,
+                "query": "Israel",
+                "tweet_volume": 254282
+            },
+            {
+                "name": "Bagd\u00e1",
+                "url": "http://twitter.com/search?q=Bagd%C3%A1",
+                "promoted_content": null,
+                "query": "Bagd%C3%A1",
+                "tweet_volume": 24618
+            },
+            {
+                "name": "#bomdiafoxsexta",
+                "url": "http://twitter.com/search?q=%23bomdiafoxsexta",
+                "promoted_content": null,
+                "query": "%23bomdiafoxsexta",
+                "tweet_volume": null
+            },
+            {
+                "name": "Soleimani",
+                "url": "http://twitter.com/search?q=Soleimani",
+                "promoted_content": null,
+                "query": "Soleimani",
+                "tweet_volume": 1735071
+            },
+            {
+                "name": "#JBYummy",
+                "url": "http://twitter.com/search?q=%23JBYummy",
+                "promoted_content": null,
+                "query": "%23JBYummy",
+                "tweet_volume": null
+            },
+            {
+                "name": "Call of Duty",
+                "url": "http://twitter.com/search?q=%22Call+of+Duty%22",
+                "promoted_content": null,
+                "query": "%22Call+of+Duty%22",
+                "tweet_volume": 50427
+            },
+            {
+                "name": "Camacho",
+                "url": "http://twitter.com/search?q=Camacho",
+                "promoted_content": null,
+                "query": "Camacho",
+                "tweet_volume": null
+            },
+            {
+                "name": "S\u00edria",
+                "url": "http://twitter.com/search?q=S%C3%ADria",
+                "promoted_content": null,
+                "query": "S%C3%ADria",
+                "tweet_volume": 21720
+            },
+            {
+                "name": "Palestina",
+                "url": "http://twitter.com/search?q=Palestina",
+                "promoted_content": null,
+                "query": "Palestina",
+                "tweet_volume": null
+            },
+            {
+                "name": "Bush",
+                "url": "http://twitter.com/search?q=Bush",
+                "promoted_content": null,
+                "query": "Bush",
+                "tweet_volume": 158104
+            },
+            {
+                "name": "R\u00fassia e China",
+                "url": "http://twitter.com/search?q=%22R%C3%BAssia+e+China%22",
+                "promoted_content": null,
+                "query": "%22R%C3%BAssia+e+China%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Parab\u00e9ns Hugo",
+                "url": "http://twitter.com/search?q=%22Parab%C3%A9ns+Hugo%22",
+                "promoted_content": null,
+                "query": "%22Parab%C3%A9ns+Hugo%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Guarda Revolucion\u00e1ria",
+                "url": "http://twitter.com/search?q=%22Guarda+Revolucion%C3%A1ria%22",
+                "promoted_content": null,
+                "query": "%22Guarda+Revolucion%C3%A1ria%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Petr\u00f3leo",
+                "url": "http://twitter.com/search?q=Petr%C3%B3leo",
+                "promoted_content": null,
+                "query": "Petr%C3%B3leo",
+                "tweet_volume": 35254
+            },
+            {
+                "name": "General",
+                "url": "http://twitter.com/search?q=General",
+                "promoted_content": null,
+                "query": "General",
+                "tweet_volume": 934221
+            },
+            {
+                "name": "Cruzeiro e 10",
+                "url": "http://twitter.com/search?q=%22Cruzeiro+e+10%22",
+                "promoted_content": null,
+                "query": "%22Cruzeiro+e+10%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Bin Laden",
+                "url": "http://twitter.com/search?q=%22Bin+Laden%22",
+                "promoted_content": null,
+                "query": "%22Bin+Laden%22",
+                "tweet_volume": 132547
+            },
+            {
+                "name": "Hezbollah",
+                "url": "http://twitter.com/search?q=Hezbollah",
+                "promoted_content": null,
+                "query": "Hezbollah",
+                "tweet_volume": 117967
+            },
+            {
+                "name": "Teer\u00e3",
+                "url": "http://twitter.com/search?q=Teer%C3%A3",
+                "promoted_content": null,
+                "query": "Teer%C3%A3",
+                "tweet_volume": null
+            },
+            {
+                "name": "Geopol\u00edtica",
+                "url": "http://twitter.com/search?q=Geopol%C3%ADtica",
+                "promoted_content": null,
+                "query": "Geopol%C3%ADtica",
+                "tweet_volume": null
+            },
+            {
+                "name": "3 de Janeiro",
+                "url": "http://twitter.com/search?q=%223+de+Janeiro%22",
+                "promoted_content": null,
+                "query": "%223+de+Janeiro%22",
+                "tweet_volume": 35207
+            },
+            {
+                "name": "Donald",
+                "url": "http://twitter.com/search?q=Donald",
+                "promoted_content": null,
+                "query": "Donald",
+                "tweet_volume": 413312
+            },
+            {
+                "name": "Primeiro Sextou",
+                "url": "http://twitter.com/search?q=%22Primeiro+Sextou%22",
+                "promoted_content": null,
+                "query": "%22Primeiro+Sextou%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "#SancionaBolsonaro",
+                "url": "http://twitter.com/search?q=%23SancionaBolsonaro",
+                "promoted_content": null,
+                "query": "%23SancionaBolsonaro",
+                "tweet_volume": 18612
+            },
+            {
+                "name": "#SextaDetremuraSDV",
+                "url": "http://twitter.com/search?q=%23SextaDetremuraSDV",
+                "promoted_content": null,
+                "query": "%23SextaDetremuraSDV",
+                "tweet_volume": null
+            },
+            {
+                "name": "#JPMorningShow",
+                "url": "http://twitter.com/search?q=%23JPMorningShow",
+                "promoted_content": null,
+                "query": "%23JPMorningShow",
+                "tweet_volume": null
+            },
+            {
+                "name": "#Psycho1stWin",
+                "url": "http://twitter.com/search?q=%23Psycho1stWin",
+                "promoted_content": null,
+                "query": "%23Psycho1stWin",
+                "tweet_volume": 108054
+            },
+            {
+                "name": "#wwlll",
+                "url": "http://twitter.com/search?q=%23wwlll",
+                "promoted_content": null,
+                "query": "%23wwlll",
+                "tweet_volume": 53546
+            },
+            {
+                "name": "#tocarentede",
+                "url": "http://twitter.com/search?q=%23tocarentede",
+                "promoted_content": null,
+                "query": "%23tocarentede",
+                "tweet_volume": null
+            },
+            {
+                "name": "#MaisVoce",
+                "url": "http://twitter.com/search?q=%23MaisVoce",
+                "promoted_content": null,
+                "query": "%23MaisVoce",
+                "tweet_volume": null
+            }
+        ],
+        "as_of": "2020-01-03T14:21:10Z",
+        "created_at": "2020-01-03T14:15:00Z",
+        "locations": [
+            {
+                "name": "Brazil",
+                "woeid": 23424768
+            }
+        ]
+    }
+]

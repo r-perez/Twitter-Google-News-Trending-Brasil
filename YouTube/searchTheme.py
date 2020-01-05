@@ -3,7 +3,7 @@
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 
-import google.auth
+from oauth2client.tools import argparser
 
 import json
 import urllib
@@ -21,8 +21,8 @@ FREEBASE_SEARCH_URL = "https://www.googleapis.com/freebase/v1/search?%s"
 def get_topic_id(options):
   # Retrieve a list of Freebase topics associated with the provided query term.
   freebase_params = dict(query=options.query, key=DEVELOPER_KEY)
-  freebase_url = FREEBASE_SEARCH_URL % urllib.urlencode(freebase_params)
-  freebase_response = json.loads(urllib.urlopen(freebase_url).read())
+  freebase_url = FREEBASE_SEARCH_URL % urllib.parse.urlencode(freebase_params)
+  freebase_response = json.loads(urllib.request.urlopen(freebase_url)
 
   if len(freebase_response["result"]) == 0:
     exit("No matching terms were found in Freebase.")
