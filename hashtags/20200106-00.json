@@ -1,0 +1,273 @@
+[
+    {
+        "trends": [
+            {
+                "name": "#GoldenGlobes",
+                "url": "http://twitter.com/search?q=%23GoldenGlobes",
+                "promoted_content": null,
+                "query": "%23GoldenGlobes",
+                "tweet_volume": 1232163
+            },
+            {
+                "name": "Joaquin Phoenix",
+                "url": "http://twitter.com/search?q=%22Joaquin+Phoenix%22",
+                "promoted_content": null,
+                "query": "%22Joaquin+Phoenix%22",
+                "tweet_volume": 101273
+            },
+            {
+                "name": "#ARMYSelcaDay",
+                "url": "http://twitter.com/search?q=%23ARMYSelcaDay",
+                "promoted_content": null,
+                "query": "%23ARMYSelcaDay",
+                "tweet_volume": 36876
+            },
+            {
+                "name": "Tom Hanks",
+                "url": "http://twitter.com/search?q=%22Tom+Hanks%22",
+                "promoted_content": null,
+                "query": "%22Tom+Hanks%22",
+                "tweet_volume": 73522
+            },
+            {
+                "name": "Oscar",
+                "url": "http://twitter.com/search?q=Oscar",
+                "promoted_content": null,
+                "query": "Oscar",
+                "tweet_volume": 78676
+            },
+            {
+                "name": "Tarantino",
+                "url": "http://twitter.com/search?q=Tarantino",
+                "promoted_content": null,
+                "query": "Tarantino",
+                "tweet_volume": 40055
+            },
+            {
+                "name": "Hollywood",
+                "url": "http://twitter.com/search?q=Hollywood",
+                "promoted_content": null,
+                "query": "Hollywood",
+                "tweet_volume": 331688
+            },
+            {
+                "name": "Laura Dern",
+                "url": "http://twitter.com/search?q=%22Laura+Dern%22",
+                "promoted_content": null,
+                "query": "%22Laura+Dern%22",
+                "tweet_volume": 32131
+            },
+            {
+                "name": "Ricky Gervais",
+                "url": "http://twitter.com/search?q=%22Ricky+Gervais%22",
+                "promoted_content": null,
+                "query": "%22Ricky+Gervais%22",
+                "tweet_volume": 228625
+            },
+            {
+                "name": "Patricia Arquette",
+                "url": "http://twitter.com/search?q=%22Patricia+Arquette%22",
+                "promoted_content": null,
+                "query": "%22Patricia+Arquette%22",
+                "tweet_volume": 17107
+            },
+            {
+                "name": "O Irland\u00eas",
+                "url": "http://twitter.com/search?q=%22O+Irland%C3%AAs%22",
+                "promoted_content": null,
+                "query": "%22O+Irland%C3%AAs%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Sandra Bullock",
+                "url": "http://twitter.com/search?q=%22Sandra+Bullock%22",
+                "promoted_content": null,
+                "query": "%22Sandra+Bullock%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Parasita",
+                "url": "http://twitter.com/search?q=Parasita",
+                "promoted_content": null,
+                "query": "Parasita",
+                "tweet_volume": 14648
+            },
+            {
+                "name": "The Crown",
+                "url": "http://twitter.com/search?q=%22The+Crown%22",
+                "promoted_content": null,
+                "query": "%22The+Crown%22",
+                "tweet_volume": 20005
+            },
+            {
+                "name": "Scorsese",
+                "url": "http://twitter.com/search?q=Scorsese",
+                "promoted_content": null,
+                "query": "Scorsese",
+                "tweet_volume": 15462
+            },
+            {
+                "name": "Chris Evans",
+                "url": "http://twitter.com/search?q=%22Chris+Evans%22",
+                "promoted_content": null,
+                "query": "%22Chris+Evans%22",
+                "tweet_volume": 26278
+            },
+            {
+                "name": "Kingsman",
+                "url": "http://twitter.com/search?q=Kingsman",
+                "promoted_content": null,
+                "query": "Kingsman",
+                "tweet_volume": 17750
+            },
+            {
+                "name": "#Fantastico",
+                "url": "http://twitter.com/search?q=%23Fantastico",
+                "promoted_content": null,
+                "query": "%23Fantastico",
+                "tweet_volume": null
+            },
+            {
+                "name": "Silvio Santos",
+                "url": "http://twitter.com/search?q=%22Silvio+Santos%22",
+                "promoted_content": null,
+                "query": "%22Silvio+Santos%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Rachel Weisz",
+                "url": "http://twitter.com/search?q=%22Rachel+Weisz%22",
+                "promoted_content": null,
+                "query": "%22Rachel+Weisz%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Charlize Theron",
+                "url": "http://twitter.com/search?q=%22Charlize+Theron%22",
+                "promoted_content": null,
+                "query": "%22Charlize+Theron%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Ellen DeGeneres",
+                "url": "http://twitter.com/search?q=%22Ellen+DeGeneres%22",
+                "promoted_content": null,
+                "query": "%22Ellen+DeGeneres%22",
+                "tweet_volume": 20857
+            },
+            {
+                "name": "Rami Malek",
+                "url": "http://twitter.com/search?q=%22Rami+Malek%22",
+                "promoted_content": null,
+                "query": "%22Rami+Malek%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "DiCaprio",
+                "url": "http://twitter.com/search?q=DiCaprio",
+                "promoted_content": null,
+                "query": "DiCaprio",
+                "tweet_volume": 31087
+            },
+            {
+                "name": "Cate Blanchett",
+                "url": "http://twitter.com/search?q=%22Cate+Blanchett%22",
+                "promoted_content": null,
+                "query": "%22Cate+Blanchett%22",
+                "tweet_volume": 12189
+            },
+            {
+                "name": "Marriage Story",
+                "url": "http://twitter.com/search?q=%22Marriage+Story%22",
+                "promoted_content": null,
+                "query": "%22Marriage+Story%22",
+                "tweet_volume": 25810
+            },
+            {
+                "name": "Al Pacino",
+                "url": "http://twitter.com/search?q=%22Al+Pacino%22",
+                "promoted_content": null,
+                "query": "%22Al+Pacino%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Succession",
+                "url": "http://twitter.com/search?q=Succession",
+                "promoted_content": null,
+                "query": "Succession",
+                "tweet_volume": 26892
+            },
+            {
+                "name": "#LembraFlyer",
+                "url": "http://twitter.com/search?q=%23LembraFlyer",
+                "promoted_content": null,
+                "query": "%23LembraFlyer",
+                "tweet_volume": null
+            },
+            {
+                "name": "#YGLIEDTOBLINKS",
+                "url": "http://twitter.com/search?q=%23YGLIEDTOBLINKS",
+                "promoted_content": null,
+                "query": "%23YGLIEDTOBLINKS",
+                "tweet_volume": null
+            },
+            {
+                "name": "NETFLIX RENEW ANNE",
+                "url": "http://twitter.com/search?q=%22NETFLIX+RENEW+ANNE%22",
+                "promoted_content": null,
+                "query": "%22NETFLIX+RENEW+ANNE%22",
+                "tweet_volume": 57694
+            },
+            {
+                "name": "Margot Robbie",
+                "url": "http://twitter.com/search?q=%22Margot+Robbie%22",
+                "promoted_content": null,
+                "query": "%22Margot+Robbie%22",
+                "tweet_volume": 22179
+            },
+            {
+                "name": "Pierce Brosnan",
+                "url": "http://twitter.com/search?q=%22Pierce+Brosnan%22",
+                "promoted_content": null,
+                "query": "%22Pierce+Brosnan%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Beyonce",
+                "url": "http://twitter.com/search?q=Beyonce",
+                "promoted_content": null,
+                "query": "Beyonce",
+                "tweet_volume": 153276
+            },
+            {
+                "name": "Paul Rudd",
+                "url": "http://twitter.com/search?q=%22Paul+Rudd%22",
+                "promoted_content": null,
+                "query": "%22Paul+Rudd%22",
+                "tweet_volume": 12201
+            },
+            {
+                "name": "The Irishman",
+                "url": "http://twitter.com/search?q=%22The+Irishman%22",
+                "promoted_content": null,
+                "query": "%22The+Irishman%22",
+                "tweet_volume": 11528
+            },
+            {
+                "name": "#HayleyWeAreReady",
+                "url": "http://twitter.com/search?q=%23HayleyWeAreReady",
+                "promoted_content": null,
+                "query": "%23HayleyWeAreReady",
+                "tweet_volume": null
+            }
+        ],
+        "as_of": "2020-01-06T04:21:17Z",
+        "created_at": "2020-01-06T04:16:31Z",
+        "locations": [
+            {
+                "name": "Brazil",
+                "woeid": 23424768
+            }
+        ]
+    }
+]
