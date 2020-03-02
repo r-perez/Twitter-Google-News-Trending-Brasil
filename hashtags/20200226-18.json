@@ -1,0 +1,287 @@
+[
+    {
+        "trends": [
+            {
+                "name": "Viradouro",
+                "url": "http://twitter.com/search?q=Viradouro",
+                "promoted_content": null,
+                "query": "Viradouro",
+                "tweet_volume": 157213
+            },
+            {
+                "name": "Grande Rio",
+                "url": "http://twitter.com/search?q=%22Grande+Rio%22",
+                "promoted_content": null,
+                "query": "%22Grande+Rio%22",
+                "tweet_volume": 123765
+            },
+            {
+                "name": "Real Madrid",
+                "url": "http://twitter.com/search?q=%22Real+Madrid%22",
+                "promoted_content": null,
+                "query": "%22Real+Madrid%22",
+                "tweet_volume": 150219
+            },
+            {
+                "name": "De Bruyne",
+                "url": "http://twitter.com/search?q=%22De+Bruyne%22",
+                "promoted_content": null,
+                "query": "%22De+Bruyne%22",
+                "tweet_volume": 49441
+            },
+            {
+                "name": "Bruno Guimar\u00e3es",
+                "url": "http://twitter.com/search?q=%22Bruno+Guimar%C3%A3es%22",
+                "promoted_content": null,
+                "query": "%22Bruno+Guimar%C3%A3es%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Juventus",
+                "url": "http://twitter.com/search?q=Juventus",
+                "promoted_content": null,
+                "query": "Juventus",
+                "tweet_volume": 95594
+            },
+            {
+                "name": "Lyon",
+                "url": "http://twitter.com/search?q=Lyon",
+                "promoted_content": null,
+                "query": "Lyon",
+                "tweet_volume": 130081
+            },
+            {
+                "name": "Zidane",
+                "url": "http://twitter.com/search?q=Zidane",
+                "promoted_content": null,
+                "query": "Zidane",
+                "tweet_volume": 49241
+            },
+            {
+                "name": "Dybala",
+                "url": "http://twitter.com/search?q=Dybala",
+                "promoted_content": null,
+                "query": "Dybala",
+                "tweet_volume": 20191
+            },
+            {
+                "name": "Mocidade",
+                "url": "http://twitter.com/search?q=Mocidade",
+                "promoted_content": null,
+                "query": "Mocidade",
+                "tweet_volume": 47031
+            },
+            {
+                "name": "Bale",
+                "url": "http://twitter.com/search?q=Bale",
+                "promoted_content": null,
+                "query": "Bale",
+                "tweet_volume": 28774
+            },
+            {
+                "name": "Vinicius Jr",
+                "url": "http://twitter.com/search?q=%22Vinicius+Jr%22",
+                "promoted_content": null,
+                "query": "%22Vinicius+Jr%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Carvajal",
+                "url": "http://twitter.com/search?q=Carvajal",
+                "promoted_content": null,
+                "query": "Carvajal",
+                "tweet_volume": 27418
+            },
+            {
+                "name": "Fernando Lima",
+                "url": "http://twitter.com/search?q=%22Fernando+Lima%22",
+                "promoted_content": null,
+                "query": "%22Fernando+Lima%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "oxum",
+                "url": "http://twitter.com/search?q=oxum",
+                "promoted_content": null,
+                "query": "oxum",
+                "tweet_volume": null
+            },
+            {
+                "name": "Mendy",
+                "url": "http://twitter.com/search?q=Mendy",
+                "promoted_content": null,
+                "query": "Mendy",
+                "tweet_volume": 23601
+            },
+            {
+                "name": "#RMAMCI",
+                "url": "http://twitter.com/search?q=%23RMAMCI",
+                "promoted_content": null,
+                "query": "%23RMAMCI",
+                "tweet_volume": 54010
+            },
+            {
+                "name": "evolu\u00e7\u00e3o",
+                "url": "http://twitter.com/search?q=evolu%C3%A7%C3%A3o",
+                "promoted_content": null,
+                "query": "evolu%C3%A7%C3%A3o",
+                "tweet_volume": 22121
+            },
+            {
+                "name": "Milton Cunha",
+                "url": "http://twitter.com/search?q=%22Milton+Cunha%22",
+                "promoted_content": null,
+                "query": "%22Milton+Cunha%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Manchester City",
+                "url": "http://twitter.com/search?q=%22Manchester+City%22",
+                "promoted_content": null,
+                "query": "%22Manchester+City%22",
+                "tweet_volume": 62584
+            },
+            {
+                "name": "#CasaDaChampions",
+                "url": "http://twitter.com/search?q=%23CasaDaChampions",
+                "promoted_content": null,
+                "query": "%23CasaDaChampions",
+                "tweet_volume": null
+            },
+            {
+                "name": "Sterling",
+                "url": "http://twitter.com/search?q=Sterling",
+                "promoted_content": null,
+                "query": "Sterling",
+                "tweet_volume": 31274
+            },
+            {
+                "name": "Enfia o 9.9",
+                "url": "http://twitter.com/search?q=%22Enfia+o+9.9%22",
+                "promoted_content": null,
+                "query": "%22Enfia+o+9.9%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Mestre Ci\u00e7a",
+                "url": "http://twitter.com/search?q=%22Mestre+Ci%C3%A7a%22",
+                "promoted_content": null,
+                "query": "%22Mestre+Ci%C3%A7a%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Courtois",
+                "url": "http://twitter.com/search?q=Courtois",
+                "promoted_content": null,
+                "query": "Courtois",
+                "tweet_volume": 17128
+            },
+            {
+                "name": "Uni\u00e3o da Ilha",
+                "url": "http://twitter.com/search?q=%22Uni%C3%A3o+da+Ilha%22",
+                "promoted_content": null,
+                "query": "%22Uni%C3%A3o+da+Ilha%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Alex Sandro",
+                "url": "http://twitter.com/search?q=%22Alex+Sandro%22",
+                "promoted_content": null,
+                "query": "%22Alex+Sandro%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Sarri",
+                "url": "http://twitter.com/search?q=Sarri",
+                "promoted_content": null,
+                "query": "Sarri",
+                "tweet_volume": 14933
+            },
+            {
+                "name": "selminha e claudinho",
+                "url": "http://twitter.com/search?q=%22selminha+e+claudinho%22",
+                "promoted_content": null,
+                "query": "%22selminha+e+claudinho%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Real x City",
+                "url": "http://twitter.com/search?q=%22Real+x+City%22",
+                "promoted_content": null,
+                "query": "%22Real+x+City%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "RESENHA DA RAFA",
+                "url": "http://twitter.com/search?q=%22RESENHA+DA+RAFA%22",
+                "promoted_content": null,
+                "query": "%22RESENHA+DA+RAFA%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Cubango",
+                "url": "http://twitter.com/search?q=Cubango",
+                "promoted_content": null,
+                "query": "Cubango",
+                "tweet_volume": null
+            },
+            {
+                "name": "Campe\u00e3",
+                "url": "http://twitter.com/search?q=Campe%C3%A3",
+                "promoted_content": null,
+                "query": "Campe%C3%A3",
+                "tweet_volume": 87517
+            },
+            {
+                "name": "vamos beija flor",
+                "url": "http://twitter.com/search?q=%22vamos+beija+flor%22",
+                "promoted_content": null,
+                "query": "%22vamos+beija+flor%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Ganhadeiras de Itapu\u00e3",
+                "url": "http://twitter.com/search?q=%22Ganhadeiras+de+Itapu%C3%A3%22",
+                "promoted_content": null,
+                "query": "%22Ganhadeiras+de+Itapu%C3%A3%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "G. Jesus",
+                "url": "http://twitter.com/search?q=%22G.+Jesus%22",
+                "promoted_content": null,
+                "query": "%22G.+Jesus%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "ENSABOA M\u00c3E",
+                "url": "http://twitter.com/search?q=%22ENSABOA+M%C3%83E%22",
+                "promoted_content": null,
+                "query": "%22ENSABOA+M%C3%83E%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "FAV QUE EU MANDO NA DM",
+                "url": "http://twitter.com/search?q=%22FAV+QUE+EU+MANDO+NA+DM%22",
+                "promoted_content": null,
+                "query": "%22FAV+QUE+EU+MANDO+NA+DM%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Casemiro",
+                "url": "http://twitter.com/search?q=Casemiro",
+                "promoted_content": null,
+                "query": "Casemiro",
+                "tweet_volume": 12149
+            }
+        ],
+        "as_of": "2020-02-26T22:22:09Z",
+        "created_at": "2020-02-26T22:17:52Z",
+        "locations": [
+            {
+                "name": "Brazil",
+                "woeid": 23424768
+            }
+        ]
+    }
+]

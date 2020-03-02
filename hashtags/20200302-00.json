@@ -1,0 +1,161 @@
+[
+    {
+        "trends": [
+            {
+                "name": "Guilherme",
+                "url": "http://twitter.com/search?q=Guilherme",
+                "promoted_content": null,
+                "query": "Guilherme",
+                "tweet_volume": 661640
+            },
+            {
+                "name": "#ForaPyong",
+                "url": "http://twitter.com/search?q=%23ForaPyong",
+                "promoted_content": null,
+                "query": "%23ForaPyong",
+                "tweet_volume": 140822
+            },
+            {
+                "name": "#Fantastico",
+                "url": "http://twitter.com/search?q=%23Fantastico",
+                "promoted_content": null,
+                "query": "%23Fantastico",
+                "tweet_volume": 35753
+            },
+            {
+                "name": "#FicaGizelly",
+                "url": "http://twitter.com/search?q=%23FicaGizelly",
+                "promoted_content": null,
+                "query": "%23FicaGizelly",
+                "tweet_volume": 21407
+            },
+            {
+                "name": "#ARMYSelcaDay",
+                "url": "http://twitter.com/search?q=%23ARMYSelcaDay",
+                "promoted_content": null,
+                "query": "%23ARMYSelcaDay",
+                "tweet_volume": 47579
+            },
+            {
+                "name": "Giselly",
+                "url": "http://twitter.com/search?q=Giselly",
+                "promoted_content": null,
+                "query": "Giselly",
+                "tweet_volume": 10498
+            },
+            {
+                "name": "ASSEDIADOR",
+                "url": "http://twitter.com/search?q=ASSEDIADOR",
+                "promoted_content": null,
+                "query": "ASSEDIADOR",
+                "tweet_volume": 97379
+            },
+            {
+                "name": "Ass\u00e9dio",
+                "url": "http://twitter.com/search?q=Ass%C3%A9dio",
+                "promoted_content": null,
+                "query": "Ass%C3%A9dio",
+                "tweet_volume": 58470
+            },
+            {
+                "name": "#TWD10naFOX",
+                "url": "http://twitter.com/search?q=%23TWD10naFOX",
+                "promoted_content": null,
+                "query": "%23TWD10naFOX",
+                "tweet_volume": null
+            },
+            {
+                "name": "Boa Prior",
+                "url": "http://twitter.com/search?q=%22Boa+Prior%22",
+                "promoted_content": null,
+                "query": "%22Boa+Prior%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "LeBron James",
+                "url": "http://twitter.com/search?q=%22LeBron+James%22",
+                "promoted_content": null,
+                "query": "%22LeBron+James%22",
+                "tweet_volume": 20163
+            },
+            {
+                "name": "Dr\u00e1uzio",
+                "url": "http://twitter.com/search?q=Dr%C3%A1uzio",
+                "promoted_content": null,
+                "query": "Dr%C3%A1uzio",
+                "tweet_volume": 52649
+            },
+            {
+                "name": "Tchau Gui",
+                "url": "http://twitter.com/search?q=%22Tchau+Gui%22",
+                "promoted_content": null,
+                "query": "%22Tchau+Gui%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Zion",
+                "url": "http://twitter.com/search?q=Zion",
+                "promoted_content": null,
+                "query": "Zion",
+                "tweet_volume": 91216
+            },
+            {
+                "name": "vai gizelly",
+                "url": "http://twitter.com/search?q=%22vai+gizelly%22",
+                "promoted_content": null,
+                "query": "%22vai+gizelly%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Lucas Viana",
+                "url": "http://twitter.com/search?q=%22Lucas+Viana%22",
+                "promoted_content": null,
+                "query": "%22Lucas+Viana%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Tadinha da Gi",
+                "url": "http://twitter.com/search?q=%22Tadinha+da+Gi%22",
+                "promoted_content": null,
+                "query": "%22Tadinha+da+Gi%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "#foramarcela",
+                "url": "http://twitter.com/search?q=%23foramarcela",
+                "promoted_content": null,
+                "query": "%23foramarcela",
+                "tweet_volume": null
+            },
+            {
+                "name": "#issoaglobonaomostra",
+                "url": "http://twitter.com/search?q=%23issoaglobonaomostra",
+                "promoted_content": null,
+                "query": "%23issoaglobonaomostra",
+                "tweet_volume": null
+            },
+            {
+                "name": "#SegundaDetremuraSDV",
+                "url": "http://twitter.com/search?q=%23SegundaDetremuraSDV",
+                "promoted_content": null,
+                "query": "%23SegundaDetremuraSDV",
+                "tweet_volume": null
+            },
+            {
+                "name": "#bolsocorno",
+                "url": "http://twitter.com/search?q=%23bolsocorno",
+                "promoted_content": null,
+                "query": "%23bolsocorno",
+                "tweet_volume": null
+            }
+        ],
+        "as_of": "2020-03-02T04:22:12Z",
+        "created_at": "2020-03-02T04:17:03Z",
+        "locations": [
+            {
+                "name": "Brazil",
+                "woeid": 23424768
+            }
+        ]
+    }
+]

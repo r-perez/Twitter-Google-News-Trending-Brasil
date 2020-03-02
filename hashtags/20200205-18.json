@@ -1,0 +1,364 @@
+[
+    {
+        "trends": [
+            {
+                "name": "#BBBB2020",
+                "url": "http://twitter.com/search?q=%23BBBB2020",
+                "promoted_content": null,
+                "query": "%23BBBB2020",
+                "tweet_volume": 185615
+            },
+            {
+                "name": "#AvenidaBrasil",
+                "url": "http://twitter.com/search?q=%23AvenidaBrasil",
+                "promoted_content": null,
+                "query": "%23AvenidaBrasil",
+                "tweet_volume": 40193
+            },
+            {
+                "name": "GRUDA EM MIM PX",
+                "url": "http://twitter.com/search?q=%22GRUDA+EM+MIM+PX%22",
+                "promoted_content": null,
+                "query": "%22GRUDA+EM+MIM+PX%22",
+                "tweet_volume": 17481
+            },
+            {
+                "name": "Nig\u00e9ria",
+                "url": "http://twitter.com/search?q=Nig%C3%A9ria",
+                "promoted_content": null,
+                "query": "Nig%C3%A9ria",
+                "tweet_volume": 113370
+            },
+            {
+                "name": "LUCASVIANA NO JALAPAO",
+                "url": "http://twitter.com/search?q=%22LUCASVIANA+NO+JALAPAO%22",
+                "promoted_content": null,
+                "query": "%22LUCASVIANA+NO+JALAPAO%22",
+                "tweet_volume": 45216
+            },
+            {
+                "name": "Frota",
+                "url": "http://twitter.com/search?q=Frota",
+                "promoted_content": null,
+                "query": "Frota",
+                "tweet_volume": null
+            },
+            {
+                "name": "#contandolunaresma\u00f1ana",
+                "url": "http://twitter.com/search?q=%23contandolunaresma%C3%B1ana",
+                "promoted_content": null,
+                "query": "%23contandolunaresma%C3%B1ana",
+                "tweet_volume": 10416
+            },
+            {
+                "name": "#MTVHitsEmTodoCanto",
+                "url": "http://twitter.com/search?q=%23MTVHitsEmTodoCanto",
+                "promoted_content": null,
+                "query": "%23MTVHitsEmTodoCanto",
+                "tweet_volume": null
+            },
+            {
+                "name": "#IntentionsThisFriday",
+                "url": "http://twitter.com/search?q=%23IntentionsThisFriday",
+                "promoted_content": null,
+                "query": "%23IntentionsThisFriday",
+                "tweet_volume": 10617
+            },
+            {
+                "name": "Selic",
+                "url": "http://twitter.com/search?q=Selic",
+                "promoted_content": null,
+                "query": "Selic",
+                "tweet_volume": null
+            },
+            {
+                "name": "anuncia o fred",
+                "url": "http://twitter.com/search?q=%22anuncia+o+fred%22",
+                "promoted_content": null,
+                "query": "%22anuncia+o+fred%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Meek",
+                "url": "http://twitter.com/search?q=Meek",
+                "promoted_content": null,
+                "query": "Meek",
+                "tweet_volume": 236646
+            },
+            {
+                "name": "Despesa",
+                "url": "http://twitter.com/search?q=Despesa",
+                "promoted_content": null,
+                "query": "Despesa",
+                "tweet_volume": 10717
+            },
+            {
+                "name": "RENOVEM ANNE",
+                "url": "http://twitter.com/search?q=%22RENOVEM+ANNE%22",
+                "promoted_content": null,
+                "query": "%22RENOVEM+ANNE%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "essa carminha",
+                "url": "http://twitter.com/search?q=%22essa+carminha%22",
+                "promoted_content": null,
+                "query": "%22essa+carminha%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Adriana Esteves",
+                "url": "http://twitter.com/search?q=%22Adriana+Esteves%22",
+                "promoted_content": null,
+                "query": "%22Adriana+Esteves%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Mitt Romney",
+                "url": "http://twitter.com/search?q=%22Mitt+Romney%22",
+                "promoted_content": null,
+                "query": "%22Mitt+Romney%22",
+                "tweet_volume": 460537
+            },
+            {
+                "name": "Hoffenheim",
+                "url": "http://twitter.com/search?q=Hoffenheim",
+                "promoted_content": null,
+                "query": "Hoffenheim",
+                "tweet_volume": null
+            },
+            {
+                "name": "Lucas e Prior",
+                "url": "http://twitter.com/search?q=%22Lucas+e+Prior%22",
+                "promoted_content": null,
+                "query": "%22Lucas+e+Prior%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "ME SERVE VADIA",
+                "url": "http://twitter.com/search?q=%22ME+SERVE+VADIA%22",
+                "promoted_content": null,
+                "query": "%22ME+SERVE+VADIA%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "perigo no spotify",
+                "url": "http://twitter.com/search?q=%22perigo+no+spotify%22",
+                "promoted_content": null,
+                "query": "%22perigo+no+spotify%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Tirei Remy",
+                "url": "http://twitter.com/search?q=%22Tirei+Remy%22",
+                "promoted_content": null,
+                "query": "%22Tirei+Remy%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Flamengo x Madureira",
+                "url": "http://twitter.com/search?q=%22Flamengo+x+Madureira%22",
+                "promoted_content": null,
+                "query": "%22Flamengo+x+Madureira%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Carol Moreira",
+                "url": "http://twitter.com/search?q=%22Carol+Moreira%22",
+                "promoted_content": null,
+                "query": "%22Carol+Moreira%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Luiz Galeazzo",
+                "url": "http://twitter.com/search?q=%22Luiz+Galeazzo%22",
+                "promoted_content": null,
+                "query": "%22Luiz+Galeazzo%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "tirei mulher-el\u00e1stica",
+                "url": "http://twitter.com/search?q=%22tirei+mulher-el%C3%A1stica%22",
+                "promoted_content": null,
+                "query": "%22tirei+mulher-el%C3%A1stica%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Pavard",
+                "url": "http://twitter.com/search?q=Pavard",
+                "promoted_content": null,
+                "query": "Pavard",
+                "tweet_volume": null
+            },
+            {
+                "name": "meu nouis",
+                "url": "http://twitter.com/search?q=%22meu+nouis%22",
+                "promoted_content": null,
+                "query": "%22meu+nouis%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Laura Neiva",
+                "url": "http://twitter.com/search?q=%22Laura+Neiva%22",
+                "promoted_content": null,
+                "query": "%22Laura+Neiva%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Partiu S\u00e3o Janu\u00e1rio",
+                "url": "http://twitter.com/search?q=%22Partiu+S%C3%A3o+Janu%C3%A1rio%22",
+                "promoted_content": null,
+                "query": "%22Partiu+S%C3%A3o+Janu%C3%A1rio%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Flay e Gabi",
+                "url": "http://twitter.com/search?q=%22Flay+e+Gabi%22",
+                "promoted_content": null,
+                "query": "%22Flay+e+Gabi%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "#BirdsOfPrey",
+                "url": "http://twitter.com/search?q=%23BirdsOfPrey",
+                "promoted_content": null,
+                "query": "%23BirdsOfPrey",
+                "tweet_volume": 47722
+            },
+            {
+                "name": "#futsalnosportv",
+                "url": "http://twitter.com/search?q=%23futsalnosportv",
+                "promoted_content": null,
+                "query": "%23futsalnosportv",
+                "tweet_volume": null
+            },
+            {
+                "name": "#AbismoDePaixao117",
+                "url": "http://twitter.com/search?q=%23AbismoDePaixao117",
+                "promoted_content": null,
+                "query": "%23AbismoDePaixao117",
+                "tweet_volume": null
+            },
+            {
+                "name": "#InvisibleChainsTomorrow",
+                "url": "http://twitter.com/search?q=%23InvisibleChainsTomorrow",
+                "promoted_content": null,
+                "query": "%23InvisibleChainsTomorrow",
+                "tweet_volume": null
+            },
+            {
+                "name": "#FACupNoDAZN",
+                "url": "http://twitter.com/search?q=%23FACupNoDAZN",
+                "promoted_content": null,
+                "query": "%23FACupNoDAZN",
+                "tweet_volume": null
+            },
+            {
+                "name": "#ICMSZero",
+                "url": "http://twitter.com/search?q=%23ICMSZero",
+                "promoted_content": null,
+                "query": "%23ICMSZero",
+                "tweet_volume": null
+            },
+            {
+                "name": "#WallsTwitterLive",
+                "url": "http://twitter.com/search?q=%23WallsTwitterLive",
+                "promoted_content": null,
+                "query": "%23WallsTwitterLive",
+                "tweet_volume": 21322
+            },
+            {
+                "name": "#BettyAFeiaEmNY008",
+                "url": "http://twitter.com/search?q=%23BettyAFeiaEmNY008",
+                "promoted_content": null,
+                "query": "%23BettyAFeiaEmNY008",
+                "tweet_volume": null
+            },
+            {
+                "name": "#expedientefutebol",
+                "url": "http://twitter.com/search?q=%23expedientefutebol",
+                "promoted_content": null,
+                "query": "%23expedientefutebol",
+                "tweet_volume": null
+            },
+            {
+                "name": "#Anovaordem",
+                "url": "http://twitter.com/search?q=%23Anovaordem",
+                "promoted_content": null,
+                "query": "%23Anovaordem",
+                "tweet_volume": null
+            },
+            {
+                "name": "#MelimNoTVZ",
+                "url": "http://twitter.com/search?q=%23MelimNoTVZ",
+                "promoted_content": null,
+                "query": "%23MelimNoTVZ",
+                "tweet_volume": null
+            },
+            {
+                "name": "#futebolnaveia",
+                "url": "http://twitter.com/search?q=%23futebolnaveia",
+                "promoted_content": null,
+                "query": "%23futebolnaveia",
+                "tweet_volume": null
+            },
+            {
+                "name": "#CopadoBrasil",
+                "url": "http://twitter.com/search?q=%23CopadoBrasil",
+                "promoted_content": null,
+                "query": "%23CopadoBrasil",
+                "tweet_volume": null
+            },
+            {
+                "name": "#AssociaVoz\u00e3o",
+                "url": "http://twitter.com/search?q=%23AssociaVoz%C3%A3o",
+                "promoted_content": null,
+                "query": "%23AssociaVoz%C3%A3o",
+                "tweet_volume": null
+            },
+            {
+                "name": "#FicaRony",
+                "url": "http://twitter.com/search?q=%23FicaRony",
+                "promoted_content": null,
+                "query": "%23FicaRony",
+                "tweet_volume": null
+            },
+            {
+                "name": "#MeuCoracaoETeu068",
+                "url": "http://twitter.com/search?q=%23MeuCoracaoETeu068",
+                "promoted_content": null,
+                "query": "%23MeuCoracaoETeu068",
+                "tweet_volume": null
+            },
+            {
+                "name": "#graffite98",
+                "url": "http://twitter.com/search?q=%23graffite98",
+                "promoted_content": null,
+                "query": "%23graffite98",
+                "tweet_volume": null
+            },
+            {
+                "name": "#copadaalemanhanaespn",
+                "url": "http://twitter.com/search?q=%23copadaalemanhanaespn",
+                "promoted_content": null,
+                "query": "%23copadaalemanhanaespn",
+                "tweet_volume": null
+            },
+            {
+                "name": "#GitmeKal",
+                "url": "http://twitter.com/search?q=%23GitmeKal",
+                "promoted_content": null,
+                "query": "%23GitmeKal",
+                "tweet_volume": 105951
+            }
+        ],
+        "as_of": "2020-02-05T22:21:47Z",
+        "created_at": "2020-02-05T22:15:59Z",
+        "locations": [
+            {
+                "name": "Brazil",
+                "woeid": 23424768
+            }
+        ]
+    }
+]
