@@ -1,0 +1,343 @@
+[
+    {
+        "trends": [
+            {
+                "name": "Liverpool",
+                "url": "http://twitter.com/search?q=Liverpool",
+                "promoted_content": null,
+                "query": "Liverpool",
+                "tweet_volume": null
+            },
+            {
+                "name": "Neymar",
+                "url": "http://twitter.com/search?q=Neymar",
+                "promoted_content": null,
+                "query": "Neymar",
+                "tweet_volume": null
+            },
+            {
+                "name": "Alisson",
+                "url": "http://twitter.com/search?q=Alisson",
+                "promoted_content": null,
+                "query": "Alisson",
+                "tweet_volume": null
+            },
+            {
+                "name": "Adrian",
+                "url": "http://twitter.com/search?q=Adrian",
+                "promoted_content": null,
+                "query": "Adrian",
+                "tweet_volume": null
+            },
+            {
+                "name": "Firmino",
+                "url": "http://twitter.com/search?q=Firmino",
+                "promoted_content": null,
+                "query": "Firmino",
+                "tweet_volume": null
+            },
+            {
+                "name": "Atl\u00e9tico de Madrid",
+                "url": "http://twitter.com/search?q=%22Atl%C3%A9tico+de+Madrid%22",
+                "promoted_content": null,
+                "query": "%22Atl%C3%A9tico+de+Madrid%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Oblak",
+                "url": "http://twitter.com/search?q=Oblak",
+                "promoted_content": null,
+                "query": "Oblak",
+                "tweet_volume": null
+            },
+            {
+                "name": "Adulto Ney",
+                "url": "http://twitter.com/search?q=%22Adulto+Ney%22",
+                "promoted_content": null,
+                "query": "%22Adulto+Ney%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Champions",
+                "url": "http://twitter.com/search?q=Champions",
+                "promoted_content": null,
+                "query": "Champions",
+                "tweet_volume": null
+            },
+            {
+                "name": "Llorente",
+                "url": "http://twitter.com/search?q=Llorente",
+                "promoted_content": null,
+                "query": "Llorente",
+                "tweet_volume": 45069
+            },
+            {
+                "name": "Simeone",
+                "url": "http://twitter.com/search?q=Simeone",
+                "promoted_content": null,
+                "query": "Simeone",
+                "tweet_volume": 34672
+            },
+            {
+                "name": "Anfield",
+                "url": "http://twitter.com/search?q=Anfield",
+                "promoted_content": null,
+                "query": "Anfield",
+                "tweet_volume": 89130
+            },
+            {
+                "name": "Atleti",
+                "url": "http://twitter.com/search?q=Atleti",
+                "promoted_content": null,
+                "query": "Atleti",
+                "tweet_volume": null
+            },
+            {
+                "name": "Borussia",
+                "url": "http://twitter.com/search?q=Borussia",
+                "promoted_content": null,
+                "query": "Borussia",
+                "tweet_volume": null
+            },
+            {
+                "name": "MULHER N\u00c3O \u00c9 CARD\u00c1PIO",
+                "url": "http://twitter.com/search?q=%22MULHER+N%C3%83O+%C3%89+CARD%C3%81PIO%22",
+                "promoted_content": null,
+                "query": "%22MULHER+N%C3%83O+%C3%89+CARD%C3%81PIO%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Haaland",
+                "url": "http://twitter.com/search?q=Haaland",
+                "promoted_content": null,
+                "query": "Haaland",
+                "tweet_volume": null
+            },
+            {
+                "name": "#LIVATL",
+                "url": "http://twitter.com/search?q=%23LIVATL",
+                "promoted_content": null,
+                "query": "%23LIVATL",
+                "tweet_volume": null
+            },
+            {
+                "name": "Jo\u00e3o F\u00e9lix",
+                "url": "http://twitter.com/search?q=%22Jo%C3%A3o+F%C3%A9lix%22",
+                "promoted_content": null,
+                "query": "%22Jo%C3%A3o+F%C3%A9lix%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Diego Costa",
+                "url": "http://twitter.com/search?q=%22Diego+Costa%22",
+                "promoted_content": null,
+                "query": "%22Diego+Costa%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "#PSGBVB",
+                "url": "http://twitter.com/search?q=%23PSGBVB",
+                "promoted_content": null,
+                "query": "%23PSGBVB",
+                "tweet_volume": null
+            },
+            {
+                "name": "Karius",
+                "url": "http://twitter.com/search?q=Karius",
+                "promoted_content": null,
+                "query": "Karius",
+                "tweet_volume": null
+            },
+            {
+                "name": "Menino Ney",
+                "url": "http://twitter.com/search?q=%22Menino+Ney%22",
+                "promoted_content": null,
+                "query": "%22Menino+Ney%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "#TheCircleBrasil",
+                "url": "http://twitter.com/search?q=%23TheCircleBrasil",
+                "promoted_content": null,
+                "query": "%23TheCircleBrasil",
+                "tweet_volume": null
+            },
+            {
+                "name": "Di Maria",
+                "url": "http://twitter.com/search?q=%22Di+Maria%22",
+                "promoted_content": null,
+                "query": "%22Di+Maria%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "#ElaMeInspira",
+                "url": "http://twitter.com/search?q=%23ElaMeInspira",
+                "promoted_content": null,
+                "query": "%23ElaMeInspira",
+                "tweet_volume": null
+            },
+            {
+                "name": "#sejoga",
+                "url": "http://twitter.com/search?q=%23sejoga",
+                "promoted_content": null,
+                "query": "%23sejoga",
+                "tweet_volume": null
+            },
+            {
+                "name": "Wijnaldum",
+                "url": "http://twitter.com/search?q=Wijnaldum",
+                "promoted_content": null,
+                "query": "Wijnaldum",
+                "tweet_volume": null
+            },
+            {
+                "name": "QUE JOGO",
+                "url": "http://twitter.com/search?q=%22QUE+JOGO%22",
+                "promoted_content": null,
+                "query": "%22QUE+JOGO%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Favre",
+                "url": "http://twitter.com/search?q=Favre",
+                "promoted_content": null,
+                "query": "Favre",
+                "tweet_volume": null
+            },
+            {
+                "name": "Cavani",
+                "url": "http://twitter.com/search?q=Cavani",
+                "promoted_content": null,
+                "query": "Cavani",
+                "tweet_volume": null
+            },
+            {
+                "name": "Emre Can",
+                "url": "http://twitter.com/search?q=%22Emre+Can%22",
+                "promoted_content": null,
+                "query": "%22Emre+Can%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Morata",
+                "url": "http://twitter.com/search?q=Morata",
+                "promoted_content": null,
+                "query": "Morata",
+                "tweet_volume": null
+            },
+            {
+                "name": "Arnold",
+                "url": "http://twitter.com/search?q=Arnold",
+                "promoted_content": null,
+                "query": "Arnold",
+                "tweet_volume": null
+            },
+            {
+                "name": "SIGA GABIMARTINS NO IG",
+                "url": "http://twitter.com/search?q=%22SIGA+GABIMARTINS+NO+IG%22",
+                "promoted_content": null,
+                "query": "%22SIGA+GABIMARTINS+NO+IG%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "ALLEZ PARIS",
+                "url": "http://twitter.com/search?q=%22ALLEZ+PARIS%22",
+                "promoted_content": null,
+                "query": "%22ALLEZ+PARIS%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Pandemia",
+                "url": "http://twitter.com/search?q=Pandemia",
+                "promoted_content": null,
+                "query": "Pandemia",
+                "tweet_volume": 367627
+            },
+            {
+                "name": "Rugani",
+                "url": "http://twitter.com/search?q=Rugani",
+                "promoted_content": null,
+                "query": "Rugani",
+                "tweet_volume": null
+            },
+            {
+                "name": "Hakimi",
+                "url": "http://twitter.com/search?q=Hakimi",
+                "promoted_content": null,
+                "query": "Hakimi",
+                "tweet_volume": null
+            },
+            {
+                "name": "Mbappe",
+                "url": "http://twitter.com/search?q=Mbappe",
+                "promoted_content": null,
+                "query": "Mbappe",
+                "tweet_volume": 45734
+            },
+            {
+                "name": "tranquilo ney",
+                "url": "http://twitter.com/search?q=%22tranquilo+ney%22",
+                "promoted_content": null,
+                "query": "%22tranquilo+ney%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Bernat",
+                "url": "http://twitter.com/search?q=Bernat",
+                "promoted_content": null,
+                "query": "Bernat",
+                "tweet_volume": null
+            },
+            {
+                "name": "LIV x ATM",
+                "url": "http://twitter.com/search?q=%22LIV+x+ATM%22",
+                "promoted_content": null,
+                "query": "%22LIV+x+ATM%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Flay x Daniel",
+                "url": "http://twitter.com/search?q=%22Flay+x+Daniel%22",
+                "promoted_content": null,
+                "query": "%22Flay+x+Daniel%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "#MTVHitsDoFuturo",
+                "url": "http://twitter.com/search?q=%23MTVHitsDoFuturo",
+                "promoted_content": null,
+                "query": "%23MTVHitsDoFuturo",
+                "tweet_volume": null
+            },
+            {
+                "name": "#LavanderiaDoMoro",
+                "url": "http://twitter.com/search?q=%23LavanderiaDoMoro",
+                "promoted_content": null,
+                "query": "%23LavanderiaDoMoro",
+                "tweet_volume": null
+            },
+            {
+                "name": "#CidadeAlerta",
+                "url": "http://twitter.com/search?q=%23CidadeAlerta",
+                "promoted_content": null,
+                "query": "%23CidadeAlerta",
+                "tweet_volume": null
+            },
+            {
+                "name": "#\uc9c0\ubbfc\uc544_\uc0ac\ub791\ud574",
+                "url": "http://twitter.com/search?q=%23%EC%A7%80%EB%AF%BC%EC%95%84_%EC%82%AC%EB%9E%91%ED%95%B4",
+                "promoted_content": null,
+                "query": "%23%EC%A7%80%EB%AF%BC%EC%95%84_%EC%82%AC%EB%9E%91%ED%95%B4",
+                "tweet_volume": null
+            }
+        ],
+        "as_of": "2020-03-11T22:22:22Z",
+        "created_at": "2020-03-11T22:15:45Z",
+        "locations": [
+            {
+                "name": "Brazil",
+                "woeid": 23424768
+            }
+        ]
+    }
+]
