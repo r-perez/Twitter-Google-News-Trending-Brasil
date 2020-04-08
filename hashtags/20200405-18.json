@@ -1,0 +1,364 @@
+[
+    {
+        "trends": [
+            {
+                "name": "Tiee",
+                "url": "http://twitter.com/search?q=Tiee",
+                "promoted_content": null,
+                "query": "Tiee",
+                "tweet_volume": 295471
+            },
+            {
+                "name": "Cristiano Ara\u00fajo",
+                "url": "http://twitter.com/search?q=%22Cristiano+Ara%C3%BAjo%22",
+                "promoted_content": null,
+                "query": "%22Cristiano+Ara%C3%BAjo%22",
+                "tweet_volume": 21131
+            },
+            {
+                "name": "Mamonas Assassinas",
+                "url": "http://twitter.com/search?q=%22Mamonas+Assassinas%22",
+                "promoted_content": null,
+                "query": "%22Mamonas+Assassinas%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Henrique de Ferraz",
+                "url": "http://twitter.com/search?q=%22Henrique+de+Ferraz%22",
+                "promoted_content": null,
+                "query": "%22Henrique+de+Ferraz%22",
+                "tweet_volume": 24887
+            },
+            {
+                "name": "#MatchLGBTQ",
+                "url": "http://twitter.com/search?q=%23MatchLGBTQ",
+                "promoted_content": null,
+                "query": "%23MatchLGBTQ",
+                "tweet_volume": 19937
+            },
+            {
+                "name": "#villamixEsperanca",
+                "url": "http://twitter.com/search?q=%23villamixEsperanca",
+                "promoted_content": null,
+                "query": "%23villamixEsperanca",
+                "tweet_volume": null
+            },
+            {
+                "name": "Rodriguinho",
+                "url": "http://twitter.com/search?q=Rodriguinho",
+                "promoted_content": null,
+                "query": "Rodriguinho",
+                "tweet_volume": 17252
+            },
+            {
+                "name": "#emcasacominimigos",
+                "url": "http://twitter.com/search?q=%23emcasacominimigos",
+                "promoted_content": null,
+                "query": "%23emcasacominimigos",
+                "tweet_volume": null
+            },
+            {
+                "name": "LUAN S\u00d3 AS ANTIGAS",
+                "url": "http://twitter.com/search?q=%22LUAN+S%C3%93+AS+ANTIGAS%22",
+                "promoted_content": null,
+                "query": "%22LUAN+S%C3%93+AS+ANTIGAS%22",
+                "tweet_volume": 50499
+            },
+            {
+                "name": "Fernando de Noronha",
+                "url": "http://twitter.com/search?q=%22Fernando+de+Noronha%22",
+                "promoted_content": null,
+                "query": "%22Fernando+de+Noronha%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Dona Ivone Lara",
+                "url": "http://twitter.com/search?q=%22Dona+Ivone+Lara%22",
+                "promoted_content": null,
+                "query": "%22Dona+Ivone+Lara%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "#Attunement",
+                "url": "http://twitter.com/search?q=%23Attunement",
+                "promoted_content": null,
+                "query": "%23Attunement",
+                "tweet_volume": null
+            },
+            {
+                "name": "ImaginaSamba",
+                "url": "http://twitter.com/search?q=ImaginaSamba",
+                "promoted_content": null,
+                "query": "ImaginaSamba",
+                "tweet_volume": null
+            },
+            {
+                "name": "Jorge Arag\u00e3o",
+                "url": "http://twitter.com/search?q=%22Jorge+Arag%C3%A3o%22",
+                "promoted_content": null,
+                "query": "%22Jorge+Arag%C3%A3o%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "#ProudOfLouis",
+                "url": "http://twitter.com/search?q=%23ProudOfLouis",
+                "promoted_content": null,
+                "query": "%23ProudOfLouis",
+                "tweet_volume": 47855
+            },
+            {
+                "name": "QUEM VAI FAZER O ARROZ",
+                "url": "http://twitter.com/search?q=%22QUEM+VAI+FAZER+O+ARROZ%22",
+                "promoted_content": null,
+                "query": "%22QUEM+VAI+FAZER+O+ARROZ%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Henry Cavill",
+                "url": "http://twitter.com/search?q=%22Henry+Cavill%22",
+                "promoted_content": null,
+                "query": "%22Henry+Cavill%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "VOLTA PRO LUGAR",
+                "url": "http://twitter.com/search?q=%22VOLTA+PRO+LUGAR%22",
+                "promoted_content": null,
+                "query": "%22VOLTA+PRO+LUGAR%22",
+                "tweet_volume": 12192
+            },
+            {
+                "name": "SOU EU",
+                "url": "http://twitter.com/search?q=%22SOU+EU%22",
+                "promoted_content": null,
+                "query": "%22SOU+EU%22",
+                "tweet_volume": 85232
+            },
+            {
+                "name": "Cleiton Rasta",
+                "url": "http://twitter.com/search?q=%22Cleiton+Rasta%22",
+                "promoted_content": null,
+                "query": "%22Cleiton+Rasta%22",
+                "tweet_volume": 13342
+            },
+            {
+                "name": "POSSO TE CHAMAR DE M\u00d4",
+                "url": "http://twitter.com/search?q=%22POSSO+TE+CHAMAR+DE+M%C3%94%22",
+                "promoted_content": null,
+                "query": "%22POSSO+TE+CHAMAR+DE+M%C3%94%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "VOC\u00ca ME FAZ T\u00c3O BEM",
+                "url": "http://twitter.com/search?q=%22VOC%C3%8A+ME+FAZ+T%C3%83O+BEM%22",
+                "promoted_content": null,
+                "query": "%22VOC%C3%8A+ME+FAZ+T%C3%83O+BEM%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "KISSES UM ANO",
+                "url": "http://twitter.com/search?q=%22KISSES+UM+ANO%22",
+                "promoted_content": null,
+                "query": "%22KISSES+UM+ANO%22",
+                "tweet_volume": 12760
+            },
+            {
+                "name": "Fundo de Quintal",
+                "url": "http://twitter.com/search?q=%22Fundo+de+Quintal%22",
+                "promoted_content": null,
+                "query": "%22Fundo+de+Quintal%22",
+                "tweet_volume": 15042
+            },
+            {
+                "name": "quem vai cuidar de mim",
+                "url": "http://twitter.com/search?q=%22quem+vai+cuidar+de+mim%22",
+                "promoted_content": null,
+                "query": "%22quem+vai+cuidar+de+mim%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "EU S\u00d3 SEI DIZER QUE TE AMO",
+                "url": "http://twitter.com/search?q=%22EU+S%C3%93+SEI+DIZER+QUE+TE+AMO%22",
+                "promoted_content": null,
+                "query": "%22EU+S%C3%93+SEI+DIZER+QUE+TE+AMO%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "\u00d4 Irene",
+                "url": "http://twitter.com/search?q=%22%C3%94+Irene%22",
+                "promoted_content": null,
+                "query": "%22%C3%94+Irene%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "O QUE TEMOS PRA HOJE \u00c9 SAUDADE",
+                "url": "http://twitter.com/search?q=%22O+QUE+TEMOS+PRA+HOJE+%C3%89+SAUDADE%22",
+                "promoted_content": null,
+                "query": "%22O+QUE+TEMOS+PRA+HOJE+%C3%89+SAUDADE%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "ME ABRA\u00c7A",
+                "url": "http://twitter.com/search?q=%22ME+ABRA%C3%87A%22",
+                "promoted_content": null,
+                "query": "%22ME+ABRA%C3%87A%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Tony Salles",
+                "url": "http://twitter.com/search?q=%22Tony+Salles%22",
+                "promoted_content": null,
+                "query": "%22Tony+Salles%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "SAI PRA CURTIR UM SOM",
+                "url": "http://twitter.com/search?q=%22SAI+PRA+CURTIR+UM+SOM%22",
+                "promoted_content": null,
+                "query": "%22SAI+PRA+CURTIR+UM+SOM%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "EU SINTO SUA FALTA",
+                "url": "http://twitter.com/search?q=%22EU+SINTO+SUA+FALTA%22",
+                "promoted_content": null,
+                "query": "%22EU+SINTO+SUA+FALTA%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Graveto",
+                "url": "http://twitter.com/search?q=Graveto",
+                "promoted_content": null,
+                "query": "Graveto",
+                "tweet_volume": null
+            },
+            {
+                "name": "QUEM VAI MASSAGEAR",
+                "url": "http://twitter.com/search?q=%22QUEM+VAI+MASSAGEAR%22",
+                "promoted_content": null,
+                "query": "%22QUEM+VAI+MASSAGEAR%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Lincoln de Lima",
+                "url": "http://twitter.com/search?q=%22Lincoln+de+Lima%22",
+                "promoted_content": null,
+                "query": "%22Lincoln+de+Lima%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Dona Fia",
+                "url": "http://twitter.com/search?q=%22Dona+Fia%22",
+                "promoted_content": null,
+                "query": "%22Dona+Fia%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "o bastante pra n\u00f3s dois",
+                "url": "http://twitter.com/search?q=%22o+bastante+pra+n%C3%B3s+dois%22",
+                "promoted_content": null,
+                "query": "%22o+bastante+pra+n%C3%B3s+dois%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "SE EXISTE AMOR",
+                "url": "http://twitter.com/search?q=%22SE+EXISTE+AMOR%22",
+                "promoted_content": null,
+                "query": "%22SE+EXISTE+AMOR%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "AI FOI QUE O BARRACO DESABOU",
+                "url": "http://twitter.com/search?q=%22AI+FOI+QUE+O+BARRACO+DESABOU%22",
+                "promoted_content": null,
+                "query": "%22AI+FOI+QUE+O+BARRACO+DESABOU%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "ME BEIJA",
+                "url": "http://twitter.com/search?q=%22ME+BEIJA%22",
+                "promoted_content": null,
+                "query": "%22ME+BEIJA%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "shangril\u00e1",
+                "url": "http://twitter.com/search?q=shangril%C3%A1",
+                "promoted_content": null,
+                "query": "shangril%C3%A1",
+                "tweet_volume": null
+            },
+            {
+                "name": "Tirei Zeca Pagodinho",
+                "url": "http://twitter.com/search?q=%22Tirei+Zeca+Pagodinho%22",
+                "promoted_content": null,
+                "query": "%22Tirei+Zeca+Pagodinho%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Digimon",
+                "url": "http://twitter.com/search?q=Digimon",
+                "promoted_content": null,
+                "query": "Digimon",
+                "tweet_volume": 66976
+            },
+            {
+                "name": "#JejumPeloBrasil",
+                "url": "http://twitter.com/search?q=%23JejumPeloBrasil",
+                "promoted_content": null,
+                "query": "%23JejumPeloBrasil",
+                "tweet_volume": 76686
+            },
+            {
+                "name": "#UnhaPintada",
+                "url": "http://twitter.com/search?q=%23UnhaPintada",
+                "promoted_content": null,
+                "query": "%23UnhaPintada",
+                "tweet_volume": null
+            },
+            {
+                "name": "#jejumeocaralho",
+                "url": "http://twitter.com/search?q=%23jejumeocaralho",
+                "promoted_content": null,
+                "query": "%23jejumeocaralho",
+                "tweet_volume": null
+            },
+            {
+                "name": "#2YearsWithEuphoria",
+                "url": "http://twitter.com/search?q=%232YearsWithEuphoria",
+                "promoted_content": null,
+                "query": "%232YearsWithEuphoria",
+                "tweet_volume": 276362
+            },
+            {
+                "name": "#BackToForks",
+                "url": "http://twitter.com/search?q=%23BackToForks",
+                "promoted_content": null,
+                "query": "%23BackToForks",
+                "tweet_volume": null
+            },
+            {
+                "name": "#faustao",
+                "url": "http://twitter.com/search?q=%23faustao",
+                "promoted_content": null,
+                "query": "%23faustao",
+                "tweet_volume": null
+            },
+            {
+                "name": "#FimDoPT",
+                "url": "http://twitter.com/search?q=%23FimDoPT",
+                "promoted_content": null,
+                "query": "%23FimDoPT",
+                "tweet_volume": null
+            }
+        ],
+        "as_of": "2020-04-05T21:22:56Z",
+        "created_at": "2020-04-05T21:18:10Z",
+        "locations": [
+            {
+                "name": "Brazil",
+                "woeid": 23424768
+            }
+        ]
+    }
+]
