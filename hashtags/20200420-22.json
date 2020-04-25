@@ -1,0 +1,329 @@
+[
+    {
+        "trends": [
+            {
+                "name": "#AmigosBrahmaLive",
+                "url": "http://twitter.com/search?q=%23AmigosBrahmaLive",
+                "promoted_content": null,
+                "query": "%23AmigosBrahmaLive",
+                "tweet_volume": 77757
+            },
+            {
+                "name": "Pixote",
+                "url": "http://twitter.com/search?q=Pixote",
+                "promoted_content": null,
+                "query": "Pixote",
+                "tweet_volume": 212933
+            },
+            {
+                "name": "Alcione",
+                "url": "http://twitter.com/search?q=Alcione",
+                "promoted_content": null,
+                "query": "Alcione",
+                "tweet_volume": 55201
+            },
+            {
+                "name": "Jo\u00e3o Bosco",
+                "url": "http://twitter.com/search?q=%22Jo%C3%A3o+Bosco%22",
+                "promoted_content": null,
+                "query": "%22Jo%C3%A3o+Bosco%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "#MARROMEMCASA",
+                "url": "http://twitter.com/search?q=%23MARROMEMCASA",
+                "promoted_content": null,
+                "query": "%23MARROMEMCASA",
+                "tweet_volume": null
+            },
+            {
+                "name": "Xoror\u00f3",
+                "url": "http://twitter.com/search?q=Xoror%C3%B3",
+                "promoted_content": null,
+                "query": "Xoror%C3%B3",
+                "tweet_volume": 13424
+            },
+            {
+                "name": "Bruna Karla",
+                "url": "http://twitter.com/search?q=%22Bruna+Karla%22",
+                "promoted_content": null,
+                "query": "%22Bruna+Karla%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "MAS TEM QUE ME PRENDER",
+                "url": "http://twitter.com/search?q=%22MAS+TEM+QUE+ME+PRENDER%22",
+                "promoted_content": null,
+                "query": "%22MAS+TEM+QUE+ME+PRENDER%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "#LiveScalene",
+                "url": "http://twitter.com/search?q=%23LiveScalene",
+                "promoted_content": null,
+                "query": "%23LiveScalene",
+                "tweet_volume": null
+            },
+            {
+                "name": "#SegundaEmHarmonia",
+                "url": "http://twitter.com/search?q=%23SegundaEmHarmonia",
+                "promoted_content": null,
+                "query": "%23SegundaEmHarmonia",
+                "tweet_volume": null
+            },
+            {
+                "name": "#LiveLumaElpidio",
+                "url": "http://twitter.com/search?q=%23LiveLumaElpidio",
+                "promoted_content": null,
+                "query": "%23LiveLumaElpidio",
+                "tweet_volume": null
+            },
+            {
+                "name": "Dodo",
+                "url": "http://twitter.com/search?q=Dodo",
+                "promoted_content": null,
+                "query": "Dodo",
+                "tweet_volume": 64769
+            },
+            {
+                "name": "Loba",
+                "url": "http://twitter.com/search?q=Loba",
+                "promoted_content": null,
+                "query": "Loba",
+                "tweet_volume": null
+            },
+            {
+                "name": "Inseguran\u00e7a",
+                "url": "http://twitter.com/search?q=Inseguran%C3%A7a",
+                "promoted_content": null,
+                "query": "Inseguran%C3%A7a",
+                "tweet_volume": 52757
+            },
+            {
+                "name": "SAUDADE ARREGA\u00c7A",
+                "url": "http://twitter.com/search?q=%22SAUDADE+ARREGA%C3%87A%22",
+                "promoted_content": null,
+                "query": "%22SAUDADE+ARREGA%C3%87A%22",
+                "tweet_volume": 16665
+            },
+            {
+                "name": "MANDE UM SINAL",
+                "url": "http://twitter.com/search?q=%22MANDE+UM+SINAL%22",
+                "promoted_content": null,
+                "query": "%22MANDE+UM+SINAL%22",
+                "tweet_volume": 10744
+            },
+            {
+                "name": "NEM DE GRA\u00c7A",
+                "url": "http://twitter.com/search?q=%22NEM+DE+GRA%C3%87A%22",
+                "promoted_content": null,
+                "query": "%22NEM+DE+GRA%C3%87A%22",
+                "tweet_volume": 18415
+            },
+            {
+                "name": "Reginaldo Rossi",
+                "url": "http://twitter.com/search?q=%22Reginaldo+Rossi%22",
+                "promoted_content": null,
+                "query": "%22Reginaldo+Rossi%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "TEM QUE SEDUZIR",
+                "url": "http://twitter.com/search?q=%22TEM+QUE+SEDUZIR%22",
+                "promoted_content": null,
+                "query": "%22TEM+QUE+SEDUZIR%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Whindersson",
+                "url": "http://twitter.com/search?q=Whindersson",
+                "promoted_content": null,
+                "query": "Whindersson",
+                "tweet_volume": null
+            },
+            {
+                "name": "Zez\u00e9 e Luciano",
+                "url": "http://twitter.com/search?q=%22Zez%C3%A9+e+Luciano%22",
+                "promoted_content": null,
+                "query": "%22Zez%C3%A9+e+Luciano%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "GIZELLY NO MULTISHOW",
+                "url": "http://twitter.com/search?q=%22GIZELLY+NO+MULTISHOW%22",
+                "promoted_content": null,
+                "query": "%22GIZELLY+NO+MULTISHOW%22",
+                "tweet_volume": 61371
+            },
+            {
+                "name": "Antenor",
+                "url": "http://twitter.com/search?q=Antenor",
+                "promoted_content": null,
+                "query": "Antenor",
+                "tweet_volume": null
+            },
+            {
+                "name": "janeiro a janeiro",
+                "url": "http://twitter.com/search?q=%22janeiro+a+janeiro%22",
+                "promoted_content": null,
+                "query": "%22janeiro+a+janeiro%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Em\u00edlio Santiago",
+                "url": "http://twitter.com/search?q=%22Em%C3%ADlio+Santiago%22",
+                "promoted_content": null,
+                "query": "%22Em%C3%ADlio+Santiago%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "\u00e9 o brilho do seu olhar",
+                "url": "http://twitter.com/search?q=%22%C3%A9+o+brilho+do+seu+olhar%22",
+                "promoted_content": null,
+                "query": "%22%C3%A9+o+brilho+do+seu+olhar%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Pitty",
+                "url": "http://twitter.com/search?q=Pitty",
+                "promoted_content": null,
+                "query": "Pitty",
+                "tweet_volume": 28823
+            },
+            {
+                "name": "VOC\u00ca PODE",
+                "url": "http://twitter.com/search?q=%22VOC%C3%8A+PODE%22",
+                "promoted_content": null,
+                "query": "%22VOC%C3%8A+PODE%22",
+                "tweet_volume": 24183
+            },
+            {
+                "name": "EU S\u00d3 SEI DIZER QUE TE AMO",
+                "url": "http://twitter.com/search?q=%22EU+S%C3%93+SEI+DIZER+QUE+TE+AMO%22",
+                "promoted_content": null,
+                "query": "%22EU+S%C3%93+SEI+DIZER+QUE+TE+AMO%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "S\u00d3 VOC\u00ca",
+                "url": "http://twitter.com/search?q=%22S%C3%93+VOC%C3%8A%22",
+                "promoted_content": null,
+                "query": "%22S%C3%93+VOC%C3%8A%22",
+                "tweet_volume": 32504
+            },
+            {
+                "name": "Ciro Gomes",
+                "url": "http://twitter.com/search?q=%22Ciro+Gomes%22",
+                "promoted_content": null,
+                "query": "%22Ciro+Gomes%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "VEM FICAR PERTO DE MIM",
+                "url": "http://twitter.com/search?q=%22VEM+FICAR+PERTO+DE+MIM%22",
+                "promoted_content": null,
+                "query": "%22VEM+FICAR+PERTO+DE+MIM%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "T\u00c1 EM VOC\u00ca",
+                "url": "http://twitter.com/search?q=%22T%C3%81+EM+VOC%C3%8A%22",
+                "promoted_content": null,
+                "query": "%22T%C3%81+EM+VOC%C3%8A%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Sua Estupidez",
+                "url": "http://twitter.com/search?q=%22Sua+Estupidez%22",
+                "promoted_content": null,
+                "query": "%22Sua+Estupidez%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "DIZ PRA ELA APARECER",
+                "url": "http://twitter.com/search?q=%22DIZ+PRA+ELA+APARECER%22",
+                "promoted_content": null,
+                "query": "%22DIZ+PRA+ELA+APARECER%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "QUE ME LEVA A LOUCURA",
+                "url": "http://twitter.com/search?q=%22QUE+ME+LEVA+A+LOUCURA%22",
+                "promoted_content": null,
+                "query": "%22QUE+ME+LEVA+A+LOUCURA%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "#MataEsseCaraNaWeb",
+                "url": "http://twitter.com/search?q=%23MataEsseCaraNaWeb",
+                "promoted_content": null,
+                "query": "%23MataEsseCaraNaWeb",
+                "tweet_volume": null
+            },
+            {
+                "name": "#JBeVAcusticoNoBar",
+                "url": "http://twitter.com/search?q=%23JBeVAcusticoNoBar",
+                "promoted_content": null,
+                "query": "%23JBeVAcusticoNoBar",
+                "tweet_volume": null
+            },
+            {
+                "name": "#lascadosepelados",
+                "url": "http://twitter.com/search?q=%23lascadosepelados",
+                "promoted_content": null,
+                "query": "%23lascadosepelados",
+                "tweet_volume": null
+            },
+            {
+                "name": "#CunhaFalaNoTL",
+                "url": "http://twitter.com/search?q=%23CunhaFalaNoTL",
+                "promoted_content": null,
+                "query": "%23CunhaFalaNoTL",
+                "tweet_volume": 16992
+            },
+            {
+                "name": "#FechadosComBolsobaro",
+                "url": "http://twitter.com/search?q=%23FechadosComBolsobaro",
+                "promoted_content": null,
+                "query": "%23FechadosComBolsobaro",
+                "tweet_volume": 14809
+            },
+            {
+                "name": "#KondZillaFestivalEmCasa",
+                "url": "http://twitter.com/search?q=%23KondZillaFestivalEmCasa",
+                "promoted_content": null,
+                "query": "%23KondZillaFestivalEmCasa",
+                "tweet_volume": null
+            },
+            {
+                "name": "#AmorSemIgual93",
+                "url": "http://twitter.com/search?q=%23AmorSemIgual93",
+                "promoted_content": null,
+                "query": "%23AmorSemIgual93",
+                "tweet_volume": null
+            },
+            {
+                "name": "#askjaypark",
+                "url": "http://twitter.com/search?q=%23askjaypark",
+                "promoted_content": null,
+                "query": "%23askjaypark",
+                "tweet_volume": null
+            },
+            {
+                "name": "#LivedaMarrom",
+                "url": "http://twitter.com/search?q=%23LivedaMarrom",
+                "promoted_content": null,
+                "query": "%23LivedaMarrom",
+                "tweet_volume": null
+            }
+        ],
+        "as_of": "2020-04-21T01:23:11Z",
+        "created_at": "2020-04-21T01:19:40Z",
+        "locations": [
+            {
+                "name": "Brazil",
+                "woeid": 23424768
+            }
+        ]
+    }
+]
