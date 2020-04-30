@@ -1,0 +1,161 @@
+[
+    {
+        "trends": [
+            {
+                "name": "Whindersson",
+                "url": "http://twitter.com/search?q=Whindersson",
+                "promoted_content": null,
+                "query": "Whindersson",
+                "tweet_volume": 264407
+            },
+            {
+                "name": "#STFVergonhaNacional",
+                "url": "http://twitter.com/search?q=%23STFVergonhaNacional",
+                "promoted_content": null,
+                "query": "%23STFVergonhaNacional",
+                "tweet_volume": 128181
+            },
+            {
+                "name": "Alexandre de Moraes",
+                "url": "http://twitter.com/search?q=%22Alexandre+de+Moraes%22",
+                "promoted_content": null,
+                "query": "%22Alexandre+de+Moraes%22",
+                "tweet_volume": 178551
+            },
+            {
+                "name": "Ramagem",
+                "url": "http://twitter.com/search?q=Ramagem",
+                "promoted_content": null,
+                "query": "Ramagem",
+                "tweet_volume": 204464
+            },
+            {
+                "name": "Leon",
+                "url": "http://twitter.com/search?q=Leon",
+                "promoted_content": null,
+                "query": "Leon",
+                "tweet_volume": 63709
+            },
+            {
+                "name": "Dybala",
+                "url": "http://twitter.com/search?q=Dybala",
+                "promoted_content": null,
+                "query": "Dybala",
+                "tweet_volume": 47123
+            },
+            {
+                "name": "jongdae",
+                "url": "http://twitter.com/search?q=jongdae",
+                "promoted_content": null,
+                "query": "jongdae",
+                "tweet_volume": 1054081
+            },
+            {
+                "name": "#BolsonaroHeroi",
+                "url": "http://twitter.com/search?q=%23BolsonaroHeroi",
+                "promoted_content": null,
+                "query": "%23BolsonaroHeroi",
+                "tweet_volume": 174512
+            },
+            {
+                "name": "RAFA NO ENCONTRO",
+                "url": "http://twitter.com/search?q=%22RAFA+NO+ENCONTRO%22",
+                "promoted_content": null,
+                "query": "%22RAFA+NO+ENCONTRO%22",
+                "tweet_volume": 43492
+            },
+            {
+                "name": "F\u00e1tima",
+                "url": "http://twitter.com/search?q=F%C3%A1tima",
+                "promoted_content": null,
+                "query": "F%C3%A1tima",
+                "tweet_volume": 49024
+            },
+            {
+                "name": "wonho",
+                "url": "http://twitter.com/search?q=wonho",
+                "promoted_content": null,
+                "query": "wonho",
+                "tweet_volume": 441827
+            },
+            {
+                "name": "Cancela 2020",
+                "url": "http://twitter.com/search?q=%22Cancela+2020%22",
+                "promoted_content": null,
+                "query": "%22Cancela+2020%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "ORGULHO GIZELLY BICALHO",
+                "url": "http://twitter.com/search?q=%22ORGULHO+GIZELLY+BICALHO%22",
+                "promoted_content": null,
+                "query": "%22ORGULHO+GIZELLY+BICALHO%22",
+                "tweet_volume": 87635
+            },
+            {
+                "name": "L\u00e1zaro Ramos",
+                "url": "http://twitter.com/search?q=%22L%C3%A1zaro+Ramos%22",
+                "promoted_content": null,
+                "query": "%22L%C3%A1zaro+Ramos%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "E DA\u00cd",
+                "url": "http://twitter.com/search?q=%22E+DA%C3%8D%22",
+                "promoted_content": null,
+                "query": "%22E+DA%C3%8D%22",
+                "tweet_volume": 332401
+            },
+            {
+                "name": "luis felipe",
+                "url": "http://twitter.com/search?q=%22luis+felipe%22",
+                "promoted_content": null,
+                "query": "%22luis+felipe%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Fernanda Souza",
+                "url": "http://twitter.com/search?q=%22Fernanda+Souza%22",
+                "promoted_content": null,
+                "query": "%22Fernanda+Souza%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "#SM_\uc774\ud0dc\uc6a9_\uc9c0\ucf1c",
+                "url": "http://twitter.com/search?q=%23SM_%EC%9D%B4%ED%83%9C%EC%9A%A9_%EC%A7%80%EC%BC%9C",
+                "promoted_content": null,
+                "query": "%23SM_%EC%9D%B4%ED%83%9C%EC%9A%A9_%EC%A7%80%EC%BC%9C",
+                "tweet_volume": 214854
+            },
+            {
+                "name": "Assassin's Creed",
+                "url": "http://twitter.com/search?q=%22Assassin%27s+Creed%22",
+                "promoted_content": null,
+                "query": "%22Assassin%27s+Creed%22",
+                "tweet_volume": 24766
+            },
+            {
+                "name": "Judici\u00e1rio",
+                "url": "http://twitter.com/search?q=Judici%C3%A1rio",
+                "promoted_content": null,
+                "query": "Judici%C3%A1rio",
+                "tweet_volume": 20637
+            },
+            {
+                "name": "#asteroide",
+                "url": "http://twitter.com/search?q=%23asteroide",
+                "promoted_content": null,
+                "query": "%23asteroide",
+                "tweet_volume": 34690
+            }
+        ],
+        "as_of": "2020-04-29T17:23:21Z",
+        "created_at": "2020-04-29T17:13:35Z",
+        "locations": [
+            {
+                "name": "Brazil",
+                "woeid": 23424768
+            }
+        ]
+    }
+]
