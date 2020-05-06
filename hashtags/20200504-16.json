@@ -1,0 +1,280 @@
+[
+    {
+        "trends": [
+            {
+                "name": "Percy Jackson",
+                "url": "http://twitter.com/search?q=%22Percy+Jackson%22",
+                "promoted_content": null,
+                "query": "%22Percy+Jackson%22",
+                "tweet_volume": 10853
+            },
+            {
+                "name": "Fl\u00e1vio Migliaccio",
+                "url": "http://twitter.com/search?q=%22Fl%C3%A1vio+Migliaccio%22",
+                "promoted_content": null,
+                "query": "%22Fl%C3%A1vio+Migliaccio%22",
+                "tweet_volume": 22743
+            },
+            {
+                "name": "Enem",
+                "url": "http://twitter.com/search?q=Enem",
+                "promoted_content": null,
+                "query": "Enem",
+                "tweet_volume": 61327
+            },
+            {
+                "name": "#MayThe4thBeWithYou",
+                "url": "http://twitter.com/search?q=%23MayThe4thBeWithYou",
+                "promoted_content": null,
+                "query": "%23MayThe4thBeWithYou",
+                "tweet_volume": 518855
+            },
+            {
+                "name": "EXPLIQUE SEU TWITTER",
+                "url": "http://twitter.com/search?q=%22EXPLIQUE+SEU+TWITTER%22",
+                "promoted_content": null,
+                "query": "%22EXPLIQUE+SEU+TWITTER%22",
+                "tweet_volume": 48127
+            },
+            {
+                "name": "Aldir Blanc",
+                "url": "http://twitter.com/search?q=%22Aldir+Blanc%22",
+                "promoted_content": null,
+                "query": "%22Aldir+Blanc%22",
+                "tweet_volume": 38866
+            },
+            {
+                "name": "Dilsinho",
+                "url": "http://twitter.com/search?q=Dilsinho",
+                "promoted_content": null,
+                "query": "Dilsinho",
+                "tweet_volume": 10033
+            },
+            {
+                "name": "Dennis",
+                "url": "http://twitter.com/search?q=Dennis",
+                "promoted_content": null,
+                "query": "Dennis",
+                "tweet_volume": 37781
+            },
+            {
+                "name": "Edward",
+                "url": "http://twitter.com/search?q=Edward",
+                "promoted_content": null,
+                "query": "Edward",
+                "tweet_volume": 144000
+            },
+            {
+                "name": "#NaTrincheiraComBolsonaro",
+                "url": "http://twitter.com/search?q=%23NaTrincheiraComBolsonaro",
+                "promoted_content": null,
+                "query": "%23NaTrincheiraComBolsonaro",
+                "tweet_volume": 266959
+            },
+            {
+                "name": "AUDIO DE DESCULPAS ON SPOTIFY",
+                "url": "http://twitter.com/search?q=%22AUDIO+DE+DESCULPAS+ON+SPOTIFY%22",
+                "promoted_content": null,
+                "query": "%22AUDIO+DE+DESCULPAS+ON+SPOTIFY%22",
+                "tweet_volume": 16842
+            },
+            {
+                "name": "midnight sun",
+                "url": "http://twitter.com/search?q=%22midnight+sun%22",
+                "promoted_content": null,
+                "query": "%22midnight+sun%22",
+                "tweet_volume": 91873
+            },
+            {
+                "name": "Robert Pattinson",
+                "url": "http://twitter.com/search?q=%22Robert+Pattinson%22",
+                "promoted_content": null,
+                "query": "%22Robert+Pattinson%22",
+                "tweet_volume": 45944
+            },
+            {
+                "name": "#JaNaoSuportoMais",
+                "url": "http://twitter.com/search?q=%23JaNaoSuportoMais",
+                "promoted_content": null,
+                "query": "%23JaNaoSuportoMais",
+                "tweet_volume": 13455
+            },
+            {
+                "name": "Rolando",
+                "url": "http://twitter.com/search?q=Rolando",
+                "promoted_content": null,
+                "query": "Rolando",
+                "tweet_volume": 107207
+            },
+            {
+                "name": "Met Gala",
+                "url": "http://twitter.com/search?q=%22Met+Gala%22",
+                "promoted_content": null,
+                "query": "%22Met+Gala%22",
+                "tweet_volume": 98499
+            },
+            {
+                "name": "#OurFavoriteRomanceSong",
+                "url": "http://twitter.com/search?q=%23OurFavoriteRomanceSong",
+                "promoted_content": null,
+                "query": "%23OurFavoriteRomanceSong",
+                "tweet_volume": null
+            },
+            {
+                "name": "Jukes",
+                "url": "http://twitter.com/search?q=Jukes",
+                "promoted_content": null,
+                "query": "Jukes",
+                "tweet_volume": null
+            },
+            {
+                "name": "#IUxSUGA",
+                "url": "http://twitter.com/search?q=%23IUxSUGA",
+                "promoted_content": null,
+                "query": "%23IUxSUGA",
+                "tweet_volume": 165054
+            },
+            {
+                "name": "Bento XVI",
+                "url": "http://twitter.com/search?q=%22Bento+XVI%22",
+                "promoted_content": null,
+                "query": "%22Bento+XVI%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "O Brazil",
+                "url": "http://twitter.com/search?q=%22O+Brazil%22",
+                "promoted_content": null,
+                "query": "%22O+Brazil%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Quero o Rio",
+                "url": "http://twitter.com/search?q=%22Quero+o+Rio%22",
+                "promoted_content": null,
+                "query": "%22Quero+o+Rio%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Ministro da Defesa",
+                "url": "http://twitter.com/search?q=%22Ministro+da+Defesa%22",
+                "promoted_content": null,
+                "query": "%22Ministro+da+Defesa%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Celso Roth",
+                "url": "http://twitter.com/search?q=%22Celso+Roth%22",
+                "promoted_content": null,
+                "query": "%22Celso+Roth%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Jair Ventura",
+                "url": "http://twitter.com/search?q=%22Jair+Ventura%22",
+                "promoted_content": null,
+                "query": "%22Jair+Ventura%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Dodger",
+                "url": "http://twitter.com/search?q=Dodger",
+                "promoted_content": null,
+                "query": "Dodger",
+                "tweet_volume": null
+            },
+            {
+                "name": "Alexandra Daddario",
+                "url": "http://twitter.com/search?q=%22Alexandra+Daddario%22",
+                "promoted_content": null,
+                "query": "%22Alexandra+Daddario%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "jordan fisher",
+                "url": "http://twitter.com/search?q=%22jordan+fisher%22",
+                "promoted_content": null,
+                "query": "%22jordan+fisher%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Oswaldo de Oliveira",
+                "url": "http://twitter.com/search?q=%22Oswaldo+de+Oliveira%22",
+                "promoted_content": null,
+                "query": "%22Oswaldo+de+Oliveira%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Minist\u00e9rio da Educa\u00e7\u00e3o",
+                "url": "http://twitter.com/search?q=%22Minist%C3%A9rio+da+Educa%C3%A7%C3%A3o%22",
+                "promoted_content": null,
+                "query": "%22Minist%C3%A9rio+da+Educa%C3%A7%C3%A3o%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Twilight",
+                "url": "http://twitter.com/search?q=Twilight",
+                "promoted_content": null,
+                "query": "Twilight",
+                "tweet_volume": 102945
+            },
+            {
+                "name": "#MetGala",
+                "url": "http://twitter.com/search?q=%23MetGala",
+                "promoted_content": null,
+                "query": "%23MetGala",
+                "tweet_volume": 18592
+            },
+            {
+                "name": "#HelloTwitch",
+                "url": "http://twitter.com/search?q=%23HelloTwitch",
+                "promoted_content": null,
+                "query": "%23HelloTwitch",
+                "tweet_volume": null
+            },
+            {
+                "name": "#JornalHoje",
+                "url": "http://twitter.com/search?q=%23JornalHoje",
+                "promoted_content": null,
+                "query": "%23JornalHoje",
+                "tweet_volume": null
+            },
+            {
+                "name": "#todospormika",
+                "url": "http://twitter.com/search?q=%23todospormika",
+                "promoted_content": null,
+                "query": "%23todospormika",
+                "tweet_volume": null
+            },
+            {
+                "name": "#BTSWORLD",
+                "url": "http://twitter.com/search?q=%23BTSWORLD",
+                "promoted_content": null,
+                "query": "%23BTSWORLD",
+                "tweet_volume": 25460
+            },
+            {
+                "name": "#ATardeESua",
+                "url": "http://twitter.com/search?q=%23ATardeESua",
+                "promoted_content": null,
+                "query": "%23ATardeESua",
+                "tweet_volume": null
+            },
+            {
+                "name": "#GrandTour",
+                "url": "http://twitter.com/search?q=%23GrandTour",
+                "promoted_content": null,
+                "query": "%23GrandTour",
+                "tweet_volume": null
+            }
+        ],
+        "as_of": "2020-05-04T19:23:25Z",
+        "created_at": "2020-05-04T19:14:24Z",
+        "locations": [
+            {
+                "name": "Brazil",
+                "woeid": 23424768
+            }
+        ]
+    }
+]

@@ -1,0 +1,280 @@
+[
+    {
+        "trends": [
+            {
+                "name": "grimes",
+                "url": "http://twitter.com/search?q=grimes",
+                "promoted_content": null,
+                "query": "grimes",
+                "tweet_volume": 127616
+            },
+            {
+                "name": "X \u00c6 A-12",
+                "url": "http://twitter.com/search?q=%22X+%C3%86+A-12%22",
+                "promoted_content": null,
+                "query": "%22X+%C3%86+A-12%22",
+                "tweet_volume": 79885
+            },
+            {
+                "name": "#HappyBaekhyunDay",
+                "url": "http://twitter.com/search?q=%23HappyBaekhyunDay",
+                "promoted_content": null,
+                "query": "%23HappyBaekhyunDay",
+                "tweet_volume": 780226
+            },
+            {
+                "name": "Karl Marx",
+                "url": "http://twitter.com/search?q=%22Karl+Marx%22",
+                "promoted_content": null,
+                "query": "%22Karl+Marx%22",
+                "tweet_volume": 88384
+            },
+            {
+                "name": "MANU NO ENCONTRO",
+                "url": "http://twitter.com/search?q=%22MANU+NO+ENCONTRO%22",
+                "promoted_content": null,
+                "query": "%22MANU+NO+ENCONTRO%22",
+                "tweet_volume": 84280
+            },
+            {
+                "name": "Valorant",
+                "url": "http://twitter.com/search?q=Valorant",
+                "promoted_content": null,
+                "query": "Valorant",
+                "tweet_volume": 67034
+            },
+            {
+                "name": "#NetflixDublaNarutoShippuden",
+                "url": "http://twitter.com/search?q=%23NetflixDublaNarutoShippuden",
+                "promoted_content": null,
+                "query": "%23NetflixDublaNarutoShippuden",
+                "tweet_volume": 12492
+            },
+            {
+                "name": "CALA A BOCA",
+                "url": "http://twitter.com/search?q=%22CALA+A+BOCA%22",
+                "promoted_content": null,
+                "query": "%22CALA+A+BOCA%22",
+                "tweet_volume": 32134
+            },
+            {
+                "name": "Daniel Radcliffe",
+                "url": "http://twitter.com/search?q=%22Daniel+Radcliffe%22",
+                "promoted_content": null,
+                "query": "%22Daniel+Radcliffe%22",
+                "tweet_volume": 24429
+            },
+            {
+                "name": "scream queens",
+                "url": "http://twitter.com/search?q=%22scream+queens%22",
+                "promoted_content": null,
+                "query": "%22scream+queens%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "\u00c1UDIO DE DESCULPAS",
+                "url": "http://twitter.com/search?q=%22%C3%81UDIO+DE+DESCULPAS%22",
+                "promoted_content": null,
+                "query": "%22%C3%81UDIO+DE+DESCULPAS%22",
+                "tweet_volume": 72996
+            },
+            {
+                "name": "barack obama",
+                "url": "http://twitter.com/search?q=%22barack+obama%22",
+                "promoted_content": null,
+                "query": "%22barack+obama%22",
+                "tweet_volume": 91776
+            },
+            {
+                "name": "Casagrande",
+                "url": "http://twitter.com/search?q=Casagrande",
+                "promoted_content": null,
+                "query": "Casagrande",
+                "tweet_volume": 25560
+            },
+            {
+                "name": "Ciro Pessoa",
+                "url": "http://twitter.com/search?q=%22Ciro+Pessoa%22",
+                "promoted_content": null,
+                "query": "%22Ciro+Pessoa%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Jardel",
+                "url": "http://twitter.com/search?q=Jardel",
+                "promoted_content": null,
+                "query": "Jardel",
+                "tweet_volume": null
+            },
+            {
+                "name": "T\u00e2nia",
+                "url": "http://twitter.com/search?q=T%C3%A2nia",
+                "promoted_content": null,
+                "query": "T%C3%A2nia",
+                "tweet_volume": 14672
+            },
+            {
+                "name": "Regina Duarte",
+                "url": "http://twitter.com/search?q=%22Regina+Duarte%22",
+                "promoted_content": null,
+                "query": "%22Regina+Duarte%22",
+                "tweet_volume": 29399
+            },
+            {
+                "name": "#FreeZenom",
+                "url": "http://twitter.com/search?q=%23FreeZenom",
+                "promoted_content": null,
+                "query": "%23FreeZenom",
+                "tweet_volume": null
+            },
+            {
+                "name": "#EternityTracklist",
+                "url": "http://twitter.com/search?q=%23EternityTracklist",
+                "promoted_content": null,
+                "query": "%23EternityTracklist",
+                "tweet_volume": 67142
+            },
+            {
+                "name": "#BolsonaroSDV",
+                "url": "http://twitter.com/search?q=%23BolsonaroSDV",
+                "promoted_content": null,
+                "query": "%23BolsonaroSDV",
+                "tweet_volume": 10155
+            },
+            {
+                "name": "Ash Archangel",
+                "url": "http://twitter.com/search?q=%22Ash+Archangel%22",
+                "promoted_content": null,
+                "query": "%22Ash+Archangel%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "\u00d3rg\u00e3o",
+                "url": "http://twitter.com/search?q=%C3%93rg%C3%A3o",
+                "promoted_content": null,
+                "query": "%C3%93rg%C3%A3o",
+                "tweet_volume": null
+            },
+            {
+                "name": "Ecss Ey Iey Trace Twelve",
+                "url": "http://twitter.com/search?q=%22Ecss+Ey+Iey+Trace+Twelve%22",
+                "promoted_content": null,
+                "query": "%22Ecss+Ey+Iey+Trace+Twelve%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Taekook",
+                "url": "http://twitter.com/search?q=Taekook",
+                "promoted_content": null,
+                "query": "Taekook",
+                "tweet_volume": 1816283
+            },
+            {
+                "name": "jeonghan",
+                "url": "http://twitter.com/search?q=jeonghan",
+                "promoted_content": null,
+                "query": "jeonghan",
+                "tweet_volume": 200233
+            },
+            {
+                "name": "Dignidade",
+                "url": "http://twitter.com/search?q=Dignidade",
+                "promoted_content": null,
+                "query": "Dignidade",
+                "tweet_volume": 13367
+            },
+            {
+                "name": "Reda\u00e7\u00e3o",
+                "url": "http://twitter.com/search?q=Reda%C3%A7%C3%A3o",
+                "promoted_content": null,
+                "query": "Reda%C3%A7%C3%A3o",
+                "tweet_volume": 40786
+            },
+            {
+                "name": "zendaya",
+                "url": "http://twitter.com/search?q=zendaya",
+                "promoted_content": null,
+                "query": "zendaya",
+                "tweet_volume": 95827
+            },
+            {
+                "name": "Aumente",
+                "url": "http://twitter.com/search?q=Aumente",
+                "promoted_content": null,
+                "query": "Aumente",
+                "tweet_volume": null
+            },
+            {
+                "name": "F\u00e1bio de Melo",
+                "url": "http://twitter.com/search?q=%22F%C3%A1bio+de+Melo%22",
+                "promoted_content": null,
+                "query": "%22F%C3%A1bio+de+Melo%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Kiera",
+                "url": "http://twitter.com/search?q=Kiera",
+                "promoted_content": null,
+                "query": "Kiera",
+                "tweet_volume": null
+            },
+            {
+                "name": "Byun Baekhyun",
+                "url": "http://twitter.com/search?q=%22Byun+Baekhyun%22",
+                "promoted_content": null,
+                "query": "%22Byun+Baekhyun%22",
+                "tweet_volume": 28236
+            },
+            {
+                "name": "#eunaomecalo",
+                "url": "http://twitter.com/search?q=%23eunaomecalo",
+                "promoted_content": null,
+                "query": "%23eunaomecalo",
+                "tweet_volume": null
+            },
+            {
+                "name": "#TercaDetremuraSDV",
+                "url": "http://twitter.com/search?q=%23TercaDetremuraSDV",
+                "promoted_content": null,
+                "query": "%23TercaDetremuraSDV",
+                "tweet_volume": null
+            },
+            {
+                "name": "#NaoAosConteineres",
+                "url": "http://twitter.com/search?q=%23NaoAosConteineres",
+                "promoted_content": null,
+                "query": "%23NaoAosConteineres",
+                "tweet_volume": null
+            },
+            {
+                "name": "#\ub098\ub098\uc57c_\ub110_\ud3c9\uc0dd_\uc0ac\ub791\ud574\uc904\uac8c",
+                "url": "http://twitter.com/search?q=%23%EB%82%98%EB%82%98%EC%95%BC_%EB%84%90_%ED%8F%89%EC%83%9D_%EC%82%AC%EB%9E%91%ED%95%B4%EC%A4%84%EA%B2%8C",
+                "promoted_content": null,
+                "query": "%23%EB%82%98%EB%82%98%EC%95%BC_%EB%84%90_%ED%8F%89%EC%83%9D_%EC%82%AC%EB%9E%91%ED%95%B4%EC%A4%84%EA%B2%8C",
+                "tweet_volume": 117688
+            },
+            {
+                "name": "#panico",
+                "url": "http://twitter.com/search?q=%23panico",
+                "promoted_content": null,
+                "query": "%23panico",
+                "tweet_volume": null
+            },
+            {
+                "name": "#selecaocaseira",
+                "url": "http://twitter.com/search?q=%23selecaocaseira",
+                "promoted_content": null,
+                "query": "%23selecaocaseira",
+                "tweet_volume": null
+            }
+        ],
+        "as_of": "2020-05-05T17:23:26Z",
+        "created_at": "2020-05-05T17:14:34Z",
+        "locations": [
+            {
+                "name": "Brazil",
+                "woeid": 23424768
+            }
+        ]
+    }
+]
