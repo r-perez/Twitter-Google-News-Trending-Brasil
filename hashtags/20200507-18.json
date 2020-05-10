@@ -1,0 +1,308 @@
+[
+    {
+        "trends": [
+            {
+                "name": "Disney",
+                "url": "http://twitter.com/search?q=Disney",
+                "promoted_content": null,
+                "query": "Disney",
+                "tweet_volume": 334176
+            },
+            {
+                "name": "zack",
+                "url": "http://twitter.com/search?q=zack",
+                "promoted_content": null,
+                "query": "zack",
+                "tweet_volume": 32821
+            },
+            {
+                "name": "#MANUGURUDOAMOR",
+                "url": "http://twitter.com/search?q=%23MANUGURUDOAMOR",
+                "promoted_content": null,
+                "query": "%23MANUGURUDOAMOR",
+                "tweet_volume": null
+            },
+            {
+                "name": "Dennis",
+                "url": "http://twitter.com/search?q=Dennis",
+                "promoted_content": null,
+                "query": "Dennis",
+                "tweet_volume": 28307
+            },
+            {
+                "name": "mesquita",
+                "url": "http://twitter.com/search?q=mesquita",
+                "promoted_content": null,
+                "query": "mesquita",
+                "tweet_volume": null
+            },
+            {
+                "name": "jessie",
+                "url": "http://twitter.com/search?q=jessie",
+                "promoted_content": null,
+                "query": "jessie",
+                "tweet_volume": 28657
+            },
+            {
+                "name": "#LiveDaManu",
+                "url": "http://twitter.com/search?q=%23LiveDaManu",
+                "promoted_content": null,
+                "query": "%23LiveDaManu",
+                "tweet_volume": 10374
+            },
+            {
+                "name": "ally",
+                "url": "http://twitter.com/search?q=ally",
+                "promoted_content": null,
+                "query": "ally",
+                "tweet_volume": 72162
+            },
+            {
+                "name": "CNPJ",
+                "url": "http://twitter.com/search?q=CNPJ",
+                "promoted_content": null,
+                "query": "CNPJ",
+                "tweet_volume": 32365
+            },
+            {
+                "name": "Tranca Rua",
+                "url": "http://twitter.com/search?q=%22Tranca+Rua%22",
+                "promoted_content": null,
+                "query": "%22Tranca+Rua%22",
+                "tweet_volume": 14173
+            },
+            {
+                "name": "ferb",
+                "url": "http://twitter.com/search?q=ferb",
+                "promoted_content": null,
+                "query": "ferb",
+                "tweet_volume": 14127
+            },
+            {
+                "name": "#DAISIES",
+                "url": "http://twitter.com/search?q=%23DAISIES",
+                "promoted_content": null,
+                "query": "%23DAISIES",
+                "tweet_volume": 139217
+            },
+            {
+                "name": "Diego Souza",
+                "url": "http://twitter.com/search?q=%22Diego+Souza%22",
+                "promoted_content": null,
+                "query": "%22Diego+Souza%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "#SaySoRMXParty",
+                "url": "http://twitter.com/search?q=%23SaySoRMXParty",
+                "promoted_content": null,
+                "query": "%23SaySoRMXParty",
+                "tweet_volume": 34429
+            },
+            {
+                "name": "#OurFavoriteSMTASong",
+                "url": "http://twitter.com/search?q=%23OurFavoriteSMTASong",
+                "promoted_content": null,
+                "query": "%23OurFavoriteSMTASong",
+                "tweet_volume": 17202
+            },
+            {
+                "name": "lottie",
+                "url": "http://twitter.com/search?q=lottie",
+                "promoted_content": null,
+                "query": "lottie",
+                "tweet_volume": null
+            },
+            {
+                "name": "Charlie",
+                "url": "http://twitter.com/search?q=Charlie",
+                "promoted_content": null,
+                "query": "Charlie",
+                "tweet_volume": 63672
+            },
+            {
+                "name": "RESPONDA SEM MENTIR",
+                "url": "http://twitter.com/search?q=%22RESPONDA+SEM+MENTIR%22",
+                "promoted_content": null,
+                "query": "%22RESPONDA+SEM+MENTIR%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Meu Ginu",
+                "url": "http://twitter.com/search?q=%22Meu+Ginu%22",
+                "promoted_content": null,
+                "query": "%22Meu+Ginu%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Toffoli",
+                "url": "http://twitter.com/search?q=Toffoli",
+                "promoted_content": null,
+                "query": "Toffoli",
+                "tweet_volume": 45786
+            },
+            {
+                "name": "F\u00e1bio William",
+                "url": "http://twitter.com/search?q=%22F%C3%A1bio+William%22",
+                "promoted_content": null,
+                "query": "%22F%C3%A1bio+William%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "EMILLY EU TE AMO",
+                "url": "http://twitter.com/search?q=%22EMILLY+EU+TE+AMO%22",
+                "promoted_content": null,
+                "query": "%22EMILLY+EU+TE+AMO%22",
+                "tweet_volume": 24960
+            },
+            {
+                "name": "rupert",
+                "url": "http://twitter.com/search?q=rupert",
+                "promoted_content": null,
+                "query": "rupert",
+                "tweet_volume": null
+            },
+            {
+                "name": "Rock in Rio 2021",
+                "url": "http://twitter.com/search?q=%22Rock+in+Rio+2021%22",
+                "promoted_content": null,
+                "query": "%22Rock+in+Rio+2021%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Gugu",
+                "url": "http://twitter.com/search?q=Gugu",
+                "promoted_content": null,
+                "query": "Gugu",
+                "tweet_volume": 13589
+            },
+            {
+                "name": "WATCH LOVE 101",
+                "url": "http://twitter.com/search?q=%22WATCH+LOVE+101%22",
+                "promoted_content": null,
+                "query": "%22WATCH+LOVE+101%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Mafalda",
+                "url": "http://twitter.com/search?q=Mafalda",
+                "promoted_content": null,
+                "query": "Mafalda",
+                "tweet_volume": null
+            },
+            {
+                "name": "bella thorne",
+                "url": "http://twitter.com/search?q=%22bella+thorne%22",
+                "promoted_content": null,
+                "query": "%22bella+thorne%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Pericles",
+                "url": "http://twitter.com/search?q=Pericles",
+                "promoted_content": null,
+                "query": "Pericles",
+                "tweet_volume": 13283
+            },
+            {
+                "name": "KAYSARDADOUR NO YT",
+                "url": "http://twitter.com/search?q=%22KAYSARDADOUR+NO+YT%22",
+                "promoted_content": null,
+                "query": "%22KAYSARDADOUR+NO+YT%22",
+                "tweet_volume": 11987
+            },
+            {
+                "name": "Carlos Vereza",
+                "url": "http://twitter.com/search?q=%22Carlos+Vereza%22",
+                "promoted_content": null,
+                "query": "%22Carlos+Vereza%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Clube Militar",
+                "url": "http://twitter.com/search?q=%22Clube+Militar%22",
+                "promoted_content": null,
+                "query": "%22Clube+Militar%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "M\u00e1rcio Art",
+                "url": "http://twitter.com/search?q=%22M%C3%A1rcio+Art%22",
+                "promoted_content": null,
+                "query": "%22M%C3%A1rcio+Art%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Weasley",
+                "url": "http://twitter.com/search?q=Weasley",
+                "promoted_content": null,
+                "query": "Weasley",
+                "tweet_volume": null
+            },
+            {
+                "name": "#WeLoveYouNiall",
+                "url": "http://twitter.com/search?q=%23WeLoveYouNiall",
+                "promoted_content": null,
+                "query": "%23WeLoveYouNiall",
+                "tweet_volume": 10779
+            },
+            {
+                "name": "#OQueAVidaMeRoubou014",
+                "url": "http://twitter.com/search?q=%23OQueAVidaMeRoubou014",
+                "promoted_content": null,
+                "query": "%23OQueAVidaMeRoubou014",
+                "tweet_volume": null
+            },
+            {
+                "name": "#paCTopelavida",
+                "url": "http://twitter.com/search?q=%23paCTopelavida",
+                "promoted_content": null,
+                "query": "%23paCTopelavida",
+                "tweet_volume": 28465
+            },
+            {
+                "name": "#MTVHitsBarulhento",
+                "url": "http://twitter.com/search?q=%23MTVHitsBarulhento",
+                "promoted_content": null,
+                "query": "%23MTVHitsBarulhento",
+                "tweet_volume": null
+            },
+            {
+                "name": "#BreakUpSongVideoTomorrow",
+                "url": "http://twitter.com/search?q=%23BreakUpSongVideoTomorrow",
+                "promoted_content": null,
+                "query": "%23BreakUpSongVideoTomorrow",
+                "tweet_volume": null
+            },
+            {
+                "name": "#BLINKSelcaDay",
+                "url": "http://twitter.com/search?q=%23BLINKSelcaDay",
+                "promoted_content": null,
+                "query": "%23BLINKSelcaDay",
+                "tweet_volume": 29625
+            },
+            {
+                "name": "#MeuChipNovo",
+                "url": "http://twitter.com/search?q=%23MeuChipNovo",
+                "promoted_content": null,
+                "query": "%23MeuChipNovo",
+                "tweet_volume": null
+            },
+            {
+                "name": "#OsMutantes02",
+                "url": "http://twitter.com/search?q=%23OsMutantes02",
+                "promoted_content": null,
+                "query": "%23OsMutantes02",
+                "tweet_volume": null
+            }
+        ],
+        "as_of": "2020-05-07T21:23:28Z",
+        "created_at": "2020-05-07T21:18:41Z",
+        "locations": [
+            {
+                "name": "Brazil",
+                "woeid": 23424768
+            }
+        ]
+    }
+]
