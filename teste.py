@@ -16,7 +16,14 @@ def parse():
             array.append(parsed.readline()[:-1])
 #looping for clean ',' at the end of items
         for item in array:
-          newarray.append(item[:-1])
-          print(item)
+          newarray.append()
+          sub_dict = {}
+          print(newarray)
+          sub_dict['user'] = item[0]
+          #(item[:-1])
+          #print(item)
         #print(newarray)
+        json_newarray = json.dumps(newarray)
+        #print(json_newarray)
+      
 parse()

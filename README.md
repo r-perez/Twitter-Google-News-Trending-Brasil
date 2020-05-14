@@ -1,5 +1,7 @@
 # Twitter-API
 
+![](/thumbnail.jpg)
+
 Using the Twitter offical API, colect the trending topics hashtags and subjects of a settled location and the tweets related to these hashtags. There are also a prototype to parse the data collected, organizing the information by relevance. These scripts are part of a research project in the semiotic and transmedia areas at [MediaAção](http://mediaacao.com.br/), media research lab at UFMG (Federal University of Minas Gerais).
 
 ## Getting Started
