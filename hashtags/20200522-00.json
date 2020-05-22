@@ -1,0 +1,294 @@
+[
+    {
+        "trends": [
+            {
+                "name": "#ExNaMTV",
+                "url": "http://twitter.com/search?q=%23ExNaMTV",
+                "promoted_content": null,
+                "query": "%23ExNaMTV",
+                "tweet_volume": 72277
+            },
+            {
+                "name": "ferrugem",
+                "url": "http://twitter.com/search?q=ferrugem",
+                "promoted_content": null,
+                "query": "ferrugem",
+                "tweet_volume": 48247
+            },
+            {
+                "name": "maisa",
+                "url": "http://twitter.com/search?q=maisa",
+                "promoted_content": null,
+                "query": "maisa",
+                "tweet_volume": 58004
+            },
+            {
+                "name": "#gabieuacreditoemvc",
+                "url": "http://twitter.com/search?q=%23gabieuacreditoemvc",
+                "promoted_content": null,
+                "query": "%23gabieuacreditoemvc",
+                "tweet_volume": 46381
+            },
+            {
+                "name": "#DeFeriasComOExbrasil",
+                "url": "http://twitter.com/search?q=%23DeFeriasComOExbrasil",
+                "promoted_content": null,
+                "query": "%23DeFeriasComOExbrasil",
+                "tweet_volume": null
+            },
+            {
+                "name": "#AnittaDentroDaCasinha",
+                "url": "http://twitter.com/search?q=%23AnittaDentroDaCasinha",
+                "promoted_content": null,
+                "query": "%23AnittaDentroDaCasinha",
+                "tweet_volume": 33872
+            },
+            {
+                "name": "#RainOnMe",
+                "url": "http://twitter.com/search?q=%23RainOnMe",
+                "promoted_content": null,
+                "query": "%23RainOnMe",
+                "tweet_volume": 325194
+            },
+            {
+                "name": "mc loma",
+                "url": "http://twitter.com/search?q=%22mc+loma%22",
+                "promoted_content": null,
+                "query": "%22mc+loma%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "B\u00e1rbara",
+                "url": "http://twitter.com/search?q=B%C3%A1rbara",
+                "promoted_content": null,
+                "query": "B%C3%A1rbara",
+                "tweet_volume": 47290
+            },
+            {
+                "name": "De F\u00e9rias",
+                "url": "http://twitter.com/search?q=%22De+F%C3%A9rias%22",
+                "promoted_content": null,
+                "query": "%22De+F%C3%A9rias%22",
+                "tweet_volume": 64585
+            },
+            {
+                "name": "gabi prado",
+                "url": "http://twitter.com/search?q=%22gabi+prado%22",
+                "promoted_content": null,
+                "query": "%22gabi+prado%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "COMEBACK RABIA NO YT",
+                "url": "http://twitter.com/search?q=%22COMEBACK+RABIA+NO+YT%22",
+                "promoted_content": null,
+                "query": "%22COMEBACK+RABIA+NO+YT%22",
+                "tweet_volume": 12917
+            },
+            {
+                "name": "caio cabral",
+                "url": "http://twitter.com/search?q=%22caio+cabral%22",
+                "promoted_content": null,
+                "query": "%22caio+cabral%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Nolan",
+                "url": "http://twitter.com/search?q=Nolan",
+                "promoted_content": null,
+                "query": "Nolan",
+                "tweet_volume": 62785
+            },
+            {
+                "name": "BOCA ROSA NO YOUTUBE",
+                "url": "http://twitter.com/search?q=%22BOCA+ROSA+NO+YOUTUBE%22",
+                "promoted_content": null,
+                "query": "%22BOCA+ROSA+NO+YOUTUBE%22",
+                "tweet_volume": 25531
+            },
+            {
+                "name": "Adamovich",
+                "url": "http://twitter.com/search?q=Adamovich",
+                "promoted_content": null,
+                "query": "Adamovich",
+                "tweet_volume": null
+            },
+            {
+                "name": "Yaya",
+                "url": "http://twitter.com/search?q=Yaya",
+                "promoted_content": null,
+                "query": "Yaya",
+                "tweet_volume": 44760
+            },
+            {
+                "name": "EMPTY LOVE OUT NOW",
+                "url": "http://twitter.com/search?q=%22EMPTY+LOVE+OUT+NOW%22",
+                "promoted_content": null,
+                "query": "%22EMPTY+LOVE+OUT+NOW%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Matheusinho",
+                "url": "http://twitter.com/search?q=Matheusinho",
+                "promoted_content": null,
+                "query": "Matheusinho",
+                "tweet_volume": null
+            },
+            {
+                "name": "Marcelo Melo",
+                "url": "http://twitter.com/search?q=%22Marcelo+Melo%22",
+                "promoted_content": null,
+                "query": "%22Marcelo+Melo%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "PARAB\u00c9NS PRIMA",
+                "url": "http://twitter.com/search?q=%22PARAB%C3%89NS+PRIMA%22",
+                "promoted_content": null,
+                "query": "%22PARAB%C3%89NS+PRIMA%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "O Igor",
+                "url": "http://twitter.com/search?q=%22O+Igor%22",
+                "promoted_content": null,
+                "query": "%22O+Igor%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "CANAL RAFAKALIMANN",
+                "url": "http://twitter.com/search?q=%22CANAL+RAFAKALIMANN%22",
+                "promoted_content": null,
+                "query": "%22CANAL+RAFAKALIMANN%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "VOLTA PRA CASA",
+                "url": "http://twitter.com/search?q=%22VOLTA+PRA+CASA%22",
+                "promoted_content": null,
+                "query": "%22VOLTA+PRA+CASA%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "TE AMAMOS ANA PAULA",
+                "url": "http://twitter.com/search?q=%22TE+AMAMOS+ANA+PAULA%22",
+                "promoted_content": null,
+                "query": "%22TE+AMAMOS+ANA+PAULA%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Jericoacoara",
+                "url": "http://twitter.com/search?q=Jericoacoara",
+                "promoted_content": null,
+                "query": "Jericoacoara",
+                "tweet_volume": null
+            },
+            {
+                "name": "#MestreDoSabor",
+                "url": "http://twitter.com/search?q=%23MestreDoSabor",
+                "promoted_content": null,
+                "query": "%23MestreDoSabor",
+                "tweet_volume": null
+            },
+            {
+                "name": "#dfcex",
+                "url": "http://twitter.com/search?q=%23dfcex",
+                "promoted_content": null,
+                "query": "%23dfcex",
+                "tweet_volume": null
+            },
+            {
+                "name": "#BBedoBrasil",
+                "url": "http://twitter.com/search?q=%23BBedoBrasil",
+                "promoted_content": null,
+                "query": "%23BBedoBrasil",
+                "tweet_volume": null
+            },
+            {
+                "name": "#osmenottibrahmalive",
+                "url": "http://twitter.com/search?q=%23osmenottibrahmalive",
+                "promoted_content": null,
+                "query": "%23osmenottibrahmalive",
+                "tweet_volume": null
+            },
+            {
+                "name": "#BBFinanciaFakeNews",
+                "url": "http://twitter.com/search?q=%23BBFinanciaFakeNews",
+                "promoted_content": null,
+                "query": "%23BBFinanciaFakeNews",
+                "tweet_volume": null
+            },
+            {
+                "name": "#BDaySophiaAbrah\u00e3o",
+                "url": "http://twitter.com/search?q=%23BDaySophiaAbrah%C3%A3o",
+                "promoted_content": null,
+                "query": "%23BDaySophiaAbrah%C3%A3o",
+                "tweet_volume": null
+            },
+            {
+                "name": "#maenarcisista",
+                "url": "http://twitter.com/search?q=%23maenarcisista",
+                "promoted_content": null,
+                "query": "%23maenarcisista",
+                "tweet_volume": 28496
+            },
+            {
+                "name": "#noacf",
+                "url": "http://twitter.com/search?q=%23noacf",
+                "promoted_content": null,
+                "query": "%23noacf",
+                "tweet_volume": 24121
+            },
+            {
+                "name": "#ReleaseMileysNewAlbum",
+                "url": "http://twitter.com/search?q=%23ReleaseMileysNewAlbum",
+                "promoted_content": null,
+                "query": "%23ReleaseMileysNewAlbum",
+                "tweet_volume": 19663
+            },
+            {
+                "name": "#TuyYoDulceMaria",
+                "url": "http://twitter.com/search?q=%23TuyYoDulceMaria",
+                "promoted_content": null,
+                "query": "%23TuyYoDulceMaria",
+                "tweet_volume": null
+            },
+            {
+                "name": "#TomEmCasa",
+                "url": "http://twitter.com/search?q=%23TomEmCasa",
+                "promoted_content": null,
+                "query": "%23TomEmCasa",
+                "tweet_volume": null
+            },
+            {
+                "name": "#SextaDetremuraSDV",
+                "url": "http://twitter.com/search?q=%23SextaDetremuraSDV",
+                "promoted_content": null,
+                "query": "%23SextaDetremuraSDV",
+                "tweet_volume": null
+            },
+            {
+                "name": "#WeLoveYouChrisEvans",
+                "url": "http://twitter.com/search?q=%23WeLoveYouChrisEvans",
+                "promoted_content": null,
+                "query": "%23WeLoveYouChrisEvans",
+                "tweet_volume": null
+            },
+            {
+                "name": "#EmbaixadorInCasa",
+                "url": "http://twitter.com/search?q=%23EmbaixadorInCasa",
+                "promoted_content": null,
+                "query": "%23EmbaixadorInCasa",
+                "tweet_volume": null
+            }
+        ],
+        "as_of": "2020-05-22T03:23:42Z",
+        "created_at": "2020-05-22T03:14:05Z",
+        "locations": [
+            {
+                "name": "Brazil",
+                "woeid": 23424768
+            }
+        ]
+    }
+]
