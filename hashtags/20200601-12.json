@@ -1,0 +1,266 @@
+[
+    {
+        "trends": [
+            {
+                "name": "Neymar",
+                "url": "http://twitter.com/search?q=Neymar",
+                "promoted_content": null,
+                "query": "Neymar",
+                "tweet_volume": 98869
+            },
+            {
+                "name": "#PRIDE2020",
+                "url": "http://twitter.com/search?q=%23PRIDE2020",
+                "promoted_content": null,
+                "query": "%23PRIDE2020",
+                "tweet_volume": 120085
+            },
+            {
+                "name": "#BlakeLivesMatter",
+                "url": "http://twitter.com/search?q=%23BlakeLivesMatter",
+                "promoted_content": null,
+                "query": "%23BlakeLivesMatter",
+                "tweet_volume": 10680
+            },
+            {
+                "name": "#AntiFascista",
+                "url": "http://twitter.com/search?q=%23AntiFascista",
+                "promoted_content": null,
+                "query": "%23AntiFascista",
+                "tweet_volume": 43523
+            },
+            {
+                "name": "Mussolini",
+                "url": "http://twitter.com/search?q=Mussolini",
+                "promoted_content": null,
+                "query": "Mussolini",
+                "tweet_volume": 90626
+            },
+            {
+                "name": "#FrotaNaCadeia",
+                "url": "http://twitter.com/search?q=%23FrotaNaCadeia",
+                "promoted_content": null,
+                "query": "%23FrotaNaCadeia",
+                "tweet_volume": 60925
+            },
+            {
+                "name": "#AquiNaBand",
+                "url": "http://twitter.com/search?q=%23AquiNaBand",
+                "promoted_content": null,
+                "query": "%23AquiNaBand",
+                "tweet_volume": 11960
+            },
+            {
+                "name": "Simpsons",
+                "url": "http://twitter.com/search?q=Simpsons",
+                "promoted_content": null,
+                "query": "Simpsons",
+                "tweet_volume": 123832
+            },
+            {
+                "name": "Winston Churchill",
+                "url": "http://twitter.com/search?q=%22Winston+Churchill%22",
+                "promoted_content": null,
+                "query": "%22Winston+Churchill%22",
+                "tweet_volume": 23097
+            },
+            {
+                "name": "Washington",
+                "url": "http://twitter.com/search?q=Washington",
+                "promoted_content": null,
+                "query": "Washington",
+                "tweet_volume": 522182
+            },
+            {
+                "name": "Casa Branca",
+                "url": "http://twitter.com/search?q=%22Casa+Branca%22",
+                "promoted_content": null,
+                "query": "%22Casa+Branca%22",
+                "tweet_volume": 125225
+            },
+            {
+                "name": "FNDE",
+                "url": "http://twitter.com/search?q=FNDE",
+                "promoted_content": null,
+                "query": "FNDE",
+                "tweet_volume": null
+            },
+            {
+                "name": "Esse Felipe Neto",
+                "url": "http://twitter.com/search?q=%22Esse+Felipe+Neto%22",
+                "promoted_content": null,
+                "query": "%22Esse+Felipe+Neto%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "More & More",
+                "url": "http://twitter.com/search?q=%22More+%26+More%22",
+                "promoted_content": null,
+                "query": "%22More+%26+More%22",
+                "tweet_volume": 694655
+            },
+            {
+                "name": "Marc Jacobs",
+                "url": "http://twitter.com/search?q=%22Marc+Jacobs%22",
+                "promoted_content": null,
+                "query": "%22Marc+Jacobs%22",
+                "tweet_volume": 11015
+            },
+            {
+                "name": "Meli",
+                "url": "http://twitter.com/search?q=Meli",
+                "promoted_content": null,
+                "query": "Meli",
+                "tweet_volume": 11803
+            },
+            {
+                "name": "MEU M\u00caS",
+                "url": "http://twitter.com/search?q=%22MEU+M%C3%8AS%22",
+                "promoted_content": null,
+                "query": "%22MEU+M%C3%8AS%22",
+                "tweet_volume": 15852
+            },
+            {
+                "name": "yuju",
+                "url": "http://twitter.com/search?q=yuju",
+                "promoted_content": null,
+                "query": "yuju",
+                "tweet_volume": 11258
+            },
+            {
+                "name": "Merendar",
+                "url": "http://twitter.com/search?q=Merendar",
+                "promoted_content": null,
+                "query": "Merendar",
+                "tweet_volume": null
+            },
+            {
+                "name": "FANT\u00c1STICO MENTIROSO",
+                "url": "http://twitter.com/search?q=%22FANT%C3%81STICO+MENTIROSO%22",
+                "promoted_content": null,
+                "query": "%22FANT%C3%81STICO+MENTIROSO%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Bem-vindo Junho",
+                "url": "http://twitter.com/search?q=%22Bem-vindo+Junho%22",
+                "promoted_content": null,
+                "query": "%22Bem-vindo+Junho%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Igor Gomes",
+                "url": "http://twitter.com/search?q=%22Igor+Gomes%22",
+                "promoted_content": null,
+                "query": "%22Igor+Gomes%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "AGENTE DO FBI",
+                "url": "http://twitter.com/search?q=%22AGENTE+DO+FBI%22",
+                "promoted_content": null,
+                "query": "%22AGENTE+DO+FBI%22",
+                "tweet_volume": 30656
+            },
+            {
+                "name": "GABA",
+                "url": "http://twitter.com/search?q=GABA",
+                "promoted_content": null,
+                "query": "GABA",
+                "tweet_volume": null
+            },
+            {
+                "name": "Jumanji",
+                "url": "http://twitter.com/search?q=Jumanji",
+                "promoted_content": null,
+                "query": "Jumanji",
+                "tweet_volume": 29576
+            },
+            {
+                "name": "#ExposedAmericana",
+                "url": "http://twitter.com/search?q=%23ExposedAmericana",
+                "promoted_content": null,
+                "query": "%23ExposedAmericana",
+                "tweet_volume": 12956
+            },
+            {
+                "name": "#Encontro",
+                "url": "http://twitter.com/search?q=%23Encontro",
+                "promoted_content": null,
+                "query": "%23Encontro",
+                "tweet_volume": null
+            },
+            {
+                "name": "#junho2020",
+                "url": "http://twitter.com/search?q=%23junho2020",
+                "promoted_content": null,
+                "query": "%23junho2020",
+                "tweet_volume": null
+            },
+            {
+                "name": "#grandedebate",
+                "url": "http://twitter.com/search?q=%23grandedebate",
+                "promoted_content": null,
+                "query": "%23grandedebate",
+                "tweet_volume": null
+            },
+            {
+                "name": "#diadaimprensa",
+                "url": "http://twitter.com/search?q=%23diadaimprensa",
+                "promoted_content": null,
+                "query": "%23diadaimprensa",
+                "tweet_volume": null
+            },
+            {
+                "name": "#EuComentaristaPolitico",
+                "url": "http://twitter.com/search?q=%23EuComentaristaPolitico",
+                "promoted_content": null,
+                "query": "%23EuComentaristaPolitico",
+                "tweet_volume": null
+            },
+            {
+                "name": "#SegundaDetremuraSDV",
+                "url": "http://twitter.com/search?q=%23SegundaDetremuraSDV",
+                "promoted_content": null,
+                "query": "%23SegundaDetremuraSDV",
+                "tweet_volume": null
+            },
+            {
+                "name": "#Desafio30DiasDeBL",
+                "url": "http://twitter.com/search?q=%23Desafio30DiasDeBL",
+                "promoted_content": null,
+                "query": "%23Desafio30DiasDeBL",
+                "tweet_volume": null
+            },
+            {
+                "name": "#livecnnbrasil",
+                "url": "http://twitter.com/search?q=%23livecnnbrasil",
+                "promoted_content": null,
+                "query": "%23livecnnbrasil",
+                "tweet_volume": null
+            },
+            {
+                "name": "#1deJunho",
+                "url": "http://twitter.com/search?q=%231deJunho",
+                "promoted_content": null,
+                "query": "%231deJunho",
+                "tweet_volume": null
+            },
+            {
+                "name": "#STILL2GETHER",
+                "url": "http://twitter.com/search?q=%23STILL2GETHER",
+                "promoted_content": null,
+                "query": "%23STILL2GETHER",
+                "tweet_volume": 121207
+            }
+        ],
+        "as_of": "2020-06-01T15:23:52Z",
+        "created_at": "2020-06-01T15:19:00Z",
+        "locations": [
+            {
+                "name": "Brazil",
+                "woeid": 23424768
+            }
+        ]
+    }
+]
