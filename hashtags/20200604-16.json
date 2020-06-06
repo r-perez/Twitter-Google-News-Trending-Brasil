@@ -1,0 +1,343 @@
+[
+    {
+        "trends": [
+            {
+                "name": "#justicapormiguel",
+                "url": "http://twitter.com/search?q=%23justicapormiguel",
+                "promoted_content": null,
+                "query": "%23justicapormiguel",
+                "tweet_volume": 230710
+            },
+            {
+                "name": "#FechadosComWeintraub",
+                "url": "http://twitter.com/search?q=%23FechadosComWeintraub",
+                "promoted_content": null,
+                "query": "%23FechadosComWeintraub",
+                "tweet_volume": 150418
+            },
+            {
+                "name": "#PeppaCaiu",
+                "url": "http://twitter.com/search?q=%23PeppaCaiu",
+                "promoted_content": null,
+                "query": "%23PeppaCaiu",
+                "tweet_volume": 25159
+            },
+            {
+                "name": "#EXPOSEANTIFA",
+                "url": "http://twitter.com/search?q=%23EXPOSEANTIFA",
+                "promoted_content": null,
+                "query": "%23EXPOSEANTIFA",
+                "tweet_volume": 271691
+            },
+            {
+                "name": "luisa nunes",
+                "url": "http://twitter.com/search?q=%22luisa+nunes%22",
+                "promoted_content": null,
+                "query": "%22luisa+nunes%22",
+                "tweet_volume": 14478
+            },
+            {
+                "name": "#prazervagabunda",
+                "url": "http://twitter.com/search?q=%23prazervagabunda",
+                "promoted_content": null,
+                "query": "%23prazervagabunda",
+                "tweet_volume": 24425
+            },
+            {
+                "name": "Chelsea",
+                "url": "http://twitter.com/search?q=Chelsea",
+                "promoted_content": null,
+                "query": "Chelsea",
+                "tweet_volume": 131408
+            },
+            {
+                "name": "Marrony",
+                "url": "http://twitter.com/search?q=Marrony",
+                "promoted_content": null,
+                "query": "Marrony",
+                "tweet_volume": null
+            },
+            {
+                "name": "Still With You",
+                "url": "http://twitter.com/search?q=%22Still+With+You%22",
+                "promoted_content": null,
+                "query": "%22Still+With+You%22",
+                "tweet_volume": 1444659
+            },
+            {
+                "name": "Fabiana Anast\u00e1cio",
+                "url": "http://twitter.com/search?q=%22Fabiana+Anast%C3%A1cio%22",
+                "promoted_content": null,
+                "query": "%22Fabiana+Anast%C3%A1cio%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Pol\u00edcia Civil de Pernambuco",
+                "url": "http://twitter.com/search?q=%22Pol%C3%ADcia+Civil+de+Pernambuco%22",
+                "promoted_content": null,
+                "query": "%22Pol%C3%ADcia+Civil+de+Pernambuco%22",
+                "tweet_volume": 55545
+            },
+            {
+                "name": "Carli",
+                "url": "http://twitter.com/search?q=Carli",
+                "promoted_content": null,
+                "query": "Carli",
+                "tweet_volume": null
+            },
+            {
+                "name": "Seedorf",
+                "url": "http://twitter.com/search?q=Seedorf",
+                "promoted_content": null,
+                "query": "Seedorf",
+                "tweet_volume": null
+            },
+            {
+                "name": "Lu\u00edsa Nunes Brasil",
+                "url": "http://twitter.com/search?q=%22Lu%C3%ADsa+Nunes+Brasil%22",
+                "promoted_content": null,
+                "query": "%22Lu%C3%ADsa+Nunes+Brasil%22",
+                "tweet_volume": 11508
+            },
+            {
+                "name": "Sari Corte Real",
+                "url": "http://twitter.com/search?q=%22Sari+Corte+Real%22",
+                "promoted_content": null,
+                "query": "%22Sari+Corte+Real%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Jungkook",
+                "url": "http://twitter.com/search?q=Jungkook",
+                "promoted_content": null,
+                "query": "Jungkook",
+                "tweet_volume": 1400136
+            },
+            {
+                "name": "Bolsa Fam\u00edlia",
+                "url": "http://twitter.com/search?q=%22Bolsa+Fam%C3%ADlia%22",
+                "promoted_content": null,
+                "query": "%22Bolsa+Fam%C3%ADlia%22",
+                "tweet_volume": 17854
+            },
+            {
+                "name": "NATURAL",
+                "url": "http://twitter.com/search?q=NATURAL",
+                "promoted_content": null,
+                "query": "NATURAL",
+                "tweet_volume": 176886
+            },
+            {
+                "name": "Ares",
+                "url": "http://twitter.com/search?q=Ares",
+                "promoted_content": null,
+                "query": "Ares",
+                "tweet_volume": null
+            },
+            {
+                "name": "Denunciada",
+                "url": "http://twitter.com/search?q=Denunciada",
+                "promoted_content": null,
+                "query": "Denunciada",
+                "tweet_volume": null
+            },
+            {
+                "name": "Davi Lucca",
+                "url": "http://twitter.com/search?q=%22Davi+Lucca%22",
+                "promoted_content": null,
+                "query": "%22Davi+Lucca%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "tiago leifert",
+                "url": "http://twitter.com/search?q=%22tiago+leifert%22",
+                "promoted_content": null,
+                "query": "%22tiago+leifert%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Boselli",
+                "url": "http://twitter.com/search?q=Boselli",
+                "promoted_content": null,
+                "query": "Boselli",
+                "tweet_volume": null
+            },
+            {
+                "name": "eMule",
+                "url": "http://twitter.com/search?q=eMule",
+                "promoted_content": null,
+                "query": "eMule",
+                "tweet_volume": null
+            },
+            {
+                "name": "Funai",
+                "url": "http://twitter.com/search?q=Funai",
+                "promoted_content": null,
+                "query": "Funai",
+                "tweet_volume": null
+            },
+            {
+                "name": "Klopp",
+                "url": "http://twitter.com/search?q=Klopp",
+                "promoted_content": null,
+                "query": "Klopp",
+                "tweet_volume": 13941
+            },
+            {
+                "name": "Estatisticamente",
+                "url": "http://twitter.com/search?q=Estatisticamente",
+                "promoted_content": null,
+                "query": "Estatisticamente",
+                "tweet_volume": null
+            },
+            {
+                "name": "Sand\u00e1lia Jesus",
+                "url": "http://twitter.com/search?q=%22Sand%C3%A1lia+Jesus%22",
+                "promoted_content": null,
+                "query": "%22Sand%C3%A1lia+Jesus%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Miguel Ot\u00e1vio",
+                "url": "http://twitter.com/search?q=%22Miguel+Ot%C3%A1vio%22",
+                "promoted_content": null,
+                "query": "%22Miguel+Ot%C3%A1vio%22",
+                "tweet_volume": 28739
+            },
+            {
+                "name": "UFMA",
+                "url": "http://twitter.com/search?q=UFMA",
+                "promoted_content": null,
+                "query": "UFMA",
+                "tweet_volume": null
+            },
+            {
+                "name": "Juliana Paes",
+                "url": "http://twitter.com/search?q=%22Juliana+Paes%22",
+                "promoted_content": null,
+                "query": "%22Juliana+Paes%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Limewire",
+                "url": "http://twitter.com/search?q=Limewire",
+                "promoted_content": null,
+                "query": "Limewire",
+                "tweet_volume": null
+            },
+            {
+                "name": "Liniker",
+                "url": "http://twitter.com/search?q=Liniker",
+                "promoted_content": null,
+                "query": "Liniker",
+                "tweet_volume": null
+            },
+            {
+                "name": "UNIR",
+                "url": "http://twitter.com/search?q=UNIR",
+                "promoted_content": null,
+                "query": "UNIR",
+                "tweet_volume": 21227
+            },
+            {
+                "name": "\ufe0fESPIANDO SEU CELULAR",
+                "url": "http://twitter.com/search?q=%22%EF%B8%8FESPIANDO+SEU+CELULAR%22",
+                "promoted_content": null,
+                "query": "%22%EF%B8%8FESPIANDO+SEU+CELULAR%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "JUSTI\u00c7A POR MIGUEL",
+                "url": "http://twitter.com/search?q=%22JUSTI%C3%87A+POR+MIGUEL%22",
+                "promoted_content": null,
+                "query": "%22JUSTI%C3%87A+POR+MIGUEL%22",
+                "tweet_volume": 57511
+            },
+            {
+                "name": "Bolacha",
+                "url": "http://twitter.com/search?q=Bolacha",
+                "promoted_content": null,
+                "query": "Bolacha",
+                "tweet_volume": null
+            },
+            {
+                "name": "Pep\u00ea",
+                "url": "http://twitter.com/search?q=Pep%C3%AA",
+                "promoted_content": null,
+                "query": "Pep%C3%AA",
+                "tweet_volume": 43071
+            },
+            {
+                "name": "Lombroso",
+                "url": "http://twitter.com/search?q=Lombroso",
+                "promoted_content": null,
+                "query": "Lombroso",
+                "tweet_volume": null
+            },
+            {
+                "name": "N\u00c3O FOI ACIDENTE",
+                "url": "http://twitter.com/search?q=%22N%C3%83O+FOI+ACIDENTE%22",
+                "promoted_content": null,
+                "query": "%22N%C3%83O+FOI+ACIDENTE%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Dentinho",
+                "url": "http://twitter.com/search?q=Dentinho",
+                "promoted_content": null,
+                "query": "Dentinho",
+                "tweet_volume": null
+            },
+            {
+                "name": "Chinedidas",
+                "url": "http://twitter.com/search?q=Chinedidas",
+                "promoted_content": null,
+                "query": "Chinedidas",
+                "tweet_volume": null
+            },
+            {
+                "name": "#FalaFiel",
+                "url": "http://twitter.com/search?q=%23FalaFiel",
+                "promoted_content": null,
+                "query": "%23FalaFiel",
+                "tweet_volume": null
+            },
+            {
+                "name": "#puefofa_barmy",
+                "url": "http://twitter.com/search?q=%23puefofa_barmy",
+                "promoted_content": null,
+                "query": "%23puefofa_barmy",
+                "tweet_volume": 48504
+            },
+            {
+                "name": "#TodosPelaNicolle",
+                "url": "http://twitter.com/search?q=%23TodosPelaNicolle",
+                "promoted_content": null,
+                "query": "%23TodosPelaNicolle",
+                "tweet_volume": 19470
+            },
+            {
+                "name": "#AnomynousBrazil",
+                "url": "http://twitter.com/search?q=%23AnomynousBrazil",
+                "promoted_content": null,
+                "query": "%23AnomynousBrazil",
+                "tweet_volume": null
+            },
+            {
+                "name": "#OsMutantes22",
+                "url": "http://twitter.com/search?q=%23OsMutantes22",
+                "promoted_content": null,
+                "query": "%23OsMutantes22",
+                "tweet_volume": null
+            }
+        ],
+        "as_of": "2020-06-04T19:23:55Z",
+        "created_at": "2020-06-04T19:17:30Z",
+        "locations": [
+            {
+                "name": "Brazil",
+                "woeid": 23424768
+            }
+        ]
+    }
+]

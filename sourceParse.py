@@ -7,9 +7,9 @@ data = {}
 data['articles'] = []
 
 
-with open('./data/output-backup.json', encoding="utf8") as f:
+with open('./data/data.json', encoding="utf8") as f:
     inputfile = json.load(f)
-    articles = inputfile['articles']      
+    articles = inputfile['articles']
 
 
 def nlpFunction(data):
@@ -1120,5 +1120,5 @@ for article in articles:
 
 
 
-with open('./data/data.json', 'w', encoding='utf-8') as outfile:
+with open('./data/new-data.json', 'w', encoding='utf-8') as outfile:
     json.dump(data, outfile)
