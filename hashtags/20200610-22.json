@@ -1,0 +1,364 @@
+[
+    {
+        "trends": [
+            {
+                "name": "Jorge",
+                "url": "http://twitter.com/search?q=Jorge",
+                "promoted_content": null,
+                "query": "Jorge",
+                "tweet_volume": 121969
+            },
+            {
+                "name": "#JeMBrahmaLive",
+                "url": "http://twitter.com/search?q=%23JeMBrahmaLive",
+                "promoted_content": null,
+                "query": "%23JeMBrahmaLive",
+                "tweet_volume": 34951
+            },
+            {
+                "name": "PC Siqueira",
+                "url": "http://twitter.com/search?q=%22PC+Siqueira%22",
+                "promoted_content": null,
+                "query": "%22PC+Siqueira%22",
+                "tweet_volume": 65694
+            },
+            {
+                "name": "#ChegadeTransfobia",
+                "url": "http://twitter.com/search?q=%23ChegadeTransfobia",
+                "promoted_content": null,
+                "query": "%23ChegadeTransfobia",
+                "tweet_volume": 57517
+            },
+            {
+                "name": "#vintagealok",
+                "url": "http://twitter.com/search?q=%23vintagealok",
+                "promoted_content": null,
+                "query": "%23vintagealok",
+                "tweet_volume": null
+            },
+            {
+                "name": "#S\u00e1badoTemLiveLM",
+                "url": "http://twitter.com/search?q=%23S%C3%A1badoTemLiveLM",
+                "promoted_content": null,
+                "query": "%23S%C3%A1badoTemLiveLM",
+                "tweet_volume": null
+            },
+            {
+                "name": "iPhone 6s",
+                "url": "http://twitter.com/search?q=%22iPhone+6s%22",
+                "promoted_content": null,
+                "query": "%22iPhone+6s%22",
+                "tweet_volume": 18340
+            },
+            {
+                "name": "AZUL \u00c9 O NOVO ROSA",
+                "url": "http://twitter.com/search?q=%22AZUL+%C3%89+O+NOVO+ROSA%22",
+                "promoted_content": null,
+                "query": "%22AZUL+%C3%89+O+NOVO+ROSA%22",
+                "tweet_volume": 51793
+            },
+            {
+                "name": "#2MKrystianWang",
+                "url": "http://twitter.com/search?q=%232MKrystianWang",
+                "promoted_content": null,
+                "query": "%232MKrystianWang",
+                "tweet_volume": null
+            },
+            {
+                "name": "Renata Vasconcelos",
+                "url": "http://twitter.com/search?q=%22Renata+Vasconcelos%22",
+                "promoted_content": null,
+                "query": "%22Renata+Vasconcelos%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "DISNEY SAVE AWAE",
+                "url": "http://twitter.com/search?q=%22DISNEY+SAVE+AWAE%22",
+                "promoted_content": null,
+                "query": "%22DISNEY+SAVE+AWAE%22",
+                "tweet_volume": 46504
+            },
+            {
+                "name": "BTS DISCOGRAPHY RATE",
+                "url": "http://twitter.com/search?q=%22BTS+DISCOGRAPHY+RATE%22",
+                "promoted_content": null,
+                "query": "%22BTS+DISCOGRAPHY+RATE%22",
+                "tweet_volume": 173428
+            },
+            {
+                "name": "6 ANOS",
+                "url": "http://twitter.com/search?q=%226+ANOS%22",
+                "promoted_content": null,
+                "query": "%226+ANOS%22",
+                "tweet_volume": 34059
+            },
+            {
+                "name": "Ped\u00f3filo",
+                "url": "http://twitter.com/search?q=Ped%C3%B3filo",
+                "promoted_content": null,
+                "query": "Ped%C3%B3filo",
+                "tweet_volume": 43246
+            },
+            {
+                "name": "STREAM LOVE 101",
+                "url": "http://twitter.com/search?q=%22STREAM+LOVE+101%22",
+                "promoted_content": null,
+                "query": "%22STREAM+LOVE+101%22",
+                "tweet_volume": 11207
+            },
+            {
+                "name": "amo noite e dia",
+                "url": "http://twitter.com/search?q=%22amo+noite+e+dia%22",
+                "promoted_content": null,
+                "query": "%22amo+noite+e+dia%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Alex Kidd",
+                "url": "http://twitter.com/search?q=%22Alex+Kidd%22",
+                "promoted_content": null,
+                "query": "%22Alex+Kidd%22",
+                "tweet_volume": 10224
+            },
+            {
+                "name": "28M DO LUAN",
+                "url": "http://twitter.com/search?q=%2228M+DO+LUAN%22",
+                "promoted_content": null,
+                "query": "%2228M+DO+LUAN%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Bruna Marquezine",
+                "url": "http://twitter.com/search?q=%22Bruna+Marquezine%22",
+                "promoted_content": null,
+                "query": "%22Bruna+Marquezine%22",
+                "tweet_volume": 24997
+            },
+            {
+                "name": "Salom\u00e9",
+                "url": "http://twitter.com/search?q=Salom%C3%A9",
+                "promoted_content": null,
+                "query": "Salom%C3%A9",
+                "tweet_volume": null
+            },
+            {
+                "name": "O PC",
+                "url": "http://twitter.com/search?q=%22O+PC%22",
+                "promoted_content": null,
+                "query": "%22O+PC%22",
+                "tweet_volume": 23209
+            },
+            {
+                "name": "David Luiz",
+                "url": "http://twitter.com/search?q=%22David+Luiz%22",
+                "promoted_content": null,
+                "query": "%22David+Luiz%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "repudia",
+                "url": "http://twitter.com/search?q=repudia",
+                "promoted_content": null,
+                "query": "repudia",
+                "tweet_volume": null
+            },
+            {
+                "name": "Empregadora",
+                "url": "http://twitter.com/search?q=Empregadora",
+                "promoted_content": null,
+                "query": "Empregadora",
+                "tweet_volume": null
+            },
+            {
+                "name": "Alerj",
+                "url": "http://twitter.com/search?q=Alerj",
+                "promoted_content": null,
+                "query": "Alerj",
+                "tweet_volume": 33397
+            },
+            {
+                "name": "EU VIAJEI NO SEU OLHAR",
+                "url": "http://twitter.com/search?q=%22EU+VIAJEI+NO+SEU+OLHAR%22",
+                "promoted_content": null,
+                "query": "%22EU+VIAJEI+NO+SEU+OLHAR%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "TE AMAMOS FAMILIA LEE",
+                "url": "http://twitter.com/search?q=%22TE+AMAMOS+FAMILIA+LEE%22",
+                "promoted_content": null,
+                "query": "%22TE+AMAMOS+FAMILIA+LEE%22",
+                "tweet_volume": 14513
+            },
+            {
+                "name": "O MUNDO \u00c9 T\u00c3O PEQUENO AFINAL",
+                "url": "http://twitter.com/search?q=%22O+MUNDO+%C3%89+T%C3%83O+PEQUENO+AFINAL%22",
+                "promoted_content": null,
+                "query": "%22O+MUNDO+%C3%89+T%C3%83O+PEQUENO+AFINAL%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Arliza",
+                "url": "http://twitter.com/search?q=Arliza",
+                "promoted_content": null,
+                "query": "Arliza",
+                "tweet_volume": null
+            },
+            {
+                "name": "PRA TER O SEU AMOR",
+                "url": "http://twitter.com/search?q=%22PRA+TER+O+SEU+AMOR%22",
+                "promoted_content": null,
+                "query": "%22PRA+TER+O+SEU+AMOR%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Arthur e Eliza",
+                "url": "http://twitter.com/search?q=%22Arthur+e+Eliza%22",
+                "promoted_content": null,
+                "query": "%22Arthur+e+Eliza%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "VOC\u00ca N\u00c3O SABE O QUE \u00c9 AMAR",
+                "url": "http://twitter.com/search?q=%22VOC%C3%8A+N%C3%83O+SABE+O+QUE+%C3%89+AMAR%22",
+                "promoted_content": null,
+                "query": "%22VOC%C3%8A+N%C3%83O+SABE+O+QUE+%C3%89+AMAR%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Mauro Cezar",
+                "url": "http://twitter.com/search?q=%22Mauro+Cezar%22",
+                "promoted_content": null,
+                "query": "%22Mauro+Cezar%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "#nfadaspoderosas",
+                "url": "http://twitter.com/search?q=%23nfadaspoderosas",
+                "promoted_content": null,
+                "query": "%23nfadaspoderosas",
+                "tweet_volume": null
+            },
+            {
+                "name": "#DerreteMBL",
+                "url": "http://twitter.com/search?q=%23DerreteMBL",
+                "promoted_content": null,
+                "query": "%23DerreteMBL",
+                "tweet_volume": 22692
+            },
+            {
+                "name": "#KaraokeConMaite",
+                "url": "http://twitter.com/search?q=%23KaraokeConMaite",
+                "promoted_content": null,
+                "query": "%23KaraokeConMaite",
+                "tweet_volume": null
+            },
+            {
+                "name": "#livedochoice",
+                "url": "http://twitter.com/search?q=%23livedochoice",
+                "promoted_content": null,
+                "query": "%23livedochoice",
+                "tweet_volume": null
+            },
+            {
+                "name": "#AsAventurasDePoliana541",
+                "url": "http://twitter.com/search?q=%23AsAventurasDePoliana541",
+                "promoted_content": null,
+                "query": "%23AsAventurasDePoliana541",
+                "tweet_volume": null
+            },
+            {
+                "name": "#MTVHitsDeCasal",
+                "url": "http://twitter.com/search?q=%23MTVHitsDeCasal",
+                "promoted_content": null,
+                "query": "%23MTVHitsDeCasal",
+                "tweet_volume": null
+            },
+            {
+                "name": "#JeMCantaCoisasDeQuemAma",
+                "url": "http://twitter.com/search?q=%23JeMCantaCoisasDeQuemAma",
+                "promoted_content": null,
+                "query": "%23JeMCantaCoisasDeQuemAma",
+                "tweet_volume": null
+            },
+            {
+                "name": "#DitaduraVoltou",
+                "url": "http://twitter.com/search?q=%23DitaduraVoltou",
+                "promoted_content": null,
+                "query": "%23DitaduraVoltou",
+                "tweet_volume": 25379
+            },
+            {
+                "name": "#CANELLA1M",
+                "url": "http://twitter.com/search?q=%23CANELLA1M",
+                "promoted_content": null,
+                "query": "%23CANELLA1M",
+                "tweet_volume": null
+            },
+            {
+                "name": "#TOP60ONEPIECE",
+                "url": "http://twitter.com/search?q=%23TOP60ONEPIECE",
+                "promoted_content": null,
+                "query": "%23TOP60ONEPIECE",
+                "tweet_volume": null
+            },
+            {
+                "name": "#novelajesus42",
+                "url": "http://twitter.com/search?q=%23novelajesus42",
+                "promoted_content": null,
+                "query": "%23novelajesus42",
+                "tweet_volume": null
+            },
+            {
+                "name": "#cursoantifa",
+                "url": "http://twitter.com/search?q=%23cursoantifa",
+                "promoted_content": null,
+                "query": "%23cursoantifa",
+                "tweet_volume": null
+            },
+            {
+                "name": "#jornaldacultura",
+                "url": "http://twitter.com/search?q=%23jornaldacultura",
+                "promoted_content": null,
+                "query": "%23jornaldacultura",
+                "tweet_volume": null
+            },
+            {
+                "name": "#pedofiliaecrime",
+                "url": "http://twitter.com/search?q=%23pedofiliaecrime",
+                "promoted_content": null,
+                "query": "%23pedofiliaecrime",
+                "tweet_volume": null
+            },
+            {
+                "name": "#OTGalaFinal",
+                "url": "http://twitter.com/search?q=%23OTGalaFinal",
+                "promoted_content": null,
+                "query": "%23OTGalaFinal",
+                "tweet_volume": 466881
+            },
+            {
+                "name": "#GoBDL",
+                "url": "http://twitter.com/search?q=%23GoBDL",
+                "promoted_content": null,
+                "query": "%23GoBDL",
+                "tweet_volume": null
+            },
+            {
+                "name": "#SaiaJustaNoGNT",
+                "url": "http://twitter.com/search?q=%23SaiaJustaNoGNT",
+                "promoted_content": null,
+                "query": "%23SaiaJustaNoGNT",
+                "tweet_volume": null
+            }
+        ],
+        "as_of": "2020-06-11T01:24:01Z",
+        "created_at": "2020-06-11T01:18:35Z",
+        "locations": [
+            {
+                "name": "Brazil",
+                "woeid": 23424768
+            }
+        ]
+    }
+]

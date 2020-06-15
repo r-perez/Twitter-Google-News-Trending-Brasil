@@ -1,0 +1,364 @@
+[
+    {
+        "trends": [
+            {
+                "name": "#impeachment",
+                "url": "http://twitter.com/search?q=%23impeachment",
+                "promoted_content": null,
+                "query": "%23impeachment",
+                "tweet_volume": 16643
+            },
+            {
+                "name": "Nova Zel\u00e2ndia",
+                "url": "http://twitter.com/search?q=%22Nova+Zel%C3%A2ndia%22",
+                "promoted_content": null,
+                "query": "%22Nova+Zel%C3%A2ndia%22",
+                "tweet_volume": 21019
+            },
+            {
+                "name": "Hermes",
+                "url": "http://twitter.com/search?q=Hermes",
+                "promoted_content": null,
+                "query": "Hermes",
+                "tweet_volume": 11912
+            },
+            {
+                "name": "#foicomprovado",
+                "url": "http://twitter.com/search?q=%23foicomprovado",
+                "promoted_content": null,
+                "query": "%23foicomprovado",
+                "tweet_volume": 14251
+            },
+            {
+                "name": "Izzy Nobre",
+                "url": "http://twitter.com/search?q=%22Izzy+Nobre%22",
+                "promoted_content": null,
+                "query": "%22Izzy+Nobre%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "#HastaSiempreZulema",
+                "url": "http://twitter.com/search?q=%23HastaSiempreZulema",
+                "promoted_content": null,
+                "query": "%23HastaSiempreZulema",
+                "tweet_volume": null
+            },
+            {
+                "name": "youngmin",
+                "url": "http://twitter.com/search?q=youngmin",
+                "promoted_content": null,
+                "query": "youngmin",
+                "tweet_volume": 130142
+            },
+            {
+                "name": "SIM JIMIN VOC\u00ca EH PERFEITO",
+                "url": "http://twitter.com/search?q=%22SIM+JIMIN+VOC%C3%8A+EH+PERFEITO%22",
+                "promoted_content": null,
+                "query": "%22SIM+JIMIN+VOC%C3%8A+EH+PERFEITO%22",
+                "tweet_volume": 11306
+            },
+            {
+                "name": "#SegundaDetremuraSDV",
+                "url": "http://twitter.com/search?q=%23SegundaDetremuraSDV",
+                "promoted_content": null,
+                "query": "%23SegundaDetremuraSDV",
+                "tweet_volume": null
+            },
+            {
+                "name": "#10YearsOfPLL",
+                "url": "http://twitter.com/search?q=%2310YearsOfPLL",
+                "promoted_content": null,
+                "query": "%2310YearsOfPLL",
+                "tweet_volume": 38824
+            },
+            {
+                "name": "Jamais Vu",
+                "url": "http://twitter.com/search?q=%22Jamais+Vu%22",
+                "promoted_content": null,
+                "query": "%22Jamais+Vu%22",
+                "tweet_volume": 68036
+            },
+            {
+                "name": "Copyright",
+                "url": "http://twitter.com/search?q=Copyright",
+                "promoted_content": null,
+                "query": "Copyright",
+                "tweet_volume": 55582
+            },
+            {
+                "name": "Oceanos",
+                "url": "http://twitter.com/search?q=Oceanos",
+                "promoted_content": null,
+                "query": "Oceanos",
+                "tweet_volume": 28354
+            },
+            {
+                "name": "Democracia e as Institui\u00e7\u00f5es",
+                "url": "http://twitter.com/search?q=%22Democracia+e+as+Institui%C3%A7%C3%B5es%22",
+                "promoted_content": null,
+                "query": "%22Democracia+e+as+Institui%C3%A7%C3%B5es%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Dan Bilzerian",
+                "url": "http://twitter.com/search?q=%22Dan+Bilzerian%22",
+                "promoted_content": null,
+                "query": "%22Dan+Bilzerian%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Distorce",
+                "url": "http://twitter.com/search?q=Distorce",
+                "promoted_content": null,
+                "query": "Distorce",
+                "tweet_volume": null
+            },
+            {
+                "name": "Milho",
+                "url": "http://twitter.com/search?q=Milho",
+                "promoted_content": null,
+                "query": "Milho",
+                "tweet_volume": 42467
+            },
+            {
+                "name": "DMCA",
+                "url": "http://twitter.com/search?q=DMCA",
+                "promoted_content": null,
+                "query": "DMCA",
+                "tweet_volume": 48734
+            },
+            {
+                "name": "Andr\u00e9 Matos",
+                "url": "http://twitter.com/search?q=%22Andr%C3%A9+Matos%22",
+                "promoted_content": null,
+                "query": "%22Andr%C3%A9+Matos%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "GIZELLY NOSSO UM BILHAO E MEIO",
+                "url": "http://twitter.com/search?q=%22GIZELLY+NOSSO+UM+BILHAO+E+MEIO%22",
+                "promoted_content": null,
+                "query": "%22GIZELLY+NOSSO+UM+BILHAO+E+MEIO%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Respeitamos",
+                "url": "http://twitter.com/search?q=Respeitamos",
+                "promoted_content": null,
+                "query": "Respeitamos",
+                "tweet_volume": null
+            },
+            {
+                "name": "J\u00e2nio Quadros",
+                "url": "http://twitter.com/search?q=%22J%C3%A2nio+Quadros%22",
+                "promoted_content": null,
+                "query": "%22J%C3%A2nio+Quadros%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Folha e UOL",
+                "url": "http://twitter.com/search?q=%22Folha+e+UOL%22",
+                "promoted_content": null,
+                "query": "%22Folha+e+UOL%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "08 de Junho",
+                "url": "http://twitter.com/search?q=%2208+de+Junho%22",
+                "promoted_content": null,
+                "query": "%2208+de+Junho%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Scar Tissue",
+                "url": "http://twitter.com/search?q=%22Scar+Tissue%22",
+                "promoted_content": null,
+                "query": "%22Scar+Tissue%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Di Maria",
+                "url": "http://twitter.com/search?q=%22Di+Maria%22",
+                "promoted_content": null,
+                "query": "%22Di+Maria%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Mini Cooper",
+                "url": "http://twitter.com/search?q=%22Mini+Cooper%22",
+                "promoted_content": null,
+                "query": "%22Mini+Cooper%22",
+                "tweet_volume": 12107
+            },
+            {
+                "name": "Tamb\u00e9m Sou Hype",
+                "url": "http://twitter.com/search?q=%22Tamb%C3%A9m+Sou+Hype%22",
+                "promoted_content": null,
+                "query": "%22Tamb%C3%A9m+Sou+Hype%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Milt\u00e3o",
+                "url": "http://twitter.com/search?q=Milt%C3%A3o",
+                "promoted_content": null,
+                "query": "Milt%C3%A3o",
+                "tweet_volume": null
+            },
+            {
+                "name": "Tirei No",
+                "url": "http://twitter.com/search?q=%22Tirei+No%22",
+                "promoted_content": null,
+                "query": "%22Tirei+No%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "milton neves",
+                "url": "http://twitter.com/search?q=%22milton+neves%22",
+                "promoted_content": null,
+                "query": "%22milton+neves%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Octavian",
+                "url": "http://twitter.com/search?q=Octavian",
+                "promoted_content": null,
+                "query": "Octavian",
+                "tweet_volume": null
+            },
+            {
+                "name": "maria rita kehl",
+                "url": "http://twitter.com/search?q=%22maria+rita+kehl%22",
+                "promoted_content": null,
+                "query": "%22maria+rita+kehl%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Vmin",
+                "url": "http://twitter.com/search?q=Vmin",
+                "promoted_content": null,
+                "query": "Vmin",
+                "tweet_volume": 199831
+            },
+            {
+                "name": "Tirei 1.000.000.000%",
+                "url": "http://twitter.com/search?q=%22Tirei+1.000.000.000%25%22",
+                "promoted_content": null,
+                "query": "%22Tirei+1.000.000.000%25%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "VODs",
+                "url": "http://twitter.com/search?q=VODs",
+                "promoted_content": null,
+                "query": "VODs",
+                "tweet_volume": 10252
+            },
+            {
+                "name": "Glad You Came",
+                "url": "http://twitter.com/search?q=%22Glad+You+Came%22",
+                "promoted_content": null,
+                "query": "%22Glad+You+Came%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "cute but psycho",
+                "url": "http://twitter.com/search?q=%22cute+but+psycho%22",
+                "promoted_content": null,
+                "query": "%22cute+but+psycho%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Pixuleco",
+                "url": "http://twitter.com/search?q=Pixuleco",
+                "promoted_content": null,
+                "query": "Pixuleco",
+                "tweet_volume": null
+            },
+            {
+                "name": "#PondeNoMorning",
+                "url": "http://twitter.com/search?q=%23PondeNoMorning",
+                "promoted_content": null,
+                "query": "%23PondeNoMorning",
+                "tweet_volume": null
+            },
+            {
+                "name": "#10YearsOfBionic",
+                "url": "http://twitter.com/search?q=%2310YearsOfBionic",
+                "promoted_content": null,
+                "query": "%2310YearsOfBionic",
+                "tweet_volume": 11767
+            },
+            {
+                "name": "#SonesAreStillHereForSNSD",
+                "url": "http://twitter.com/search?q=%23SonesAreStillHereForSNSD",
+                "promoted_content": null,
+                "query": "%23SonesAreStillHereForSNSD",
+                "tweet_volume": null
+            },
+            {
+                "name": "#livecnnbrasil",
+                "url": "http://twitter.com/search?q=%23livecnnbrasil",
+                "promoted_content": null,
+                "query": "%23livecnnbrasil",
+                "tweet_volume": null
+            },
+            {
+                "name": "#filmenomorde",
+                "url": "http://twitter.com/search?q=%23filmenomorde",
+                "promoted_content": null,
+                "query": "%23filmenomorde",
+                "tweet_volume": null
+            },
+            {
+                "name": "#CassacaoDaJoice",
+                "url": "http://twitter.com/search?q=%23CassacaoDaJoice",
+                "promoted_content": null,
+                "query": "%23CassacaoDaJoice",
+                "tweet_volume": null
+            },
+            {
+                "name": "#AnavitoriaNoEncontro",
+                "url": "http://twitter.com/search?q=%23AnavitoriaNoEncontro",
+                "promoted_content": null,
+                "query": "%23AnavitoriaNoEncontro",
+                "tweet_volume": null
+            },
+            {
+                "name": "#HojeEmDia",
+                "url": "http://twitter.com/search?q=%23HojeEmDia",
+                "promoted_content": null,
+                "query": "%23HojeEmDia",
+                "tweet_volume": null
+            },
+            {
+                "name": "#TietaNoGloboPlay",
+                "url": "http://twitter.com/search?q=%23TietaNoGloboPlay",
+                "promoted_content": null,
+                "query": "%23TietaNoGloboPlay",
+                "tweet_volume": null
+            },
+            {
+                "name": "#edicao10",
+                "url": "http://twitter.com/search?q=%23edicao10",
+                "promoted_content": null,
+                "query": "%23edicao10",
+                "tweet_volume": null
+            },
+            {
+                "name": "#grandedebate",
+                "url": "http://twitter.com/search?q=%23grandedebate",
+                "promoted_content": null,
+                "query": "%23grandedebate",
+                "tweet_volume": null
+            }
+        ],
+        "as_of": "2020-06-08T15:23:59Z",
+        "created_at": "2020-06-08T15:17:59Z",
+        "locations": [
+            {
+                "name": "Brazil",
+                "woeid": 23424768
+            }
+        ]
+    }
+]

@@ -1,0 +1,329 @@
+[
+    {
+        "trends": [
+            {
+                "name": "Jorge",
+                "url": "http://twitter.com/search?q=Jorge",
+                "promoted_content": null,
+                "query": "Jorge",
+                "tweet_volume": 132695
+            },
+            {
+                "name": "#JeMBrahmaLive",
+                "url": "http://twitter.com/search?q=%23JeMBrahmaLive",
+                "promoted_content": null,
+                "query": "%23JeMBrahmaLive",
+                "tweet_volume": 52347
+            },
+            {
+                "name": "PC Siqueira",
+                "url": "http://twitter.com/search?q=%22PC+Siqueira%22",
+                "promoted_content": null,
+                "query": "%22PC+Siqueira%22",
+                "tweet_volume": 87468
+            },
+            {
+                "name": "ELANA",
+                "url": "http://twitter.com/search?q=ELANA",
+                "promoted_content": null,
+                "query": "ELANA",
+                "tweet_volume": 20863
+            },
+            {
+                "name": "Creed",
+                "url": "http://twitter.com/search?q=Creed",
+                "promoted_content": null,
+                "query": "Creed",
+                "tweet_volume": 18087
+            },
+            {
+                "name": "Comunica\u00e7\u00f5es",
+                "url": "http://twitter.com/search?q=Comunica%C3%A7%C3%B5es",
+                "promoted_content": null,
+                "query": "Comunica%C3%A7%C3%B5es",
+                "tweet_volume": null
+            },
+            {
+                "name": "Roger Guedes",
+                "url": "http://twitter.com/search?q=%22Roger+Guedes%22",
+                "promoted_content": null,
+                "query": "%22Roger+Guedes%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "#ChegadeTransfobia",
+                "url": "http://twitter.com/search?q=%23ChegadeTransfobia",
+                "promoted_content": null,
+                "query": "%23ChegadeTransfobia",
+                "tweet_volume": 71028
+            },
+            {
+                "name": "#The100",
+                "url": "http://twitter.com/search?q=%23The100",
+                "promoted_content": null,
+                "query": "%23The100",
+                "tweet_volume": 24746
+            },
+            {
+                "name": "jay park",
+                "url": "http://twitter.com/search?q=%22jay+park%22",
+                "promoted_content": null,
+                "query": "%22jay+park%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "#vintagealok",
+                "url": "http://twitter.com/search?q=%23vintagealok",
+                "promoted_content": null,
+                "query": "%23vintagealok",
+                "tweet_volume": null
+            },
+            {
+                "name": "#S\u00e1badoTemLiveLM",
+                "url": "http://twitter.com/search?q=%23S%C3%A1badoTemLiveLM",
+                "promoted_content": null,
+                "query": "%23S%C3%A1badoTemLiveLM",
+                "tweet_volume": 14063
+            },
+            {
+                "name": "iPhone 6s",
+                "url": "http://twitter.com/search?q=%22iPhone+6s%22",
+                "promoted_content": null,
+                "query": "%22iPhone+6s%22",
+                "tweet_volume": 24777
+            },
+            {
+                "name": "Fl\u00e1vio Brasil",
+                "url": "http://twitter.com/search?q=%22Fl%C3%A1vio+Brasil%22",
+                "promoted_content": null,
+                "query": "%22Fl%C3%A1vio+Brasil%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "vanessa hudgens",
+                "url": "http://twitter.com/search?q=%22vanessa+hudgens%22",
+                "promoted_content": null,
+                "query": "%22vanessa+hudgens%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Tessa Thompson",
+                "url": "http://twitter.com/search?q=%22Tessa+Thompson%22",
+                "promoted_content": null,
+                "query": "%22Tessa+Thompson%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "EU QUERO S\u00d3 VOC\u00ca",
+                "url": "http://twitter.com/search?q=%22EU+QUERO+S%C3%93+VOC%C3%8A%22",
+                "promoted_content": null,
+                "query": "%22EU+QUERO+S%C3%93+VOC%C3%8A%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "AZUL \u00c9 O NOVO ROSA",
+                "url": "http://twitter.com/search?q=%22AZUL+%C3%89+O+NOVO+ROSA%22",
+                "promoted_content": null,
+                "query": "%22AZUL+%C3%89+O+NOVO+ROSA%22",
+                "tweet_volume": 52809
+            },
+            {
+                "name": "DISNEY SAVE AWAE",
+                "url": "http://twitter.com/search?q=%22DISNEY+SAVE+AWAE%22",
+                "promoted_content": null,
+                "query": "%22DISNEY+SAVE+AWAE%22",
+                "tweet_volume": 49821
+            },
+            {
+                "name": "Renata Vasconcellos",
+                "url": "http://twitter.com/search?q=%22Renata+Vasconcellos%22",
+                "promoted_content": null,
+                "query": "%22Renata+Vasconcellos%22",
+                "tweet_volume": 39442
+            },
+            {
+                "name": "Marley e Eu",
+                "url": "http://twitter.com/search?q=%22Marley+e+Eu%22",
+                "promoted_content": null,
+                "query": "%22Marley+e+Eu%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Empregadora",
+                "url": "http://twitter.com/search?q=Empregadora",
+                "promoted_content": null,
+                "query": "Empregadora",
+                "tweet_volume": null
+            },
+            {
+                "name": "BTS DISCOGRAPHY RATE",
+                "url": "http://twitter.com/search?q=%22BTS+DISCOGRAPHY+RATE%22",
+                "promoted_content": null,
+                "query": "%22BTS+DISCOGRAPHY+RATE%22",
+                "tweet_volume": 230353
+            },
+            {
+                "name": "Genro",
+                "url": "http://twitter.com/search?q=Genro",
+                "promoted_content": null,
+                "query": "Genro",
+                "tweet_volume": null
+            },
+            {
+                "name": "Adonis",
+                "url": "http://twitter.com/search?q=Adonis",
+                "promoted_content": null,
+                "query": "Adonis",
+                "tweet_volume": null
+            },
+            {
+                "name": "EU SOSSEGUEI",
+                "url": "http://twitter.com/search?q=%22EU+SOSSEGUEI%22",
+                "promoted_content": null,
+                "query": "%22EU+SOSSEGUEI%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "Salom\u00e9",
+                "url": "http://twitter.com/search?q=Salom%C3%A9",
+                "promoted_content": null,
+                "query": "Salom%C3%A9",
+                "tweet_volume": null
+            },
+            {
+                "name": "OUCA REMIX DESCOMPLICA",
+                "url": "http://twitter.com/search?q=%22OUCA+REMIX+DESCOMPLICA%22",
+                "promoted_content": null,
+                "query": "%22OUCA+REMIX+DESCOMPLICA%22",
+                "tweet_volume": null
+            },
+            {
+                "name": "6 ANOS",
+                "url": "http://twitter.com/search?q=%226+ANOS%22",
+                "promoted_content": null,
+                "query": "%226+ANOS%22",
+                "tweet_volume": 36159
+            },
+            {
+                "name": "Hilux",
+                "url": "http://twitter.com/search?q=Hilux",
+                "promoted_content": null,
+                "query": "Hilux",
+                "tweet_volume": null
+            },
+            {
+                "name": "Ped\u00f3filo",
+                "url": "http://twitter.com/search?q=Ped%C3%B3filo",
+                "promoted_content": null,
+                "query": "Ped%C3%B3filo",
+                "tweet_volume": 54704
+            },
+            {
+                "name": "#nascarfoxsports",
+                "url": "http://twitter.com/search?q=%23nascarfoxsports",
+                "promoted_content": null,
+                "query": "%23nascarfoxsports",
+                "tweet_volume": null
+            },
+            {
+                "name": "#QuintaDetremuraSDV",
+                "url": "http://twitter.com/search?q=%23QuintaDetremuraSDV",
+                "promoted_content": null,
+                "query": "%23QuintaDetremuraSDV",
+                "tweet_volume": null
+            },
+            {
+                "name": "#AgentsofSHIELD",
+                "url": "http://twitter.com/search?q=%23AgentsofSHIELD",
+                "promoted_content": null,
+                "query": "%23AgentsofSHIELD",
+                "tweet_volume": null
+            },
+            {
+                "name": "#radiocancelados",
+                "url": "http://twitter.com/search?q=%23radiocancelados",
+                "promoted_content": null,
+                "query": "%23radiocancelados",
+                "tweet_volume": 15610
+            },
+            {
+                "name": "#2MKrystianWang",
+                "url": "http://twitter.com/search?q=%232MKrystianWang",
+                "promoted_content": null,
+                "query": "%232MKrystianWang",
+                "tweet_volume": null
+            },
+            {
+                "name": "#nfadaspoderosas",
+                "url": "http://twitter.com/search?q=%23nfadaspoderosas",
+                "promoted_content": null,
+                "query": "%23nfadaspoderosas",
+                "tweet_volume": null
+            },
+            {
+                "name": "#DerreteMBLLixo",
+                "url": "http://twitter.com/search?q=%23DerreteMBLLixo",
+                "promoted_content": null,
+                "query": "%23DerreteMBLLixo",
+                "tweet_volume": null
+            },
+            {
+                "name": "#livedochoice",
+                "url": "http://twitter.com/search?q=%23livedochoice",
+                "promoted_content": null,
+                "query": "%23livedochoice",
+                "tweet_volume": null
+            },
+            {
+                "name": "#canella1m",
+                "url": "http://twitter.com/search?q=%23canella1m",
+                "promoted_content": null,
+                "query": "%23canella1m",
+                "tweet_volume": null
+            },
+            {
+                "name": "#BolsonaroTraidor",
+                "url": "http://twitter.com/search?q=%23BolsonaroTraidor",
+                "promoted_content": null,
+                "query": "%23BolsonaroTraidor",
+                "tweet_volume": null
+            },
+            {
+                "name": "#afterdolatino",
+                "url": "http://twitter.com/search?q=%23afterdolatino",
+                "promoted_content": null,
+                "query": "%23afterdolatino",
+                "tweet_volume": null
+            },
+            {
+                "name": "#365dninetflix",
+                "url": "http://twitter.com/search?q=%23365dninetflix",
+                "promoted_content": null,
+                "query": "%23365dninetflix",
+                "tweet_volume": null
+            },
+            {
+                "name": "#NovelaJesus42",
+                "url": "http://twitter.com/search?q=%23NovelaJesus42",
+                "promoted_content": null,
+                "query": "%23NovelaJesus42",
+                "tweet_volume": null
+            },
+            {
+                "name": "#trocademaridos",
+                "url": "http://twitter.com/search?q=%23trocademaridos",
+                "promoted_content": null,
+                "query": "%23trocademaridos",
+                "tweet_volume": null
+            }
+        ],
+        "as_of": "2020-06-11T03:24:01Z",
+        "created_at": "2020-06-11T03:18:36Z",
+        "locations": [
+            {
+                "name": "Brazil",
+                "woeid": 23424768
+            }
+        ]
+    }
+]

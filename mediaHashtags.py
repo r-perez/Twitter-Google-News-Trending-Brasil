@@ -3,45 +3,55 @@ import pandas as pd
 from os import listdir
 from os.path import isfile, join
 import itertools
+from collections import Counter
 
 path_to_json = './hashtags/'
+#open json files in the path
 json_files = [pos_json for pos_json in os.listdir(path_to_json) if pos_json.endswith('.json')]
-
+#create a list with lists of files based on the files name
 groups =  [list(g) for _, g in itertools.groupby(sorted(json_files), lambda x: x[0:8])]
 
-result = []
+files_name = []
+urls = []
+dates = []
+hashtags = []
+hashtags_list = []
+urls_list = []
 
-#groups is a vector of vectors
+
+df = pd.DataFrame(columns=['hashtags','urls','dates'])
+
+#for each group of files of the same day
 for group in groups:
-    #file is string index of a group vector
+    #for each file in the group
     for file in group:
-        print(file)
-        with open(path_to_json + file, "r") as infile:
-            result.append(json.load(infile))
-            #print(result)
-            files_name = os.path.basename(infile.name)[0:8]
-            with open(path_to_json + 'merged/' + files_name + ".json", "w") as outfile:
-                json.dump(result, outfile)
-            result = []
-    
+        #if the file is not empty
+        if os.stat(path_to_json + file).st_size != 0:
+            #open file for read
+            with open(path_to_json + file, "r") as infile:
+                #load json file content and append             
+                json_file = json.load(infile)                
+                ci1 = [i['name'] for i in json_file[0]['trends']]
+                hashtags.append(ci1)
+                ci2 = [i['url'] for i in json_file[0]['trends']]           
+                urls.append(ci2)
 
-""" hashtags_data = pd.DataFrame(columns=['hashtag','url'])
+                #get prefix 8 characters of files names
+                for hashtag in ci1:
+                    name = os.path.basename(infile.name)
+                    name = name[0:8]
+                    dates.append(name)
 
-onlyfiles = [f for f in listdir(path_to_json) if isfile(join(path_to_json, f))]
+for eachone in hashtags:
+    for hashtag in eachone:
+        hashtags_list.append(hashtag)
+for eachone in urls:
+    for url in eachone:
+        urls_list.append(url)
 
-for index, js in enumerate(json_files):
-    with open(os.path.join(path_to_json, js)) as json_file:
         
-        json_text = json.load(json_file)
+df = pd.DataFrame({'Hashtags':hashtags_list,'Urls':urls_list, 'Dates':dates})
+#df['dates'] = dates
 
-        hashtag = json_text[0]['trends'][0]['name']
-        print(hashtag)
- """
-        #url = json_text[0]['trends'][0]['url']
-        
-        #for file in onlyfiles:
-        #    date = file
-        
-        #hashtags_data.loc[index] = [hashtag, url]
 
-#print(hashtags_data)
+df.to_csv(r'./media-hashtags.csv', index=False, header=True)

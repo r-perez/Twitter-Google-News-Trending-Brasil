@@ -1046,7 +1046,137 @@ def dcdmParse(url, articles):
         'image': articles['urlToImage'],
         'sourcename': articles['source']['name']
     })
+
+def g1Parse(url, articles):
+    from urllib.request import Request, urlopen
+    from bs4 import BeautifulSoup
     
+    link = Request(url, headers = {'User-Agent': 'Mozilla/5.0'})
+    pagina = urlopen(link).read().decode('utf-8', 'ignore')
+    
+    soup = BeautifulSoup(pagina, "lxml")
+    paragraphs = soup.find('div', {"class":"mc-column content-text active-extra-styles "})
+    titles = soup.find('div', attrs = {"class":"title"})
+    subtitles = soup.find('div', {"medium-centered subtitle"})
+    content = []
+    subtitle = []
+    title = []
+
+    for p in paragraphs.findAll('p'):
+        #print (p.text)
+        content.append(p.text)
+        #result.replace("\n","")
+    for h in titles.findAll('h1'):
+        title.append(h.text)
+
+    for h in subtitles.findAll('h2'):
+        subtitle.append(h.text)
+
+    res = [sub.replace('.','. ') for sub in content]
+    res = [sub.replace('«','') for sub in content]
+    res = [sub.replace('»','') for sub in content]
+
+    sentencas = nlpFunction(res)
+    keywords = keywordsFunction(res)
+    
+    data['articles'].append({
+        'title': title,
+        'subtitle': subtitle,
+        'content': content,
+        'keywords': keywords,
+        'sentencas': sentencas,
+        'publishedAt': articles['publishedAt'],
+        'image': articles['urlToImage'],
+        'sourcename': articles['source']['name']
+    })    
+
+def elpaisParse(url, articles):
+    from urllib.request import Request, urlopen
+    from bs4 import BeautifulSoup
+    
+    link = Request(url, headers = {'User-Agent': 'Mozilla/5.0'})
+    pagina = urlopen(link).read().decode('utf-8', 'ignore')
+    
+    soup = BeautifulSoup(pagina, "lxml")
+    paragraphs = soup.find('div', {"class":"a_b article_body | color_gray_dark  "})
+    titles = soup.find('div', attrs = {"class":"a_hg basic | "})
+    #subtitles = soup.find('div', {"medium-centered subtitle"})
+    content = []
+    subtitle = []
+    title = []
+
+    for p in paragraphs.findAll('p'):
+        #print (p.text)
+        content.append(p.text)
+        #result.replace("\n","")
+    for h in titles.findAll('h1'):
+        title.append(h.text)
+
+    for h in titles.findAll('h2'):
+        subtitle.append(h.text)
+
+    res = [sub.replace('.','. ') for sub in content]
+    res = [sub.replace('«','') for sub in content]
+    res = [sub.replace('»','') for sub in content]
+
+    sentencas = nlpFunction(res)
+    keywords = keywordsFunction(res)
+    
+    data['articles'].append({
+        'title': title,
+        'subtitle': subtitle,
+        'content': content,
+        'keywords': keywords,
+        'sentencas': sentencas,
+        'publishedAt': articles['publishedAt'],
+        'image': articles['urlToImage'],
+        'sourcename': articles['source']['name']
+    })    
+
+def emParse(url, articles):
+    from urllib.request import Request, urlopen
+    from bs4 import BeautifulSoup
+    
+    link = Request(url, headers = {'User-Agent': 'Mozilla/5.0'})
+    pagina = urlopen(link).read().decode('utf-8', 'ignore')
+    
+    soup = BeautifulSoup(pagina, "lxml")
+    paragraphs = soup.find('div', {"class"="txt-serif js-article-box article-box mt-15  article-box-capitalize p402_premium"})
+    titles = soup.find('div', attrs = {"col-sm-10 col-sm-offset-1 head-cover-title"})
+    #subtitles = soup.find('div', {"medium-centered subtitle"})
+    content = []
+    subtitle = []
+    title = []
+
+    for p in paragraphs.findAll('p'):
+        #print (p.text)
+        content.append(p.text)
+        #result.replace("\n","")
+    for h in titles.findAll('h1'):
+        title.append(h.text)
+
+    for h in titles.findAll('h4'):
+        subtitle.append(h.text)
+
+    res = [sub.replace('.','. ') for sub in content]
+    res = [sub.replace('«','') for sub in content]
+    res = [sub.replace('»','') for sub in content]
+
+    sentencas = nlpFunction(res)
+    keywords = keywordsFunction(res)
+    
+    data['articles'].append({
+        'title': title,
+        'subtitle': subtitle,
+        'content': content,
+        'keywords': keywords,
+        'sentencas': sentencas,
+        'publishedAt': articles['publishedAt'],
+        'image': articles['urlToImage'],
+        'sourcename': articles['source']['name']
+    })    
+
+
 #SOURCE LIBRARY
 
 #conjurData, globoData, tabData, jornaldeNegociosData, tudocelularData, infomoneyData, vejaData
