@@ -1141,7 +1141,7 @@ def emParse(url, articles):
     pagina = urlopen(link).read().decode('utf-8', 'ignore')
     
     soup = BeautifulSoup(pagina, "lxml")
-    paragraphs = soup.find('div', {"class"="txt-serif js-article-box article-box mt-15  article-box-capitalize p402_premium"})
+    paragraphs = soup.find('div', {"txt-serif js-article-box article-box mt-15  article-box-capitalize p402_premium"})
     titles = soup.find('div', attrs = {"col-sm-10 col-sm-offset-1 head-cover-title"})
     #subtitles = soup.find('div', {"medium-centered subtitle"})
     content = []
