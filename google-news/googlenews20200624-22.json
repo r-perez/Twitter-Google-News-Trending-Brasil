@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 34,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Uol.com.br"
+            },
+            "author": null,
+            "title": "Senado aprova novo marco do saneamento b\u00e1sico e projeto vai \u00e0 san\u00e7\u00e3o - Folha de S.Paulo",
+            "description": "Com participa\u00e7\u00e3o de empresas privadas e metas em 12 anos, texto foi aprovado por 65 senadores e rejeitado por 13",
+            "url": "https://www1.folha.uol.com.br/mercado/2020/06/senado-aprova-novo-marco-do-saneamento-basico-e-projeto-vai-a-sancao.shtml",
+            "urlToImage": "https://f.i.uol.com.br/fotografia/2019/10/21/15717105035dae66272e25e_1571710503_3x2_rt.jpg",
+            "publishedAt": "2020-06-25T00:03:52Z",
+            "content": "O Senado aprovou nesta quarta-feira (24) o projeto do novo marco regulat\u00f3rio do saneamento b\u00e1sico. A medida estimula a participa\u00e7\u00e3o da iniciativa privada no setor.\r\nO projeto de lei recebeu 65 votos \u2026 [+10438 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Omunicipio.com.br"
+            },
+            "author": "Reda\u00e7\u00e3o",
+            "title": "Identificada moradora de Brusque que morreu de aneurisma cerebral e estava com Covid-19 - O Mun\u00edcipio",
+            "description": "",
+            "url": "https://omunicipio.com.br/identificada-moradora-de-brusque-que-morreu-de-aneurisma-cerebral-e-estava-com-covid-19/",
+            "urlToImage": "https://omunicipio.com.br/wp-content/uploads/2020/06/corona-2-1-7.jpg",
+            "publishedAt": "2020-06-24T23:35:00Z",
+            "content": "A mulher de 48 anos que morreu devido um aneurisma cerebral e estava com Covid-19 ser\u00e1 sepultada nesta quinta-feira, 25. A v\u00edtima foi identificada como Marie Maude Charles, 48 anos.\r\nEla residia no b\u2026 [+637 chars]"
+        },
+        {
+            "source": {
+                "id": "globo",
+                "name": "Globo"
+            },
+            "author": null,
+            "title": "Vinicius comemora boa atua\u00e7\u00e3o e papel de Zidane para melhorar finaliza\u00e7\u00e3o: \"Me ajuda muito\" - globoesporte.com",
+            "description": "Atacante brasileiro abre caminho para vit\u00f3ria do Real Madrid por 2 a 0 em cima do Mallorca e \u00e9 elogiado pela segunda rodada seguida: \"Trabalhei muito para chegar a este momento\"",
+            "url": "https://globoesporte.globo.com/futebol/futebol-internacional/futebol-espanhol/noticia/vinicius-comemora-boa-atuacao-e-papel-de-zidane-para-melhorar-finalizacao-me-ajuda-muito.ghtml",
+            "urlToImage": "https://s2.glbimg.com/67mmUMMf0YNRJOnrVNt7fuELlQI=/1200x/smart/filters:cover():strip_icc()/s02.video.glbimg.com/x720/8649961.jpg",
+            "publishedAt": "2020-06-24T23:16:00Z",
+            "content": "Em 18 minutos de jogo, Vinicius Junior teve uma finaliza\u00e7\u00e3o de perigo, acertou o travess\u00e3o e abriu o placar para o Real Madrid. O atacante brasileiro teve mais uma noite brilhante pela equipe merengu\u2026 [+2235 chars]"
+        },
+        {
+            "source": {
+                "id": "globo",
+                "name": "Globo"
+            },
+            "author": "Washington Luiz",
+            "title": "Lei das Fake news: relat\u00f3rio final mant\u00e9m rastreamento de mensagem em aplicativos - Jornal O Globo",
+            "description": "Projeto obriga usu\u00e1rios a apresentarem documentos para abrir contas em redes sociais; relator retirou multa de R$ 10 milh\u00f5es para candidatos que ridicularizam advers\u00e1rios",
+            "url": "https://oglobo.globo.com/brasil/lei-das-fake-news-relatorio-final-mantem-rastreamento-de-mensagem-em-aplicativos-24497047",
+            "urlToImage": "https://ogimg.infoglobo.com.br/in/24281709-c0c-31f/FT1086A/652/84788567_BSBBrasiliaBrasil25-09-2019Entrevista-com-o-senador-Angelo-Coronel-PSD.jpg",
+            "publishedAt": "2020-06-24T22:56:00Z",
+            "content": "BRAS\u00cdLIA O relat\u00f3rio final do projeto de lei sobre as fake news manteve a proposta que obriga aplicativos como o WhatsApp a guardarem os registros dos envios de mensagens encaminhadas em massa por tr\u2026 [+2965 chars]"
+        },
+        {
+            "source": {
+                "id": "globo",
+                "name": "Globo"
+            },
+            "author": "Aguirre Talento",
+            "title": "PGR diz a Moraes que pode tomar novas medidas contra Sara Giromini e grupo extremista - Jornal O Globo",
+            "description": "Em manifesta\u00e7\u00e3o pela soltura, vice-procurador-geral da Rep\u00fablica afirmou que pris\u00e3o preventiva era cab\u00edvel, mas tornozeleira eletr\u00f4nica e outras cautelares eram suficientes no momento",
+            "url": "https://oglobo.globo.com/brasil/pgr-diz-moraes-que-pode-tomar-novas-medidas-contra-sara-giromini-grupo-extremista-1-24497015",
+            "urlToImage": "https://ogimg.infoglobo.com.br/in/24480560-82f-e9c/FT1086A/652/88484122_PA-Brasilia-DF-15-06-2020-Grupo-dos-300-faz-manifestacao-soltando-fogos-de-artificio-em-fre.jpg",
+            "publishedAt": "2020-06-24T22:48:00Z",
+            "content": "BRAS\u00cdLIA Ao pedir a revoga\u00e7\u00e3o da pris\u00e3o tempor\u00e1ria e aplica\u00e7\u00e3o de medidas restritivas, como uso da tornozeleira eletr\u00f4nica, \u00e0 extremista Sara Fernanda Giromini e outros cinco integrantes do grupo \"30\u2026 [+3540 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Uol.com.br"
+            },
+            "author": "UOL",
+            "title": "N\u00ba de mortes por covid volta a acelerar; casos disparam 22% em uma semana - UOL Not\u00edcias",
+            "description": "O Brasil voltou a registrar uma acelera\u00e7\u00e3o nas mortes por covid-19 e teve um disparo de 22% no n\u00famero de novos casos da doen\u00e7a na \u00faltima semana epidemiol\u00f3gica medida pelo Minist\u00e9rio da Sa\u00fade. De acordo com dados divulgados hoje em entrevista coletiva no P",
+            "url": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/24/n-de-mortes-por-covid-volta-a-acelerar-casos-disparam-22-em-uma-semana.htm",
+            "urlToImage": "https://conteudo.imguol.com.br/c/noticias/ca/2020/05/31/20052020---ala-voltada-para-pacientes-com-coronavirus-em-unidade-de-terapia-intensiva-uti-no-hospital-gilberto-novaes-em-manaus-am-1590951663488_v2_615x300.jpg",
+            "publishedAt": "2020-06-24T22:08:11Z",
+            "content": "O Brasil voltou a registrar uma acelera\u00e7\u00e3o nas mortes por covid-19 e teve um disparo de 22% no n\u00famero de novos casos da doen\u00e7a na \u00faltima semana epidemiol\u00f3gica medida pelo Minist\u00e9rio da Sa\u00fade. De acor\u2026 [+3098 chars]"
+        },
+        {
+            "source": {
+                "id": "globo",
+                "name": "Globo"
+            },
+            "author": null,
+            "title": "Google anuncia que vai excluir atividades de usu\u00e1rios automaticamente depois de 18 meses - G1",
+            "description": "At\u00e9 ent\u00e3o, defini\u00e7\u00e3o padr\u00e3o n\u00e3o previa exclus\u00e3o dos dados e deixava a cargo do usu\u00e1rio escolher se gostaria que informa\u00e7\u00f5es fossem apagadas. Mudan\u00e7a acontece em dados de localiza\u00e7\u00e3o, atividade na web e atividades em aplicativos.",
+            "url": "https://g1.globo.com/economia/tecnologia/noticia/2020/06/24/google-anuncia-que-vai-excluir-dados-de-usuarios-automaticamente-depois-de-18-meses.ghtml",
+            "urlToImage": "https://s2.glbimg.com/CqGQSmBA2o38xolrQE7pm1XdbzA=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/R/O/k785gVRBiT25lv9h5hkg/atividade-web.png",
+            "publishedAt": "2020-06-24T22:08:00Z",
+            "content": "O Google anunciou nesta quarta-feira (24) que vai excluir automaticamente dados de localiza\u00e7\u00e3o, atividade na web e atividades em aplicativos 18 meses ap\u00f3s a data da coleta de cada informa\u00e7\u00e3o. \r\n J\u00e1 e\u2026 [+1546 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Uol.com.br"
+            },
+            "author": null,
+            "title": "Briga Ita\u00fa e XP traz a quest\u00e3o: como confiar em consultor de investimento? - UOL Economia",
+            "description": "O Ita\u00fa fez um v\u00eddeo deixando impl\u00edcito que o modelo de neg\u00f3cios das corretoras gera um conflito de interesses e faz o cliente investidor se expor ao risc",
+            "url": "https://economia.uol.com.br/colunas/econoweek/2020/06/24/itau-e-xp-estao-brigando-mesmo-sendo-socios-entenda-a-confusao.htm",
+            "urlToImage": "https://conteudo.imguol.com.br/c/parceiros/23/2019/11/01/itau-1572634811025_v2_615x300.jpg",
+            "publishedAt": "2020-06-24T21:37:37Z",
+            "content": "O Ita\u00fa fez um v\u00eddeo deixando impl\u00edcito que o modelo de neg\u00f3cios das corretoras gera um conflito de interesses e faz o cliente investidor se expor ao risco sem saber as diferentes comiss\u00f5es que seus a\u2026 [+7420 chars]"
+        },
+        {
+            "source": {
+                "id": "globo",
+                "name": "Globo"
+            },
+            "author": "Gabriel Martins",
+            "title": "Mais de 4 milh\u00f5es de pessoas relataram mais de um sintoma associado \u00e0 Covid-19 em maio, diz IBGE - Jornal O Globo",
+            "description": "Regi\u00e3o Norte \u00e9 a \u00e1rea com mais notifica\u00e7\u00f5es, segundo a pesquisa; maior parte das pessoas procurou atendimento na rede p\u00fablica de sa\u00fade",
+            "url": "https://oglobo.globo.com/sociedade/coronavirus/mais-de-4-milhoes-de-pessoas-relataram-mais-de-um-sintoma-associado-covid-19-em-maio-diz-ibge-24496608",
+            "urlToImage": "https://ogimg.infoglobo.com.br/in/24496613-298-aba/FT1086A/652/covid19.jpg",
+            "publishedAt": "2020-06-24T21:24:00Z",
+            "content": "RIO Em maio deste ano, 4,2 milh\u00f5es de brasileiros, cerca de 2% da popula\u00e7\u00e3o, apresentaram mais de um sintoma relacionado \u00e0 Covid-19, de acordo com a pesquisa Pnad Covid19 do IBGE, divulgada nesta qua\u2026 [+2468 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nsctotal.com.br"
+            },
+            "author": "Pedro Machado",
+            "title": "Covid-19: medidas restritivas em Blumenau ser\u00e3o mais brandas do que se imaginava - NSC Total",
+            "description": "As medidas restritivas para frear o avan\u00e7o da Covid-19 em Blumenau que o prefeito Mario Hildebrandt vai anunciar no in\u00edcio da noite desta quarta-feira",
+            "url": "https://www.nsctotal.com.br/colunistas/pedro-machado/covid-19-medidas-restritivas-em-blumenau-serao-mais-brandas-do-que-se",
+            "urlToImage": "https://files.nsctotal.com.br/s3fs-public/graphql-upload-files/covid_0.jpg?r7GUTmIWR0kNM6YTeeNvF7LDH08iBGXj",
+            "publishedAt": "2020-06-24T21:01:36Z",
+            "content": "As medidas restritivas para frear o avan\u00e7o da Covid-19 em Blumenau que o prefeito Mario Hildebrandt vai anunciar no in\u00edcio da noite desta quarta-feira (24) devem ser mais brandas do que se imaginava.\u2026 [+1190 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ig.com.br"
+            },
+            "author": "iG Carros",
+            "title": "Gasolina muda no Brasil a partir de agosto, diz Petrobras - Arena - iG",
+            "description": "Nova gasolina ser\u00e1 melhor para ficar mais compat\u00edvel com a dos EUA e Europa Saiba mais detalhes sobre a nova gasolina que ser\u00e1 produzida pela Petrobras",
+            "url": "https://carros.ig.com.br/2020-06-24/gasolina-muda-no-brasil-a-partir-de-agosto-diz-petrobras.html",
+            "urlToImage": "https://i0.statig.com.br/bancodeimagens/9q/vw/fv/9qvwfv3n3li677sbvuhfbqx7o.jpg",
+            "publishedAt": "2020-06-24T20:57:00Z",
+            "content": "A Petrobras anuncia que est\u00e1 pronta para produzir em grande escala a nova gasolina, que chega para oferecer melhor qualidade, a partir de um maior n\u00edvel de octanagem, conforme a resolu\u00e7\u00e3o 807/20 da A\u2026 [+2841 chars]"
+        },
+        {
+            "source": {
+                "id": "globo",
+                "name": "Globo"
+            },
+            "author": null,
+            "title": "C\u00f3digo de Tr\u00e2nsito: C\u00e2mara muda projeto e fixa em 10 anos validade da CNH de motorista profissional - G1",
+            "description": "Texto-base do projeto, aprovado pelos parlamentares nesta ter\u00e7a-feira (23), determinava que o documento para condutores nessa faixa et\u00e1ria fosse renovado a cada cinco anos.",
+            "url": "https://g1.globo.com/politica/noticia/2020/06/24/codigo-de-transito-camara-muda-projeto-e-fixa-em-10-anos-validade-da-cnh-de-motorista-profissional.ghtml",
+            "urlToImage": "https://s2.glbimg.com/zddNTfSkb75R4U9wjC4DmcCM1zo=/1200x/smart/filters:cover():strip_icc()/s01.video.glbimg.com/x720/8648852.jpg",
+            "publishedAt": "2020-06-24T20:39:00Z",
+            "content": "A C\u00e2mara dos Deputados aprovou nesta quarta-feira (24) uma mudan\u00e7a no projeto que altera o C\u00f3digo de Tr\u00e2nsito Brasileiro (CTB) a fim de permitir que a Carteira Nacional de Habilita\u00e7\u00e3o (CNH) de motori\u2026 [+9883 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Nuvem de poeira viaja 10 mil km do Saara para as Am\u00e9ricas - Record News",
+            "description": "Uma gigantesca mancha escura cobre h\u00e1 dias parte do Oceano Atl\u00e2ntico. \u00c9 uma nuvem de ar do Saara, uma massa de ar muito seco e com poeira do deserto africano...",
+            "url": "https://www.youtube.com/watch?v=voc3kR_F-H0",
+            "urlToImage": "https://i.ytimg.com/vi/voc3kR_F-H0/maxresdefault.jpg",
+            "publishedAt": "2020-06-24T20:21:36Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ig.com.br"
+            },
+            "author": "Jo\u00e3o Vitor Campos e Ven\u00ea Casagrande",
+            "title": "Flamengo envia contranotifica\u00e7\u00e3o para Globo e diz 'que n\u00e3o vai tolerar amea\u00e7as' - O Dia",
+            "description": "Emissora desconsidera nova MP e diz que clube n\u00e3o tem direito de transmiss\u00e3o de jogo",
+            "url": "https://odia.ig.com.br/esporte/flamengo/2020/06/5939717-flamengo-envia-contranotificacao-para-globo-e-diz--que-nao-vai-tolerar-ameacas.html",
+            "urlToImage": "https://odia.ig.com.br/_midias/jpg/2020/06/24/700x470/1_0690f1be_0253_440d_9e60_08617390ab69-17879347.jpg",
+            "publishedAt": "2020-06-24T19:56:43Z",
+            "content": "Por\r\n Jo\u00e3o Vitor Campos e Ven\u00ea Casagrande\r\nPublicado \u00e0s 15h57 de 24/06/2020 \r\n- Atualizado \u00e0s 16h17 de 24/06/2020"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tribunapr.com.br"
+            },
+            "author": "Reda\u00e7\u00e3o / Tribuna do Paran\u00e1",
+            "title": "Vacina\u00e7\u00e3o contra a gripe acaba na pr\u00f3xima ter\u00e7a em Curitiba - Tribuna do Paran\u00e1",
+            "description": "Confira na Tribuna onde se vacinar contra a gripe em Curitiba na reta final da campanha que acaba ter\u00e7a-feira (30).",
+            "url": "https://www.tribunapr.com.br/noticias/curitiba-regiao/vacinacao-da-gripe-acaba-na-proxima-terca-em-curitiba-veja-onde-se-vacinar/",
+            "urlToImage": "https://www.tribunapr.com.br/wp-content/uploads/2020/06/24165208/vacina-1.jpg",
+            "publishedAt": "2020-06-24T19:55:00Z",
+            "content": "A campanha de vacina\u00e7\u00e3o contra a gripe entrou em seus \u00faltimos dias em Curitiba. De acordo com a prefeitura de Curitiba, quem faz parte dos p\u00fablicos priorit\u00e1rios e ainda n\u00e3o tomou a vacina contra a gr\u2026 [+4277 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Superesportes.com.br"
+            },
+            "author": "Superesportes, Superesportes",
+            "title": "Revela\u00e7\u00e3o chegando: Atl\u00e9tico oficializa a contrata\u00e7\u00e3o do atacante Marrony - Superesportes",
+            "description": "Jovem de 21 anos assina contrato de cinco temporadas com o Galo",
+            "url": "https://www.mg.superesportes.com.br/app/noticias/futebol/atletico-mg/2020/06/24/noticia_atletico_mg,3852030/atletico-oficializa-a-contratacao-do-atacante-marrony.shtml",
+            "urlToImage": "https://i.superesportes.com.br/BjdCcKqgtA3CeUtpgEboCxYqshA=/smart/imgsapp.mg.superesportes.com.br/app/noticia_126420360808/2020/06/24/3852030/20200624170143967785e.jpeg",
+            "publishedAt": "2020-06-24T19:52:00Z",
+            "content": "O Atl\u00e9tico finalmente oficializou a contrata\u00e7\u00e3o do jovem atacante Marrony, de 21 anos. O jogador, comprado junto ao Vasco, assina contrato por cinco temporadas com o alvinegro. A apresenta\u00e7\u00e3o acontec\u2026 [+890 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Istoe.com.br"
+            },
+            "author": "AFP",
+            "title": "Bayer anuncia acordo de US$ 10 bilh\u00f5es para encerrar a\u00e7\u00f5es envolvendo herbicida - Istoe",
+            "description": "A gigante alem\u00e3 do setor de qu\u00edmica Bayer anunciou nesta quarta-feira um acordo de mais de 10 bilh\u00f5es de d\u00f3lares para indenizar dezenas de milhares de demandantes nos Estados Unidos que tiveram c\u00e2ncer e atribuem a doen\u00e7a ao herbicida Roundup.+ Chega ao fim pr\u2026",
+            "url": "https://istoe.com.br/bayer-anuncia-acordo-de-us-10-bilhoes-para-encerrar-acoes-envolvendo-herbicida/",
+            "urlToImage": "https://cdn-istoe-ssl.akamaized.net/wp-content/uploads/sites/14/2020/06/434a152786ffc3bc861764d45be6d93265466623-1.jpg",
+            "publishedAt": "2020-06-24T19:45:00Z",
+            "content": "A gigante alem\u00e3 do setor de qu\u00edmica Bayer anunciou nesta quarta-feira um acordo de mais de 10 bilh\u00f5es de d\u00f3lares para indenizar dezenas de milhares de demandantes nos Estados Unidos que tiveram c\u00e2nce\u2026 [+1656 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Canaltech.com.br"
+            },
+            "author": "Nathan Vieira",
+            "title": "COVID-19 | OMS estima que haver\u00e1 190.000 mortos na \u00c1frica: \"Est\u00e1 s\u00f3 come\u00e7ando\" - Canaltech",
+            "description": "A \u00c1frica \u00e9 um dos continentes menos afetados pela pandemia. S\u00e3o 300.000 casos e 7.500 mortos. Enquanto isso, pesquisadores na \u00c1frica do Sul anunciaram que o primeiro teste de vacina contra a COVID-19 vai come\u00e7ar nesta semana",
+            "url": "https://canaltech.com.br/saude/covid-19-oms-estima-que-havera-190000-mortos-na-africa-esta-so-comecando-166998/",
+            "urlToImage": "https://timeline.canaltech.com.br/351804.700/covid-19-oms-estima-que-havera-190000-mortos-na-africa-esta-so-comecando-166998.jpg",
+            "publishedAt": "2020-06-24T19:39:30Z",
+            "content": "Em meio a essa pandemia, a \u00c1frica ainda \u00e9 um dos continentes menos afetados, uma vez que, por enquanto, conta com 300.000 casos e 7.500 mortos. No entanto, no \u00faltimo domingo\u00a0(21),\u00a0Richard Mihigo, dir\u2026 [+1816 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Istoe.com.br"
+            },
+            "author": "Da Reda\u00e7\u00e3o",
+            "title": "Chega ao fim processo de pai de Cristiano Ara\u00fajo contra Zeca Camargo - Istoe",
+            "description": "O cantor Cristiano Ara\u00fajo, v\u00edtima de um acidente de carro, morreu aos 29 anos em 2015. Logo ap\u00f3s a not\u00edcia, o apresentador Zeca Camargo fez uma declara\u00e7\u00e3o em uma de suas cr\u00f4nicas, criticando o luto pela morte do cantor. Ele foi processado pelo pai do m\u00fasico, \u2026",
+            "url": "https://istoe.com.br/chega-ao-fim-processo-de-pai-de-cristiano-araujo-contra-zeca-camargo/",
+            "urlToImage": "https://cdn-istoe-ssl.akamaized.net/wp-content/uploads/sites/14/2020/06/zeca.png",
+            "publishedAt": "2020-06-24T19:27:00Z",
+            "content": "O cantor Cristiano Ara\u00fajo, v\u00edtima de um acidente de carro, morreu aos 29 anos em 2015. Logo ap\u00f3s a not\u00edcia, o apresentador Zeca Camargo fez uma declara\u00e7\u00e3o em uma de suas cr\u00f4nicas, criticando o luto p\u2026 [+1637 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Uol.com.br"
+            },
+            "author": "https://www.facebook.com/rfischmann",
+            "title": "V\u00eddeo: a\u00e7\u00f5es m\u00e1gicas tocando na traseira do iPhone no iOS 14 - MacMagazine",
+            "description": "N\u00f3s j\u00e1 falamos dessa novidade do iOS 14 num dos nossos compilados aqui no site, mas como tivemos um feedback positivo de leitores, resolvemos fazer um v\u00eddeo para demonstr\u00e1-la. Falo...",
+            "url": "https://macmagazine.uol.com.br/post/2020/06/24/video-acoes-magicas-tocando-na-traseira-do-iphone-no-ios-14/",
+            "urlToImage": "https://macmagazine.uol.com.br/wp-content/uploads/2020/06/24-traseira.jpg",
+            "publishedAt": "2020-06-24T19:17:24Z",
+            "content": "N\u00f3s j\u00e1 falamos dessa novidade do iOS 14 num dos nossos compilados aqui no site, mas como tivemos um feedback positivo de leitores, resolvemos fazer um v\u00eddeo para demonstr\u00e1-la.\r\nFalo do recurso Tocar \u2026 [+570 chars]"
+        }
+    ]
+}
