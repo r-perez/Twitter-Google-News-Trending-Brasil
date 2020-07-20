@@ -14,14 +14,14 @@ newsapi = NewsApiClient(api_key='2de5d157d448424db4574be570b492d4')
 #                                          )
 
 everything = newsapi.get_everything(
-    q='Paulo Guedes',
-    from_param='2020-07-08',
-    to='2020-07-10',
+    q="(greve dos apps OR greve dos aplicativos)",
+    from_param='2020-06-20',
+    to='2020-07-20',
     sort_by= 'relevancy')
 
 """ with open('./google-news/googlenews' + timestr + '.json','w') as f:
     json.dump(top_headlines,f,indent=4) """
 
-with open('./google-news/guedes' + '.json','w') as f:
+with open('./google-news/greve_dos_apps' + '.json','w') as f:
     json.dump(everything,f,indent=4)
 
